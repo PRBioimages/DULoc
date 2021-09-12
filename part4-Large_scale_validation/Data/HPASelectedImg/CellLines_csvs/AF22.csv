@@ -1,0 +1,22 @@
+Img_Id,Gene,Gene name,Reliability,Cell Line,Location,Main,Addition
+1593_C3_5,ENSG00000010810,FYN,enhanced,AF22,plasma membrane;cytosol,plasma membrane,cytosol
+1595_H11_3,ENSG00000044459,CNTLN,approved,AF22,centrosome;cytosol;nucleoplasm,centrosome,cytosol;nucleoplasm
+1785_A2_2,ENSG00000082556,OPRK1,supported,AF22,plasma membrane;cytosol;nucleoplasm,plasma membrane,cytosol;nucleoplasm
+1783_C5_2,ENSG00000106278,PTPRZ1,approved,AF22,cytosol;vesicles,cytosol,vesicles
+1786_A5_9,ENSG00000106443,PHF14,approved,AF22,vesicles;cytosol;nucleoplasm,vesicles,cytosol;nucleoplasm
+1595_A8_2,ENSG00000118432,CNR1,supported,AF22,plasma membrane;actin filaments,plasma membrane,actin filaments
+1784_B6_3,ENSG00000121570,DPPA4,approved,AF22,nucleoli;nucleoli rim;cytosol;mitotic chromosome;nucleoplasm,nucleoli;nucleoli rim,cytosol;mitotic chromosome;nucleoplasm
+1783_C6_1,ENSG00000131914,LIN28A,supported,AF22,cytosol;nucleoli;rods & rings,cytosol,nucleoli;rods & rings
+1595_H2_2,ENSG00000134152,KATNBL1,supported,AF22,midbody;mitotic spindle;cleavage furrow;nucleoplasm,midbody;mitotic spindle,cleavage furrow;nucleoplasm
+1784_C6_2,ENSG00000134245,WNT2B,approved,AF22,vesicles;nucleoplasm,vesicles,nucleoplasm
+1895_E10_13,ENSG00000135048,TMEM2,supported,AF22,plasma membrane;vesicles,plasma membrane,vesicles
+1786_F10_2,ENSG00000136099,PCDH8,uncertain,AF22,golgi apparatus;cytosol,golgi apparatus,cytosol
+1786_E2_2,ENSG00000145721,LIX1,approved,AF22,cytosol;cytokinetic bridge;vesicles,cytosol,cytokinetic bridge;vesicles
+1595_C10_2,ENSG00000147145,LPAR4,supported,AF22,plasma membrane;nuclear bodies;vesicles,plasma membrane,nuclear bodies;vesicles
+1687_B1_1,ENSG00000152154,TMEM178A,approved,AF22,vesicles;nucleoplasm,vesicles,nucleoplasm
+1786_D4_6,ENSG00000152661,GJA1,supported,AF22,cell junctions;vesicles;nucleoplasm,cell junctions;vesicles,nucleoplasm
+1895_D9_3,ENSG00000154134,ROBO3,approved,AF22,plasma membrane;vesicles,plasma membrane,vesicles
+1786_D2_3,ENSG00000181007,ZFP82,approved,AF22,cytosol;nucleoplasm;nuclear membrane,cytosol;nucleoplasm,nuclear membrane
+1786_F1_2,ENSG00000184588,PDE4B,approved,AF22,golgi apparatus;cytosol,golgi apparatus,cytosol
+1595_G5_2,ENSG00000185274,GALNT17,uncertain,AF22,golgi apparatus;nucleoplasm;nuclear bodies;nucleoli,golgi apparatus;nucleoplasm,nuclear bodies;nucleoli
+1595_G4_3,ENSG00000197928,ZNF677,approved,AF22,nucleoplasm;centrosome,nucleoplasm,centrosome

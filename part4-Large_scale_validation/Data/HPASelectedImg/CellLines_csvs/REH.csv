@@ -1,0 +1,23 @@
+Img_Id,Gene,Gene name,Reliability,Cell Line,Location,Main,Addition
+1889_C4_3,ENSG00000007312,CD79B,supported,REH,plasma membrane;cytosol;nucleoplasm,plasma membrane,cytosol;nucleoplasm
+1779_D1_3,ENSG00000072832,CRMP1,supported,REH,centrosome;cytosol,centrosome,cytosol
+1778_H1_6,ENSG00000100721,TCL1A,enhanced,REH,cytosol;endoplasmic reticulum;nucleoplasm,cytosol;endoplasmic reticulum,nucleoplasm
+1778_B10_5,ENSG00000105737,GRIK5,supported,REH,plasma membrane;nucleoplasm,plasma membrane,nucleoplasm
+1817_H8_2,ENSG00000109458,GAB1,approved,REH,cytosol;plasma membrane;nucleoli fibrillar center,cytosol;plasma membrane,nucleoli fibrillar center
+1817_D5_1,ENSG00000114126,TFDP2,supported,REH,nucleoplasm;mitotic spindle;vesicles,nucleoplasm,mitotic spindle;vesicles
+1817_A4_6,ENSG00000118513,MYB,supported,REH,nucleoplasm;cytosol,nucleoplasm,cytosol
+1778_G2_1,ENSG00000120280,CXorf21,approved,REH,nucleoplasm;vesicles,nucleoplasm,vesicles
+1779_F9_2,ENSG00000128191,DGCR8,supported,REH,nucleoplasm;cytosol;nuclear bodies,nucleoplasm,cytosol;nuclear bodies
+1779_A5_6,ENSG00000137265,IRF4,supported,REH,nucleoplasm;cytosol,nucleoplasm,cytosol
+1779_A9_4,ENSG00000146094,DOK3,supported,REH,plasma membrane;cytokinetic bridge;cytosol;nucleoplasm,plasma membrane,cytokinetic bridge;cytosol;nucleoplasm
+1817_G1_1,ENSG00000162373,BEND5,approved,REH,nuclear speckles;cytosol,nuclear speckles,cytosol
+1889_B2_2,ENSG00000167525,PROCA1,approved,REH,nuclear membrane;golgi apparatus,nuclear membrane,golgi apparatus
+1817_F8_2,ENSG00000168286,THAP11,supported,REH,nucleoplasm;cytosol,nucleoplasm,cytosol
+1779_A10_3,ENSG00000168916,ZNF608,approved,REH,nucleoplasm;mitochondria,nucleoplasm,mitochondria
+1779_A2_2,ENSG00000170549,IRX1,approved,REH,golgi apparatus;nucleoplasm,golgi apparatus,nucleoplasm
+1677_B11_1,ENSG00000174123,TLR10,approved,REH,cytosol;centrosome,cytosol,centrosome
+1677_B1_2,ENSG00000184709,LRRC26,supported,REH,plasma membrane;nucleoli fibrillar center,plasma membrane,nucleoli fibrillar center
+1779_C1_2,ENSG00000185811,IKZF1,supported,REH,nucleoplasm;cytosol,nucleoplasm,cytosol
+1778_A7_2,ENSG00000186710,CFAP73,approved,REH,nucleoli fibrillar center;nucleoplasm;vesicles,nucleoli fibrillar center,nucleoplasm;vesicles
+1676_E9_3,ENSG00000258588,TRIM6-TRIM34,uncertain,REH,centrosome;nucleoli,centrosome,nucleoli
+1676_E9_3,ENSG00000258659,TRIM34,approved,REH,centrosome;nucleoli,centrosome,nucleoli

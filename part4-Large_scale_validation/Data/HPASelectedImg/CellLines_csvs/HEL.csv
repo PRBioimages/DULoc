@@ -1,0 +1,89 @@
+Img_Id,Gene,Gene name,Reliability,Cell Line,Location,Main,Addition
+1813_F8_24_cr59f33e96be102,ENSG00000015285,WAS,approved,HEL,plasma membrane;cytosol,plasma membrane,cytosol
+1925_F6_6_cr5cd56cafc9737,ENSG00000018280,SLC11A1,approved,HEL,mitochondria;nucleoli,mitochondria,nucleoli
+1813_E8_4_cr59f33fe02e648,ENSG00000033122,LRRC7,supported,HEL,cytosol;plasma membrane;centrosome;nucleoplasm,cytosol;plasma membrane,centrosome;nucleoplasm
+1877_G9_27_cr5b755a573ef67,ENSG00000066294,CD84,enhanced,HEL,plasma membrane;vesicles,plasma membrane,vesicles
+1847_E1_6,ENSG00000070526,ST6GALNAC1,approved,HEL,golgi apparatus;nucleoplasm,golgi apparatus,nucleoplasm
+1770_A10_6,ENSG00000072182,ASIC4,approved,HEL,centriolar satellite;golgi apparatus;nucleoplasm;plasma membrane,centriolar satellite;golgi apparatus,nucleoplasm;plasma membrane
+1812_F10_5_cr59ef13a97c5ff,ENSG00000077238,IL4R,approved,HEL,nucleoplasm;plasma membrane;centriolar satellite,nucleoplasm;plasma membrane,centriolar satellite
+1813_A1_31,ENSG00000082074,FYB1,approved,HEL,plasma membrane;nucleoplasm,plasma membrane,nucleoplasm
+1961_G12_3,ENSG00000086288,NME8,supported,HEL,cytosol;nuclear speckles,cytosol,nuclear speckles
+1825_A5_31_cr5ac33e6e0739c,ENSG00000088325,TPX2,supported,HEL,nucleoplasm;cytokinetic bridge;mitotic spindle,nucleoplasm,cytokinetic bridge;mitotic spindle
+1825_F1_12_cr5abb7f3b92f0b,ENSG00000100351,GRAP2,supported,HEL,cytosol;nucleoplasm;plasma membrane,cytosol;nucleoplasm,plasma membrane
+1925_F11_16_cr5cd55732c1b67,ENSG00000103876,FAH,approved,HEL,cytosol;nucleoplasm,cytosol,nucleoplasm
+1848_F10_26_cr5abb8def07051,ENSG00000104894,CD37,approved,HEL,golgi apparatus;plasma membrane,golgi apparatus,plasma membrane
+1877_B5_10_cr5b76a7b4a1565,ENSG00000110665,C11orf21,approved,HEL,nucleoplasm;cytosol,nucleoplasm,cytosol
+1925_C12_8_cr5ed0fca081eb8,ENSG00000115053,NCL,enhanced,HEL,nucleoli;nucleoli rim;nucleoplasm;mitotic chromosome,nucleoli;nucleoli rim;nucleoplasm,mitotic chromosome
+1825_H1_9_cr5abb8bce94998,ENSG00000116852,KIF21B,approved,HEL,plasma membrane;cytosol;mitotic spindle,plasma membrane,cytosol;mitotic spindle
+1825_E1_28_cr5abb7d728bca3,ENSG00000117400,MPL,supported,HEL,plasma membrane;nuclear membrane,plasma membrane,nuclear membrane
+1847_C1_18_cr5aba08811f225,ENSG00000118640,VAMP8,approved,HEL,golgi apparatus;plasma membrane;nucleoplasm,golgi apparatus;plasma membrane,nucleoplasm
+1848_F2_6_cr5abb8a9b97446,ENSG00000122122,SASH3,approved,HEL,plasma membrane;nuclear bodies;nucleoplasm,plasma membrane,nuclear bodies;nucleoplasm
+1925_C7_12_cr5cd56c4e71b5c,ENSG00000123329,ARHGAP9,approved,HEL,plasma membrane;cell junctions,plasma membrane,cell junctions
+1825_D11_17_cr5abb90119b306,ENSG00000123999,INHA,approved,HEL,vesicles;golgi apparatus,vesicles,golgi apparatus
+1847_C7_63,ENSG00000124780,KCNK17,approved,HEL,cytosol;plasma membrane;nucleoplasm,cytosol;plasma membrane,nucleoplasm
+1848_E4_23_cr5ac31aca4692c,ENSG00000125257,ABCC4,approved,HEL,nucleoli;plasma membrane;golgi apparatus,nucleoli;plasma membrane,golgi apparatus
+1877_A8_18_cr5b76d05951b71,ENSG00000126264,HCST,supported,HEL,golgi apparatus;plasma membrane;vesicles,golgi apparatus;plasma membrane,vesicles
+1812_A11_6_cr59edfcc0db1f7,ENSG00000128731,HERC2,supported,HEL,cytosol;plasma membrane,cytosol,plasma membrane
+1825_C3_18_cr5ac32ec648429,ENSG00000130656,HBZ,approved,HEL,cytosol;nucleoplasm,cytosol,nucleoplasm
+1827_C5_29_cr5ac61e5e8eaa6,ENSG00000130830,MPP1,supported,HEL,plasma membrane;centriolar satellite,plasma membrane,centriolar satellite
+1770_D2_3,ENSG00000131183,SLC34A1,approved,HEL,nuclear speckles;plasma membrane;cytosol;mitotic spindle;nucleoplasm,nuclear speckles;plasma membrane,cytosol;mitotic spindle;nucleoplasm
+1925_F1_10_cr5cd5395e6ce56,ENSG00000131375,CAPN7,approved,HEL,cytosol;centrosome,cytosol,centrosome
+1961_E1_4,ENSG00000136286,MYO1G,supported,HEL,plasma membrane;nucleoplasm,plasma membrane,nucleoplasm
+1848_H8_32,ENSG00000140795,MYLK3,approved,HEL,nucleoplasm;vesicles,nucleoplasm,vesicles
+1812_E9_30_cr59ef2ca6d04af,ENSG00000140853,NLRC5,supported,HEL,cytosol;centrosome,cytosol,centrosome
+1812_D4_32,ENSG00000141480,ARRB2,supported,HEL,plasma membrane;cytosol;nucleoplasm,plasma membrane,cytosol;nucleoplasm
+1925_E9_7_cr5cd561ee95db1,ENSG00000143457,GOLPH3L,supported,HEL,golgi apparatus;cytosol,golgi apparatus,cytosol
+1848_A2_22_cr5ab941683094c,ENSG00000143851,PTPN7,supported,HEL,cytosol;microtubules;mitotic spindle,cytosol,microtubules;mitotic spindle
+1848_C2_21_cr5abb82763a162,ENSG00000145949,MYLK4,approved,HEL,golgi apparatus;nucleoli;vesicles,golgi apparatus,nucleoli;vesicles
+1848_G6_32,ENSG00000147613,PSKH2,approved,HEL,nucleoplasm;cytosol;nuclear bodies,nucleoplasm,cytosol;nuclear bodies
+1812_B1_11_cr59eddcf0a2885,ENSG00000149231,CCDC82,approved,HEL,nucleoplasm;cytosol;nuclear bodies,nucleoplasm,cytosol;nuclear bodies
+1847_G4_62,ENSG00000149516,MS4A3,approved,HEL,golgi apparatus;cytosol;vesicles,golgi apparatus,cytosol;vesicles
+1847_C10_42_cr5abb48a309a8f,ENSG00000150637,CD226,supported,HEL,plasma membrane;centriolar satellite;nucleoplasm,plasma membrane,centriolar satellite;nucleoplasm
+1812_D2_26_cr59edf98eb301b,ENSG00000151276,MAGI1,supported,HEL,cell junctions;nucleoplasm,cell junctions,nucleoplasm
+1813_C4_31,ENSG00000154646,TMPRSS15,approved,HEL,plasma membrane;nucleoli,plasma membrane,nucleoli
+1770_C7_2,ENSG00000155307,SAMSN1,approved,HEL,plasma membrane;nucleoplasm,plasma membrane,nucleoplasm
+1846_D12_16_cr5ab92b8541b9d,ENSG00000156966,B3GNT7,approved,HEL,golgi apparatus;cytosol;mitotic spindle,golgi apparatus,cytosol;mitotic spindle
+1770_B2_3,ENSG00000160185,UBASH3A,supported,HEL,nucleoplasm;golgi apparatus,nucleoplasm,golgi apparatus
+1813_B3_6_cr59f2fb202d9b7,ENSG00000161640,SIGLEC11,uncertain,HEL,golgi apparatus;nucleoplasm,golgi apparatus,nucleoplasm
+1848_G4_13_cr5ac31c0972d1a,ENSG00000161911,TREML1,approved,HEL,cytosol;nuclear speckles;golgi apparatus;plasma membrane,cytosol;nuclear speckles,golgi apparatus;plasma membrane
+1848_D5_31,ENSG00000162654,GBP4,supported,HEL,golgi apparatus;plasma membrane,golgi apparatus,plasma membrane
+1847_F7_62,ENSG00000163072,NOSTRIN,approved,HEL,cytosol;vesicles,cytosol,vesicles
+1825_A1_34,ENSG00000163106,HPGDS,approved,HEL,cytosol;vesicles;nucleoplasm,cytosol;vesicles,nucleoplasm
+1813_D4_33,ENSG00000163600,ICOS,approved,HEL,plasma membrane;actin filaments,plasma membrane,actin filaments
+1825_G10_5_cr5ac32dec139e3,ENSG00000163751,CPA3,approved,HEL,golgi apparatus;nucleoplasm,golgi apparatus,nucleoplasm
+1925_A12_24_cr5cd5546812320,ENSG00000163827,LRRC2,approved,HEL,nucleoplasm;cytosol;nuclear bodies,nucleoplasm,cytosol;nuclear bodies
+1847_E4_61,ENSG00000164010,ERMAP,approved,HEL,golgi apparatus;cytosol,golgi apparatus,cytosol
+1877_F5_34,ENSG00000164512,ANKRD55,approved,HEL,nuclear speckles;nucleoplasm;cytosol,nuclear speckles;nucleoplasm,cytosol
+1825_G7_50_cr5bb4856a8a0f1,ENSG00000165480,SKA3,supported,HEL,centrosome;mitotic spindle;cytosol,centrosome;mitotic spindle,cytosol
+1961_D3_4,ENSG00000166573,GALR1,approved,HEL,plasma membrane;nucleoplasm,plasma membrane,nucleoplasm
+1877_C7_1_cr5b76d518dc1f6,ENSG00000166946,CCNDBP1,enhanced,HEL,nucleoplasm;nuclear bodies,nucleoplasm,nuclear bodies
+1770_G1_2,ENSG00000166961,MS4A15,approved,HEL,plasma membrane;cytosol,plasma membrane,cytosol
+1877_H1_36,ENSG00000167081,PBX3,approved,HEL,nucleoplasm;cytosol;nuclear bodies,nucleoplasm,cytosol;nuclear bodies
+1877_E4_31,ENSG00000167850,CD300C,uncertain,HEL,golgi apparatus;mitochondria;vesicles,golgi apparatus,mitochondria;vesicles
+1925_G7_8_cr5ddd0952430b9,ENSG00000168538,TRAPPC11,approved,HEL,cytosol;vesicles,cytosol,vesicles
+2007_A9_1,ENSG00000168995,SIGLEC7,approved,HEL,plasma membrane;vesicles,plasma membrane,vesicles
+1846_B6_10_cr5abb6c870beab,ENSG00000170325,PRDM10,supported,HEL,nucleoplasm;nucleoli fibrillar center;vesicles,nucleoplasm,nucleoli fibrillar center;vesicles
+1825_E2_31,ENSG00000171777,RASGRP4,supported,HEL,cytosol;nucleoplasm;plasma membrane,cytosol;nucleoplasm,plasma membrane
+1846_A2_13_cr5ab931564bd66,ENSG00000171843,MLLT3,supported,HEL,nucleoplasm;cytosol,nucleoplasm,cytosol
+1961_C5_1,ENSG00000172349,IL16,supported,HEL,nuclear speckles;cytosol;plasma membrane,nuclear speckles,cytosol;plasma membrane
+1848_B9_28_cr5bb74d40e4039,ENSG00000172578,KLHL6,approved,HEL,centriolar satellite;microtubules;mitotic spindle;plasma membrane,centriolar satellite,microtubules;mitotic spindle;plasma membrane
+1961_H7_5,ENSG00000181322,NME9,approved,HEL,cytosol;centriolar satellite,cytosol,centriolar satellite
+1848_H2_18_cr5abb8cae97a2e,ENSG00000182732,RGS6,approved,HEL,nucleoplasm;nucleoli;vesicles,nucleoplasm,nucleoli;vesicles
+1848_B5_33,ENSG00000183690,EFHC2,approved,HEL,nucleoli fibrillar center;nucleoplasm;plasma membrane,nucleoli fibrillar center;nucleoplasm,plasma membrane
+1847_C11_43_cr5abb400a323ce,ENSG00000185052,SLC24A3,approved,HEL,golgi apparatus;cytosol,golgi apparatus,cytosol
+1825_E6_47_cr5ac349555a69b,ENSG00000187266,EPOR,supported,HEL,plasma membrane;nuclear speckles,plasma membrane,nuclear speckles
+1825_B9_58_cr5ac33bed9f539,ENSG00000187944,C2orf66,uncertain,HEL,nucleoplasm;cytosol,nucleoplasm,cytosol
+1877_D2_31,ENSG00000188175,HEPACAM2,supported,HEL,mitotic spindle;vesicles;nucleoplasm,mitotic spindle;vesicles,nucleoplasm
+1848_C11_12_cr5abb8a20c9b63,ENSG00000197993,KEL,supported,HEL,plasma membrane;nucleoplasm,plasma membrane,nucleoplasm
+1825_B7_40_cr5ac34a3bdedac,ENSG00000198028,ZNF560,enhanced,HEL,nucleoplasm;nuclear speckles,nucleoplasm,nuclear speckles
+1848_D3_32,ENSG00000204610,TRIM15,approved,HEL,cytosol;centriolar satellite,cytosol,centriolar satellite
+1825_B1_11_cr5afa870716d27,ENSG00000205744,DENND1C,approved,HEL,cytosol;centrosome;nucleoplasm,cytosol,centrosome;nucleoplasm
+1877_B3_30_cr5b743c35c5e18,ENSG00000213316,LTC4S,approved,HEL,nucleoplasm;cytosol;endoplasmic reticulum,nucleoplasm,cytosol;endoplasmic reticulum
+1770_C1_1,ENSG00000213658,LAT,supported,HEL,plasma membrane;golgi apparatus,plasma membrane,golgi apparatus
+1961_H11_3,ENSG00000215475,SIAH3,supported,HEL,mitochondria;nucleoplasm,mitochondria,nucleoplasm
+1961_B1_4,ENSG00000254415,SIGLEC14,uncertain,HEL,vesicles;plasma membrane,vesicles,plasma membrane
+1925_B8_29_cr5cd568559f340,ENSG00000269313,MAGIX,approved,HEL,nucleoplasm;mitotic chromosome,nucleoplasm,mitotic chromosome
+1848_H1_16_cr5abb7fd6afbee,ENSG00000276231,PIK3R6,approved,HEL,golgi apparatus;nucleoplasm;cytosol;plasma membrane,golgi apparatus;nucleoplasm,cytosol;plasma membrane
+1848_A6_31,ENSG00000283632,EXOC3L2,approved,HEL,vesicles;cytosol;golgi apparatus;nucleoplasm,vesicles,cytosol;golgi apparatus;nucleoplasm
+1812_D5_18_cr59ef36b33f876,ENSG00000284755,FAM212B,uncertain,HEL,nucleoplasm;vesicles;nucleoli,nucleoplasm;vesicles,nucleoli
+1925_E8_21_cr5cd5668ec1747,ENSG00000285162,AC004593.3,uncertain,HEL,nucleoplasm;nuclear bodies,nucleoplasm,nuclear bodies

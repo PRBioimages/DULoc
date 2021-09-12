@@ -1,0 +1,126 @@
+Img_Id,Gene,Gene name,Reliability,Cell Line,Location,Main,Addition
+1162_C12_2,ENSG00000048740,CELF2,supported,RH-30,nucleoplasm;midbody ring;vesicles,nucleoplasm,midbody ring;vesicles
+1403_F4_2,ENSG00000050130,JKAMP,approved,RH-30,vesicles;nucleoplasm,vesicles,nucleoplasm
+1403_F9_3,ENSG00000058804,NDC1,supported,RH-30,nuclear membrane;actin filaments;plasma membrane,nuclear membrane,actin filaments;plasma membrane
+1768_B5_21_cr594bb3dbb70fa,ENSG00000060709,RIMBP2,approved,RH-30,nucleoplasm;cytosol;golgi apparatus,nucleoplasm,cytosol;golgi apparatus
+1967_C10_2,ENSG00000064726,BTBD1,supported,RH-30,cytoplasmic bodies;nucleoplasm,cytoplasmic bodies,nucleoplasm
+1609_A10_2,ENSG00000070778,PTPN21,approved,RH-30,cytosol;plasma membrane;centriolar satellite;golgi apparatus;nucleoplasm,cytosol;plasma membrane,centriolar satellite;golgi apparatus;nucleoplasm
+1838_E2_32,ENSG00000071203,MS4A12,approved,RH-30,cytosol;plasma membrane;endoplasmic reticulum;golgi apparatus;nucleoli,cytosol;plasma membrane,endoplasmic reticulum;golgi apparatus;nucleoli
+1165_H4_4,ENSG00000072133,RPS6KA6,supported,RH-30,mitochondria;nucleoplasm;nucleoli,mitochondria;nucleoplasm,nucleoli
+1914_E6_30_cr5c87785c33699,ENSG00000074201,CLNS1A,supported,RH-30,cytosol;microtubules;nucleoplasm,cytosol,microtubules;nucleoplasm
+1494_B2_4,ENSG00000075218,GTSE1,approved,RH-30,centrosome;plasma membrane,centrosome,plasma membrane
+1151_C10_2,ENSG00000082641,NFE2L1,approved,RH-30,nucleoplasm;cytosol,nucleoplasm,cytosol
+1150_F7_4,ENSG00000092607,TBX15,approved,RH-30,nucleoplasm;centrosome,nucleoplasm,centrosome
+1150_G11_3,ENSG00000099260,PALMD,supported,RH-30,actin filaments;focal adhesion sites;plasma membrane,actin filaments,focal adhesion sites;plasma membrane
+1401_B4_2,ENSG00000102226,USP11,supported,RH-30,nucleoplasm;cytosol,nucleoplasm,cytosol
+1165_B8_1,ENSG00000102383,ZDHHC15,approved,RH-30,nuclear speckles;cytosol,nuclear speckles,cytosol
+1177_D8_1,ENSG00000106733,NMRK1,approved,RH-30,cytosol;nucleoplasm;centrosome,cytosol;nucleoplasm,centrosome
+1768_G8_23_cr5950cacec9481,ENSG00000106927,AMBP,approved,RH-30,vesicles;cytosol;golgi apparatus,vesicles,cytosol;golgi apparatus
+1401_H11_3,ENSG00000107290,SETX,supported,RH-30,nucleoplasm;cytokinetic bridge,nucleoplasm,cytokinetic bridge
+1402_B3_2,ENSG00000108001,EBF3,approved,RH-30,nucleoplasm;vesicles,nucleoplasm,vesicles
+1768_E12_32,ENSG00000110675,ELMOD1,uncertain,RH-30,nucleoplasm;cytosol,nucleoplasm,cytosol
+1177_H9_3,ENSG00000111731,C2CD5,supported,RH-30,cytosol;centriolar satellite,cytosol,centriolar satellite
+1492_C6_5,ENSG00000112183,RBM24,enhanced,RH-30,nucleoplasm;cytosol,nucleoplasm,cytosol
+1492_F1_6,ENSG00000114978,MOB1A,approved,RH-30,cytosol;nucleoli;nucleoplasm,cytosol,nucleoli;nucleoplasm
+1807_H2_34,ENSG00000116127,ALMS1,approved,RH-30,centrosome;cytosol;nucleoplasm,centrosome;cytosol,nucleoplasm
+1610_F8_4,ENSG00000117543,DPH5,approved,RH-30,golgi apparatus;nucleoli,golgi apparatus,nucleoli
+1417_H7_4,ENSG00000118194,TNNT2,uncertain,RH-30,nucleoli;nucleoplasm;focal adhesion sites,nucleoli;nucleoplasm,focal adhesion sites
+1149_A4_1,ENSG00000119953,SMNDC1,enhanced,RH-30,nucleoplasm;nuclear bodies,nucleoplasm,nuclear bodies
+1177_A7_1,ENSG00000120693,SMAD9,supported,RH-30,nucleoplasm;cytosol,nucleoplasm,cytosol
+1177_H1_3,ENSG00000121931,LRIF1,supported,RH-30,nucleoplasm;centriolar satellite,nucleoplasm,centriolar satellite
+1401_H8_4,ENSG00000122952,ZWINT,enhanced,RH-30,nuclear bodies;nucleoplasm;cytosol,nuclear bodies;nucleoplasm,cytosol
+1150_F4_7,ENSG00000123384,LRP1,approved,RH-30,vesicles;nucleoplasm,vesicles,nucleoplasm
+1806_A5_1,ENSG00000123427,EEF1AKMT3,approved,RH-30,centrosome;mitotic chromosome;nucleoplasm,centrosome,mitotic chromosome;nucleoplasm
+1401_D5_3,ENSG00000126947,ARMCX1,supported,RH-30,mitochondria;cytosol;nucleoplasm,mitochondria,cytosol;nucleoplasm
+1150_D4_2,ENSG00000128000,ZNF780B,approved,RH-30,nucleoplasm;centrosome,nucleoplasm,centrosome
+1838_E1_32,ENSG00000130856,ZNF236,approved,RH-30,cell junctions;nucleoplasm;cytosol,cell junctions;nucleoplasm,cytosol
+1152_G4_2,ENSG00000132466,ANKRD17,supported,RH-30,nucleoplasm;nuclear membrane,nucleoplasm,nuclear membrane
+1402_C3_1,ENSG00000133055,MYBPH,approved,RH-30,mitochondria;nucleoplasm;nucleoli,mitochondria;nucleoplasm,nucleoli
+1610_C12_1,ENSG00000134323,MYCN,approved,RH-30,nucleoli;nucleoplasm,nucleoli,nucleoplasm
+1417_B3_2,ENSG00000134874,DZIP1,supported,RH-30,cytosol;nucleoplasm;centriolar satellite,cytosol;nucleoplasm,centriolar satellite
+1401_C6_5,ENSG00000134982,APC,approved,RH-30,plasma membrane;golgi apparatus;nucleoplasm,plasma membrane,golgi apparatus;nucleoplasm
+1768_F9_18_cr5950c68e51359,ENSG00000135452,TSPAN31,approved,RH-30,golgi apparatus;cytokinetic bridge;cytosol;nucleoplasm,golgi apparatus,cytokinetic bridge;cytosol;nucleoplasm
+1417_H10_1,ENSG00000135902,CHRND,supported,RH-30,plasma membrane;cytosol;nucleoplasm,plasma membrane,cytosol;nucleoplasm
+1170_A4_1,ENSG00000136490,LIMD2,supported,RH-30,nucleoplasm;cytosol,nucleoplasm,cytosol
+1150_D7_6,ENSG00000137094,DNAJB5,approved,RH-30,nucleoplasm;cytosol,nucleoplasm,cytosol
+1610_G5_6,ENSG00000137831,UACA,supported,RH-30,nucleoplasm;cytosol,nucleoplasm,cytosol
+1401_H1_6,ENSG00000138160,KIF11,supported,RH-30,cytosol;mitotic spindle,cytosol,mitotic spindle
+1493_E7_1,ENSG00000138161,CUZD1,approved,RH-30,nucleoli;vesicles,nucleoli,vesicles
+1150_G10_4,ENSG00000138738,PRDM5,supported,RH-30,nuclear bodies;nucleoplasm;nucleoli,nuclear bodies;nucleoplasm,nucleoli
+1494_F2_2,ENSG00000139131,YARS2,supported,RH-30,mitochondria;nuclear bodies,mitochondria,nuclear bodies
+1403_A6_2,ENSG00000139180,NDUFA9,supported,RH-30,mitochondria;nucleoplasm,mitochondria,nucleoplasm
+1806_G7_1,ENSG00000140030,GPR65,approved,RH-30,vesicles;cytosol;nucleoli,vesicles,cytosol;nucleoli
+1416_C8_3,ENSG00000142698,C1orf94,approved,RH-30,cytosol;nucleoplasm,cytosol,nucleoplasm
+1767_H11_14_cr594bac8e63603,ENSG00000142700,DMRTA2,approved,RH-30,mitochondria;nucleoplasm,mitochondria,nucleoplasm
+1401_A7_2,ENSG00000142945,KIF2C,supported,RH-30,centrosome;nucleoplasm;midbody,centrosome;nucleoplasm,midbody
+1171_A12_1,ENSG00000143512,HHIPL2,uncertain,RH-30,mitochondria;cytosol,mitochondria,cytosol
+1914_D6_27_cr5c877788c353a,ENSG00000145241,CENPC,supported,RH-30,nuclear bodies;midbody;nucleoplasm,nuclear bodies,midbody;nucleoplasm
+1767_G11_32,ENSG00000145536,ADAMTS16,approved,RH-30,mitochondria;nuclear membrane;midbody ring;nucleoplasm,mitochondria;nuclear membrane,midbody ring;nucleoplasm
+1162_D8_5,ENSG00000145911,N4BP3,supported,RH-30,nucleoplasm;centrosome,nucleoplasm,centrosome
+1149_G10_2,ENSG00000147251,DOCK11,approved,RH-30,nucleoli;nuclear membrane,nucleoli,nuclear membrane
+1161_G6_2,ENSG00000147724,FAM135B,approved,RH-30,nuclear membrane;nucleoplasm,nuclear membrane,nucleoplasm
+1494_C8_2,ENSG00000152284,TCF7L1,supported,RH-30,nucleoplasm;cytosol,nucleoplasm,cytosol
+1767_A4_10_cr594b903df20d0,ENSG00000152527,PLEKHH2,approved,RH-30,cytosol;plasma membrane;nuclear bodies;nucleoplasm,cytosol;plasma membrane,nuclear bodies;nucleoplasm
+1768_E6_30_cr5950c0552ca36,ENSG00000153201,RANBP2,supported,RH-30,nuclear membrane;nucleoplasm;vesicles,nuclear membrane,nucleoplasm;vesicles
+1165_E12_5,ENSG00000153707,PTPRD,approved,RH-30,vesicles;nucleoplasm,vesicles,nucleoplasm
+1767_A1_17_cr594b8c6e3dde6,ENSG00000154721,JAM2,supported,RH-30,plasma membrane;nucleoplasm,plasma membrane,nucleoplasm
+1402_C2_2,ENSG00000155629,PIK3AP1,approved,RH-30,cytosol;nucleoplasm;plasma membrane,cytosol,nucleoplasm;plasma membrane
+1587_H2_2,ENSG00000157654,PALM2-AKAP2,approved,RH-30,plasma membrane;nuclear bodies;nucleoplasm,plasma membrane,nuclear bodies;nucleoplasm
+1161_B4_2,ENSG00000159173,TNNI1,uncertain,RH-30,nucleoplasm;nucleoli,nucleoplasm,nucleoli
+1171_D9_4,ENSG00000162923,WDR26,enhanced,RH-30,cytosol;nucleoplasm;mitochondria,cytosol;nucleoplasm,mitochondria
+1402_B3_2,ENSG00000164330,EBF1,approved,RH-30,nucleoplasm;vesicles,nucleoplasm,vesicles
+1151_C11_4,ENSG00000164331,ANKRA2,enhanced,RH-30,plasma membrane;cell junctions;nucleoplasm,plasma membrane,cell junctions;nucleoplasm
+1402_C11_8,ENSG00000165084,C8orf34,supported,RH-30,nucleoli;nucleoplasm;golgi apparatus,nucleoli;nucleoplasm,golgi apparatus
+1143_A3_1,ENSG00000165312,OTUD1,approved,RH-30,nucleoplasm;golgi apparatus;nuclear bodies,nucleoplasm,golgi apparatus;nuclear bodies
+1149_F3_2,ENSG00000165487,MICU2,approved,RH-30,nucleoplasm;mitochondria,nucleoplasm,mitochondria
+1609_D5_1,ENSG00000165495,PKNOX2,enhanced,RH-30,nucleoplasm;cytokinetic bridge,nucleoplasm,cytokinetic bridge
+1401_F1_2,ENSG00000165516,KLHDC2,supported,RH-30,nuclear membrane;nucleoplasm;nuclear bodies,nuclear membrane;nucleoplasm,nuclear bodies
+1500_A4_4,ENSG00000166128,RAB8B,supported,RH-30,vesicles;nucleoplasm,vesicles,nucleoplasm
+1416_G7_3,ENSG00000166343,MSS51,uncertain,RH-30,vesicles;cytosol,vesicles,cytosol
+1171_F2_1,ENSG00000168803,ADAL,approved,RH-30,nucleoplasm;nuclear speckles;vesicles,nucleoplasm,nuclear speckles;vesicles
+1165_E2_2,ENSG00000169554,ZEB2,supported,RH-30,nucleoli;cytosol;nucleoplasm,nucleoli,cytosol;nucleoplasm
+1151_F5_2,ENSG00000169764,UGP2,approved,RH-30,centrosome;mitochondria;nucleoplasm,centrosome;mitochondria,nucleoplasm
+1417_G7_1,ENSG00000170681,CAVIN4,supported,RH-30,golgi apparatus;plasma membrane;nucleoplasm,golgi apparatus;plasma membrane,nucleoplasm
+1413_D6_1,ENSG00000171051,FPR1,approved,RH-30,golgi apparatus;nucleoli;nucleoplasm,golgi apparatus,nucleoli;nucleoplasm
+1967_B1_2,ENSG00000171132,PRKCE,supported,RH-30,cytosol;intermediate filaments;plasma membrane;vesicles,cytosol;intermediate filaments,plasma membrane;vesicles
+1176_A8_3,ENSG00000171365,CLCN5,supported,RH-30,golgi apparatus;plasma membrane;cytosol,golgi apparatus;plasma membrane,cytosol
+1403_D8_1,ENSG00000171988,JMJD1C,supported,RH-30,nucleoplasm;cytosol,nucleoplasm,cytosol
+1171_G8_4,ENSG00000172716,SLFN11,supported,RH-30,nucleoplasm;cytosol,nucleoplasm,cytosol
+1161_G10_3,ENSG00000172995,ARPP21,approved,RH-30,nucleoli;cytosol,nucleoli,cytosol
+1492_F1_6,ENSG00000173542,MOB1B,approved,RH-30,cytosol;nucleoli;nucleoplasm,cytosol,nucleoli;nucleoplasm
+1914_B4_19_cr5c866b98464b5,ENSG00000176225,RTTN,approved,RH-30,cytosol;centrosome,cytosol,centrosome
+1413_E12_1,ENSG00000177354,C10orf71,approved,RH-30,nucleoplasm;mitochondria,nucleoplasm,mitochondria
+1176_B10_1,ENSG00000178498,DTX3,approved,RH-30,nucleoli;nucleoplasm;golgi apparatus,nucleoli;nucleoplasm,golgi apparatus
+1914_H1_25_cr5c865b1983e27,ENSG00000178502,KLHL11,approved,RH-30,nucleoplasm;nuclear membrane,nucleoplasm,nuclear membrane
+1500_F2_3,ENSG00000178882,RFLNA,approved,RH-30,nucleoplasm;golgi apparatus,nucleoplasm,golgi apparatus
+1161_F11_1,ENSG00000179314,WSCD1,approved,RH-30,nucleoplasm;golgi apparatus,nucleoplasm,golgi apparatus
+1403_D11_1,ENSG00000180720,CHRM4,uncertain,RH-30,golgi apparatus;nucleoplasm,golgi apparatus,nucleoplasm
+1162_D3_2,ENSG00000181315,ZNF322,supported,RH-30,nucleoplasm;centrosome;cytosol,nucleoplasm,centrosome;cytosol
+1165_B2_1,ENSG00000182013,PNMA8A,approved,RH-30,nuclear bodies;nucleoplasm;cytosol,nuclear bodies;nucleoplasm,cytosol
+1171_E11_1,ENSG00000182118,FAM89A,approved,RH-30,golgi apparatus;vesicles;nucleoplasm,golgi apparatus;vesicles,nucleoplasm
+1162_D11_2,ENSG00000182175,RGMA,approved,RH-30,nucleoplasm;cytosol,nucleoplasm,cytosol
+1150_A9_1,ENSG00000182533,CAV3,approved,RH-30,plasma membrane;vesicles,plasma membrane,vesicles
+1413_H10_3,ENSG00000182831,C16orf72,approved,RH-30,nucleoplasm;vesicles,nucleoplasm,vesicles
+1401_E5_1,ENSG00000184867,ARMCX2,approved,RH-30,mitochondria;nucleoplasm,mitochondria,nucleoplasm
+1162_F11_1,ENSG00000185482,STAC3,enhanced,RH-30,nucleoplasm;cytosol,nucleoplasm,cytosol
+1610_H5_1,ENSG00000188266,HYKK,approved,RH-30,vesicles;aggresome,vesicles,aggresome
+1149_F11_1,ENSG00000188321,ZNF559,supported,RH-30,nucleoplasm;cytosol,nucleoplasm,cytosol
+1413_E4_2,ENSG00000188542,DUSP28,uncertain,RH-30,nuclear speckles;cytosol,nuclear speckles,cytosol
+1150_H10_3,ENSG00000196659,TTC30B,approved,RH-30,nucleoplasm;centrosome,nucleoplasm,centrosome
+1150_D4_2,ENSG00000197782,ZNF780A,approved,RH-30,nucleoplasm;centrosome,nucleoplasm,centrosome
+1170_A12_3,ENSG00000198000,NOL8,supported,RH-30,nucleoli;mitotic chromosome,nucleoli,mitotic chromosome
+1413_B3_4,ENSG00000198342,ZNF442,approved,RH-30,nuclear membrane;vesicles,nuclear membrane,vesicles
+1401_B12_6,ENSG00000198440,ZNF583,approved,RH-30,nucleoli;cytosol,nucleoli,cytosol
+1402_H8_2,ENSG00000198551,ZNF627,approved,RH-30,nucleoplasm;nucleoli,nucleoplasm,nucleoli
+1492_C11_2,ENSG00000204843,DCTN1,supported,RH-30,microtubules;cytokinetic bridge;mitotic spindle,microtubules,cytokinetic bridge;mitotic spindle
+1413_E5_3,ENSG00000204950,LRRC10B,approved,RH-30,nucleoplasm;nucleoli,nucleoplasm,nucleoli
+1413_C1_5,ENSG00000205089,CCNI2,approved,RH-30,golgi apparatus;cytosol;nucleoplasm,golgi apparatus,cytosol;nucleoplasm
+1494_H2_3,ENSG00000214367,HAUS3,approved,RH-30,microtubules;mitochondria;cytokinetic bridge;mitotic spindle,microtubules;mitochondria,cytokinetic bridge;mitotic spindle
+1609_E2_3,ENSG00000221923,ZNF880,approved,RH-30,nucleoli fibrillar center;intermediate filaments;nucleoplasm,nucleoli fibrillar center,intermediate filaments;nucleoplasm
+1161_G8_3,ENSG00000239474,KLHL41,supported,RH-30,cytosol;nucleoplasm;plasma membrane,cytosol,nucleoplasm;plasma membrane
+1808_D2_9,ENSG00000243725,TTC4,enhanced,RH-30,intermediate filaments;cytoplasmic bodies,intermediate filaments,cytoplasmic bodies
+1162_B1_3,ENSG00000248905,FMN1,supported,RH-30,nucleoplasm;cytosol,nucleoplasm,cytosol
+1402_H1_9,ENSG00000257446,ZNF878,approved,RH-30,nucleoplasm;nucleoli,nucleoplasm,nucleoli
+1402_C1_3,ENSG00000257743,MGAM2,approved,RH-30,vesicles;cytosol,vesicles,cytosol
+1807_D12_33,ENSG00000262179,MYMX,approved,RH-30,vesicles;cytosol;mitochondria,vesicles,cytosol;mitochondria
+1610_E10_1,ENSG00000275395,FCGBP,approved,RH-30,plasma membrane;cytokinetic bridge;golgi apparatus,plasma membrane,cytokinetic bridge;golgi apparatus

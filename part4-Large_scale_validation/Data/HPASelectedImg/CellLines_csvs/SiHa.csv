@@ -1,0 +1,127 @@
+Img_Id,Gene,Gene name,Reliability,Cell Line,Location,Main,Addition
+1495_A11_1,ENSG00000005206,SPPL2B,approved,SiHa,nucleoplasm;plasma membrane;centrosome,nucleoplasm;plasma membrane,centrosome
+1487_B11_3,ENSG00000005381,MPO,supported,SiHa,vesicles;nucleoplasm,vesicles,nucleoplasm
+1486_A11_3,ENSG00000005889,ZFX,approved,SiHa,nucleoplasm;nucleoli,nucleoplasm,nucleoli
+1164_E7_3,ENSG00000018610,CXorf56,approved,SiHa,nucleoplasm;centrosome,nucleoplasm,centrosome
+1168_D9_1,ENSG00000019144,PHLDB1,approved,SiHa,nucleoplasm;mitotic spindle,nucleoplasm,mitotic spindle
+1921_D5_26_cr5ced0eab99ce1,ENSG00000025772,TOMM34,supported,SiHa,cytosol;mitochondria;vesicles,cytosol,mitochondria;vesicles
+1163_C9_2,ENSG00000048471,SNX29,approved,SiHa,golgi apparatus;cytosol;nucleoli,golgi apparatus,cytosol;nucleoli
+1339_B9_2,ENSG00000050030,NEXMIF,supported,SiHa,nucleoplasm;cytosol;midbody;mitotic spindle,nucleoplasm,cytosol;midbody;mitotic spindle
+1487_E11_1,ENSG00000054267,ARID4B,approved,SiHa,cytosol;mitochondria;nucleoplasm,cytosol;mitochondria,nucleoplasm
+1486_A11_3,ENSG00000067646,ZFY,approved,SiHa,nucleoplasm;nucleoli,nucleoplasm,nucleoli
+1859_B9_6_cr5ad8565b107f9,ENSG00000072803,FBXW11,approved,SiHa,plasma membrane;vesicles;nucleoplasm,plasma membrane;vesicles,nucleoplasm
+1163_C4_1,ENSG00000076067,RBMS2,approved,SiHa,nucleoli fibrillar center;cytosol;nucleoplasm,nucleoli fibrillar center,cytosol;nucleoplasm
+1891_F2_15_cr5b8d15a7ba78b,ENSG00000087263,OGFOD1,supported,SiHa,nucleoplasm;cytosol,nucleoplasm,cytosol
+1168_D7_2,ENSG00000088280,ASAP3,supported,SiHa,vesicles;nucleoplasm,vesicles,nucleoplasm
+1858_B4_10_cr5acc99b954240,ENSG00000090530,P3H2,supported,SiHa,golgi apparatus;cytosol;nucleoplasm;vesicles,golgi apparatus,cytosol;nucleoplasm;vesicles
+1169_A2_1,ENSG00000092020,PPP2R3C,supported,SiHa,nucleoplasm;cytosol;golgi apparatus,nucleoplasm,cytosol;golgi apparatus
+1178_F4_2,ENSG00000095319,NUP188,uncertain,SiHa,nucleoplasm;cytosol;nucleoli,nucleoplasm,cytosol;nucleoli
+1891_D19_2_cr5bbcae0f1d29b,ENSG00000095951,HIVEP1,supported,SiHa,nucleoplasm;cytosol;mitochondria;nuclear bodies,nucleoplasm,cytosol;mitochondria;nuclear bodies
+1712_G8_3_cr5804f04feb540,ENSG00000100156,SLC16A8,approved,SiHa,focal adhesion sites;intermediate filaments,focal adhesion sites,intermediate filaments
+1921_E11_31,ENSG00000100299,ARSA,uncertain,SiHa,golgi apparatus;cytosol,golgi apparatus,cytosol
+1921_H2_30_cr5cac7ad5328bb,ENSG00000100580,TMED8,approved,SiHa,plasma membrane;vesicles,plasma membrane,vesicles
+1653_E1_2,ENSG00000100644,HIF1A,enhanced,SiHa,nuclear bodies;nucleoplasm;plasma membrane,nuclear bodies;nucleoplasm,plasma membrane
+1858_F4_16_cr5acdc8432e875,ENSG00000101152,DNAJC5,supported,SiHa,golgi apparatus;plasma membrane;vesicles,golgi apparatus;plasma membrane,vesicles
+1891_E3_15_cr5b9912c4d0e85,ENSG00000101901,ALG13,approved,SiHa,vesicles;cytosol,vesicles,cytosol
+1183_G8_4,ENSG00000102387,TAF7L,approved,SiHa,nucleoplasm;cytosol,nucleoplasm,cytosol
+1891_C5_13_cr5ba0b9aa1cad8,ENSG00000102858,MGRN1,supported,SiHa,vesicles;endoplasmic reticulum,vesicles,endoplasmic reticulum
+1486_A9_3,ENSG00000102904,TSNAXIP1,approved,SiHa,nucleoplasm;cytosol,nucleoplasm,cytosol
+1179_G12_10,ENSG00000104043,ATP8B4,uncertain,SiHa,nucleoplasm;vesicles;cytosol,nucleoplasm;vesicles,cytosol
+1606_F6_1,ENSG00000104884,ERCC2,supported,SiHa,nucleoplasm;cytosol,nucleoplasm,cytosol
+1169_E9_2,ENSG00000111276,CDKN1B,supported,SiHa,nucleoplasm;vesicles,nucleoplasm,vesicles
+1891_N5_5_cr5bbca45356284,ENSG00000111799,COL12A1,approved,SiHa,vesicles;cytosol,vesicles,cytosol
+1966_E3_3,ENSG00000116882,HAO2,approved,SiHa,cytosol;vesicles,cytosol,vesicles
+1486_F10_5,ENSG00000116991,SIPA1L2,approved,SiHa,nuclear bodies;golgi apparatus;nuclear membrane,nuclear bodies,golgi apparatus;nuclear membrane
+1184_E12_1,ENSG00000117010,ZNF684,approved,SiHa,cytosol;nucleoplasm,cytosol,nucleoplasm
+1891_C6_15_cr5bbca82558ea2,ENSG00000117625,RCOR3,enhanced,SiHa,nucleoplasm;cytosol,nucleoplasm,cytosol
+1923_C8_18_cr5cd3df891f4c1,ENSG00000118193,KIF14,supported,SiHa,cytosol;midbody ring,cytosol,midbody ring
+1509_A5_5,ENSG00000118898,PPL,approved,SiHa,plasma membrane;cytosol;nucleoplasm,plasma membrane,cytosol;nucleoplasm
+1487_C11_1,ENSG00000118900,UBN1,supported,SiHa,nucleoplasm;nuclear bodies,nucleoplasm,nuclear bodies
+1178_E10_3,ENSG00000119335,SET,enhanced,SiHa,nucleoplasm;lipid droplets,nucleoplasm,lipid droplets
+1586_C7_2,ENSG00000120129,DUSP1,approved,SiHa,nucleoli;cytosol,nucleoli,cytosol
+1922_D8_3_cr5ccaa9d6c2561,ENSG00000120256,LRP11,approved,SiHa,plasma membrane;vesicles,plasma membrane,vesicles
+1486_A5_1,ENSG00000120800,UTP20,supported,SiHa,nucleoli;plasma membrane,nucleoli,plasma membrane
+1509_F9_6,ENSG00000125351,UPF3B,enhanced,SiHa,cytosol;nucleoli;nucleoplasm,cytosol,nucleoli;nucleoplasm
+1178_E11_1,ENSG00000125734,GPR108,approved,SiHa,golgi apparatus;vesicles,golgi apparatus,vesicles
+1486_C1_6,ENSG00000125740,FOSB,supported,SiHa,nucleoplasm;vesicles,nucleoplasm,vesicles
+1509_E5_1,ENSG00000131013,PPIL4,enhanced,SiHa,nucleoplasm;cytosol,nucleoplasm,cytosol
+1858_C10_35,ENSG00000131724,IL13RA1,approved,SiHa,vesicles;nucleoplasm,vesicles,nucleoplasm
+1891_N3_24_cr5ba0a83936890,ENSG00000132740,IGHMBP2,supported,SiHa,nucleoplasm;nuclear bodies,nucleoplasm,nuclear bodies
+1966_A9_2,ENSG00000134371,CDC73,supported,SiHa,nucleoplasm;cytosol,nucleoplasm,cytosol
+1178_E7_6,ENSG00000135269,TES,supported,SiHa,cytosol;focal adhesion sites;cell junctions;plasma membrane,cytosol;focal adhesion sites,cell junctions;plasma membrane
+1891_G5_6_cr5ba0bd7758bb8,ENSG00000135480,KRT7,supported,SiHa,intermediate filaments;cytosol,intermediate filaments,cytosol
+1183_C5_3,ENSG00000137699,TRIM29,approved,SiHa,intermediate filaments;cytosol;nucleoplasm,intermediate filaments,cytosol;nucleoplasm
+1178_F7_1,ENSG00000138439,FAM117B,approved,SiHa,nucleoplasm;centrosome,nucleoplasm,centrosome
+1509_B5_2,ENSG00000139970,RTN1,supported,SiHa,endoplasmic reticulum;nuclear bodies,endoplasmic reticulum,nuclear bodies
+1858_F5_33,ENSG00000140259,MFAP1,supported,SiHa,nucleoplasm;centrosome,nucleoplasm,centrosome
+1168_D12_2,ENSG00000140577,CRTC3,enhanced,SiHa,nucleoplasm;cytosol,nucleoplasm,cytosol
+1164_D6_2,ENSG00000141380,SS18,approved,SiHa,nucleoplasm;cytosol,nucleoplasm,cytosol
+1759_B2_18_cr594b6db621d8c,ENSG00000142178,SIK1,approved,SiHa,nucleoplasm;vesicles,nucleoplasm,vesicles
+1168_F9_2,ENSG00000143013,LMO4,supported,SiHa,nucleoplasm;midbody ring,nucleoplasm,midbody ring
+1486_C4_2,ENSG00000143479,DYRK3,supported,SiHa,nucleoplasm;cytosol,nucleoplasm,cytosol
+1921_D12_24_cr5cac59ce6557e,ENSG00000144460,NYAP2,approved,SiHa,mitochondria;cytosol,mitochondria,cytosol
+1178_A12_3,ENSG00000144554,FANCD2,supported,SiHa,nucleoplasm;cytosol;nuclear bodies;nucleoli,nucleoplasm,cytosol;nuclear bodies;nucleoli
+1164_D12_2,ENSG00000144744,UBA3,approved,SiHa,cytosol;plasma membrane;centrosome;nucleoplasm,cytosol;plasma membrane,centrosome;nucleoplasm
+1891_G12_12_cr5bbddf30ca44c,ENSG00000146433,TMEM181,supported,SiHa,vesicles;golgi apparatus;nucleoplasm,vesicles,golgi apparatus;nucleoplasm
+1611_H4_3,ENSG00000146802,TMEM168,approved,SiHa,golgi apparatus;cytosol,golgi apparatus,cytosol
+1858_B11_32,ENSG00000147050,KDM6A,approved,SiHa,nucleoli;nucleoli rim;nucleoplasm,nucleoli;nucleoli rim,nucleoplasm
+1891_H5_16_cr5bac6e7dc0582,ENSG00000148798,INA,approved,SiHa,intermediate filaments;cytosol,intermediate filaments,cytosol
+1858_H3_34,ENSG00000149196,HIKESHI,approved,SiHa,nuclear speckles;nuclear bodies;nucleoplasm,nuclear speckles,nuclear bodies;nucleoplasm
+1179_F9_1,ENSG00000149243,KLHL35,approved,SiHa,centrosome;nucleoplasm;nucleoli fibrillar center,centrosome;nucleoplasm,nucleoli fibrillar center
+1169_B1_4,ENSG00000149657,LSM14B,supported,SiHa,vesicles;nucleoli fibrillar center,vesicles,nucleoli fibrillar center
+1586_G5_2,ENSG00000151773,CCDC122,approved,SiHa,vesicles;nucleoplasm,vesicles,nucleoplasm
+1495_F7_2,ENSG00000152332,UHMK1,approved,SiHa,golgi apparatus;nucleoplasm;midbody,golgi apparatus;nucleoplasm,midbody
+1487_C12_3,ENSG00000157764,BRAF,approved,SiHa,vesicles;cytosol,vesicles,cytosol
+1509_H10_7,ENSG00000159086,PAXBP1,approved,SiHa,nucleoplasm;cytosol,nucleoplasm,cytosol
+1163_A9_3,ENSG00000159792,PSKH1,supported,SiHa,nuclear speckles;cytosol,nuclear speckles,cytosol
+1163_B12_2,ENSG00000160094,ZNF362,approved,SiHa,nucleoplasm;nucleoli,nucleoplasm,nucleoli
+1611_E1_4,ENSG00000160886,LY6K,approved,SiHa,plasma membrane;nucleoplasm,plasma membrane,nucleoplasm
+1184_H11_3,ENSG00000163013,FBXO41,approved,SiHa,cytosol;nucleoplasm;plasma membrane,cytosol;nucleoplasm,plasma membrane
+1169_D3_6,ENSG00000163807,KIAA1143,enhanced,SiHa,nucleoplasm;cytokinetic bridge,nucleoplasm,cytokinetic bridge
+1611_A2_1,ENSG00000163995,ABLIM2,uncertain,SiHa,mitochondria;nucleoplasm,mitochondria,nucleoplasm
+1179_D8_1,ENSG00000164190,NIPBL,supported,SiHa,nucleoplasm;cytosol;vesicles,nucleoplasm,cytosol;vesicles
+1891_G16_12_cr5bbdbc9f4bfff,ENSG00000164347,GFM2,approved,SiHa,mitochondria;nucleoplasm,mitochondria,nucleoplasm
+1184_C12_2,ENSG00000166741,NNMT,approved,SiHa,golgi apparatus;cytosol,golgi apparatus,cytosol
+1183_G2_2,ENSG00000167034,NKX3-1,supported,SiHa,nucleoplasm;cytosol,nucleoplasm,cytosol
+1487_A8_2,ENSG00000167523,SPATA33,approved,SiHa,nucleoplasm;vesicles,nucleoplasm,vesicles
+1611_B3_2,ENSG00000167930,FAM234A,uncertain,SiHa,mitochondria;nucleoplasm,mitochondria,nucleoplasm
+1183_H9_4,ENSG00000168807,SNTB2,supported,SiHa,golgi apparatus;plasma membrane;nucleoplasm,golgi apparatus;plasma membrane,nucleoplasm
+1168_B9_2,ENSG00000168827,GFM1,approved,SiHa,mitochondria;nucleoplasm,mitochondria,nucleoplasm
+1891_I13_30_cr5bbddf6e02489,ENSG00000170145,SIK2,approved,SiHa,nucleoplasm;vesicles;cytosol;intermediate filaments;nuclear speckles,nucleoplasm;vesicles,cytosol;intermediate filaments;nuclear speckles
+1921_C5_15_cr5e74d8c434841,ENSG00000170242,USP47,approved,SiHa,intermediate filaments;vesicles,intermediate filaments,vesicles
+1759_F3_16_cr594b71060be90,ENSG00000170502,NUDT9,approved,SiHa,mitochondria;nuclear bodies;cell junctions;nuclear membrane,mitochondria;nuclear bodies,cell junctions;nuclear membrane
+1169_B9_3,ENSG00000171840,NINJ2,approved,SiHa,endoplasmic reticulum;centriolar satellite;cytosol;nucleoplasm;plasma membrane,endoplasmic reticulum,centriolar satellite;cytosol;nucleoplasm;plasma membrane
+1586_E4_5,ENSG00000172059,KLF11,supported,SiHa,nucleoplasm;cytosol;focal adhesion sites;nuclear bodies,nucleoplasm,cytosol;focal adhesion sites;nuclear bodies
+1168_E11_4,ENSG00000175048,ZDHHC14,approved,SiHa,nucleoli;mitochondria,nucleoli,mitochondria
+1164_B9_2,ENSG00000175906,ARL4D,approved,SiHa,vesicles;golgi apparatus,vesicles,golgi apparatus
+1859_F12_33,ENSG00000175970,UNC119B,approved,SiHa,cytokinetic bridge;mitotic spindle;cytosol;mitochondria,cytokinetic bridge;mitotic spindle,cytosol;mitochondria
+1966_A8_2,ENSG00000176723,ZNF843,approved,SiHa,nucleoplasm;nuclear speckles,nucleoplasm,nuclear speckles
+1163_G4_1,ENSG00000176834,VSIG10,approved,SiHa,cytosol;centriolar satellite,cytosol,centriolar satellite
+1335_C1_7,ENSG00000177551,NHLH2,approved,SiHa,nuclear bodies;nucleoplasm,nuclear bodies,nucleoplasm
+1183_C10_2,ENSG00000177675,CD163L1,approved,SiHa,centrosome;cytosol;nucleoplasm,centrosome;cytosol,nucleoplasm
+1179_C6_3,ENSG00000178718,RPP25,supported,SiHa,nucleoplasm;centriolar satellite,nucleoplasm,centriolar satellite
+1169_A9_2,ENSG00000178776,C5orf46,approved,SiHa,nuclear speckles;mitochondria,nuclear speckles,mitochondria
+1184_H10_3,ENSG00000179029,TMEM107,approved,SiHa,nucleoplasm;plasma membrane;midbody ring,nucleoplasm;plasma membrane,midbody ring
+1335_D2_2,ENSG00000180479,ZNF571,approved,SiHa,nucleoli;nucleoplasm;plasma membrane,nucleoli;nucleoplasm,plasma membrane
+1184_B2_3,ENSG00000181852,RNF41,approved,SiHa,nuclear bodies;nucleoplasm;midbody ring,nuclear bodies;nucleoplasm,midbody ring
+1179_F2_3,ENSG00000182463,TSHZ2,approved,SiHa,golgi apparatus;nucleoplasm,golgi apparatus,nucleoplasm
+1339_C5_1,ENSG00000183770,FOXL2,supported,SiHa,nucleoplasm;midbody ring,nucleoplasm,midbody ring
+1858_B11_32,ENSG00000183878,UTY,approved,SiHa,nucleoplasm;nucleoli;nucleoli rim,nucleoplasm,nucleoli;nucleoli rim
+1168_H4_3,ENSG00000185219,ZNF445,approved,SiHa,nucleoplasm;cytosol;mitochondria,nucleoplasm,cytosol;mitochondria
+1179_D5_3,ENSG00000185561,TLCD2,approved,SiHa,vesicles;nucleoli,vesicles,nucleoli
+1606_C11_2,ENSG00000186130,ZBTB6,approved,SiHa,nucleoplasm;mitochondria,nucleoplasm,mitochondria
+1183_H4_2,ENSG00000196218,RYR1,approved,SiHa,golgi apparatus;vesicles;cytosol,golgi apparatus;vesicles,cytosol
+1487_D9_2,ENSG00000196378,ZNF34,enhanced,SiHa,nucleoplasm;cytosol,nucleoplasm,cytosol
+1178_D4_2,ENSG00000196872,KIAA1211L,approved,SiHa,centrosome;microtubules;cytokinetic bridge,centrosome;microtubules,cytokinetic bridge
+1179_C1_1,ENSG00000196943,NOP9,approved,SiHa,nucleoplasm;cytosol;nucleoli,nucleoplasm,cytosol;nucleoli
+1509_E10_10,ENSG00000198898,CAPZA2,approved,SiHa,endoplasmic reticulum;cytosol,endoplasmic reticulum,cytosol
+1859_G1_34,ENSG00000198901,PRC1,supported,SiHa,cytokinetic bridge;microtubules;midbody;plasma membrane;nucleoplasm,cytokinetic bridge;microtubules;midbody;plasma membrane,nucleoplasm
+1335_C2_1,ENSG00000204624,DISP3,uncertain,SiHa,nucleoplasm;cytosol,nucleoplasm,cytosol
+1169_C9_3,ENSG00000204866,IGFL2,approved,SiHa,nucleoplasm;plasma membrane,nucleoplasm,plasma membrane
+1966_F6_2,ENSG00000214513,NOTO,approved,SiHa,nucleoplasm;cytosol,nucleoplasm,cytosol
+1179_D12_1,ENSG00000214694,ARHGEF33,approved,SiHa,vesicles;cytosol;nucleoplasm,vesicles,cytosol;nucleoplasm
+1335_C8_4,ENSG00000221994,ZNF630,approved,SiHa,nucleoplasm;cytosol,nucleoplasm,cytosol
+1178_E10_3,ENSG00000230667,SETSIP,supported,SiHa,nucleoplasm;lipid droplets,nucleoplasm,lipid droplets
+1606_D6_3,ENSG00000243279,PRAF2,approved,SiHa,endoplasmic reticulum;vesicles,endoplasmic reticulum,vesicles
+1611_B3_2,ENSG00000269881,AC004754.1,uncertain,SiHa,mitochondria;nucleoplasm,mitochondria,nucleoplasm
+1759_B2_18_cr594b6db621d8c,ENSG00000275993,SIK1B,approved,SiHa,nucleoplasm;vesicles,nucleoplasm,vesicles

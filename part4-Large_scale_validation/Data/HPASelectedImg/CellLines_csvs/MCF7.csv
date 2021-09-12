@@ -1,0 +1,308 @@
+Img_Id,Gene,Gene name,Reliability,Cell Line,Location,Main,Addition
+1601_B2_3,ENSG00000003989,SLC7A2,supported,MCF7,plasma membrane;cell junctions,plasma membrane,cell junctions
+840_C12_1,ENSG00000005189,REXO5,approved,MCF7,nuclear membrane;endoplasmic reticulum;nucleoli,nuclear membrane,endoplasmic reticulum;nucleoli
+958_C7_1,ENSG00000005339,CREBBP,enhanced,MCF7,nucleoplasm;nuclear bodies,nucleoplasm,nuclear bodies
+1356_F7_2,ENSG00000007392,LUC7L,approved,MCF7,nucleoplasm;mitochondria,nucleoplasm,mitochondria
+1363_E4_3,ENSG00000011332,DPF1,approved,MCF7,cytosol;nucleoplasm;mitochondria,cytosol;nucleoplasm,mitochondria
+1356_E6_1,ENSG00000025770,NCAPH2,supported,MCF7,nucleoplasm;cytokinetic bridge,nucleoplasm,cytokinetic bridge
+1137_G2_2,ENSG00000027075,PRKCH,approved,MCF7,cytosol;plasma membrane,cytosol,plasma membrane
+1215_E2_2,ENSG00000049283,EPN3,supported,MCF7,vesicles;nucleoplasm,vesicles,nucleoplasm
+722_H8_1,ENSG00000052749,RRP12,supported,MCF7,nucleoli;cytosol;plasma membrane;vesicles,nucleoli,cytosol;plasma membrane;vesicles
+1363_E6_2,ENSG00000059915,PSD,approved,MCF7,nucleoplasm;cytosol;plasma membrane,nucleoplasm,cytosol;plasma membrane
+1215_F3_1,ENSG00000062716,VMP1,approved,MCF7,endoplasmic reticulum;nucleoli,endoplasmic reticulum,nucleoli
+750_G9_2,ENSG00000065717,TLE2,supported,MCF7,nuclear bodies;focal adhesion sites,nuclear bodies,focal adhesion sites
+1232_G4_1,ENSG00000066827,ZFAT,approved,MCF7,nuclear bodies;nucleoplasm,nuclear bodies,nucleoplasm
+750_F9_1,ENSG00000066923,STAG3,approved,MCF7,nucleoli;nucleoplasm,nucleoli,nucleoplasm
+1483_E5_6,ENSG00000067365,METTL22,supported,MCF7,nucleoli rim;nucleoplasm,nucleoli rim,nucleoplasm
+1412_D5_2,ENSG00000067992,PDK3,supported,MCF7,mitochondria;nucleoli,mitochondria,nucleoli
+721_G3_4,ENSG00000069345,DNAJA2,approved,MCF7,cytosol;nucleoli;intermediate filaments,cytosol;nucleoli,intermediate filaments
+1357_C12_6,ENSG00000072062,PRKACA,approved,MCF7,cytosol;cytokinetic bridge,cytosol,cytokinetic bridge
+1592_E3_3,ENSG00000072201,LNX1,supported,MCF7,cell junctions;cytosol,cell junctions,cytosol
+1483_F5_3,ENSG00000072518,MARK2,supported,MCF7,plasma membrane;nucleoplasm,plasma membrane,nucleoplasm
+840_G12_1,ENSG00000073578,SDHA,supported,MCF7,mitochondria;nucleoli,mitochondria,nucleoli
+1082_B4_2,ENSG00000075275,CELSR1,enhanced,MCF7,plasma membrane;nucleoplasm,plasma membrane,nucleoplasm
+963_A12_1,ENSG00000076604,TRAF4,supported,MCF7,nucleoli fibrillar center;cytosol;nucleoplasm,nucleoli fibrillar center,cytosol;nucleoplasm
+1208_F1_3,ENSG00000076662,ICAM3,approved,MCF7,mitochondria;nuclear membrane;nucleoplasm,mitochondria,nuclear membrane;nucleoplasm
+962_F6_1,ENSG00000077348,EXOSC5,enhanced,MCF7,nucleoli;nucleoplasm,nucleoli,nucleoplasm
+1462_C6_5,ENSG00000080815,PSEN1,supported,MCF7,golgi apparatus;cell junctions;nucleoplasm,golgi apparatus,cell junctions;nucleoplasm
+1080_E1_1,ENSG00000086232,EIF2AK1,supported,MCF7,nucleoplasm;cytosol,nucleoplasm,cytosol
+1502_G3_1,ENSG00000087085,ACHE,approved,MCF7,golgi apparatus;vesicles,golgi apparatus,vesicles
+824_E3_3,ENSG00000088986,DYNLL1,approved,MCF7,cytosol;nucleoplasm;nuclear bodies,cytosol;nucleoplasm,nuclear bodies
+867_F11_3,ENSG00000090266,NDUFB2,uncertain,MCF7,nucleoplasm;mitochondria,nucleoplasm,mitochondria
+1134_D1_1,ENSG00000091831,ESR1,approved,MCF7,vesicles;nucleoplasm,vesicles,nucleoplasm
+963_F9_3,ENSG00000092208,GEMIN2,supported,MCF7,nuclear bodies;nucleoplasm;nucleoli,nuclear bodies;nucleoplasm,nucleoli
+1070_F1_3,ENSG00000092439,TRPM7,approved,MCF7,plasma membrane;cytosol;vesicles,plasma membrane,cytosol;vesicles
+1207_C5_2,ENSG00000092621,PHGDH,enhanced,MCF7,cytosol;plasma membrane;nucleoplasm,cytosol;plasma membrane,nucleoplasm
+1983_E11_13_cr5f59e9fe5362a,ENSG00000092847,AGO1,supported,MCF7,cytoplasmic bodies;cytosol,cytoplasmic bodies,cytosol
+767_F11_1,ENSG00000093000,NUP50,supported,MCF7,nucleoplasm;nuclear membrane,nucleoplasm,nuclear membrane
+1601_H2_1,ENSG00000095739,BAMBI,approved,MCF7,vesicles;lipid droplets;nucleoli fibrillar center,vesicles,lipid droplets;nucleoli fibrillar center
+1363_B3_2,ENSG00000099338,CATSPERG,approved,MCF7,nucleoli;cytosol;nucleoplasm,nucleoli,cytosol;nucleoplasm
+1217_F3_2,ENSG00000100029,PES1,enhanced,MCF7,mitotic chromosome;nucleoli;nucleoli rim;nucleoplasm,mitotic chromosome;nucleoli;nucleoli rim,nucleoplasm
+868_F7_2,ENSG00000100418,DESI1,approved,MCF7,cytosol;cytokinetic bridge,cytosol,cytokinetic bridge
+1147_E3_2,ENSG00000100601,ALKBH1,supported,MCF7,nucleoplasm;endoplasmic reticulum,nucleoplasm,endoplasmic reticulum
+721_H3_2,ENSG00000100722,ZC3H14,enhanced,MCF7,nuclear speckles;nucleoli;nucleoli rim,nuclear speckles,nucleoli;nucleoli rim
+1232_D4_2,ENSG00000100890,KIAA0391,supported,MCF7,mitochondria;nucleoplasm,mitochondria,nucleoplasm
+1217_H1_2,ENSG00000101104,PABPC1L,approved,MCF7,cytosol;nuclear bodies,cytosol,nuclear bodies
+1231_A3_2,ENSG00000101144,BMP7,approved,MCF7,vesicles;nucleoli;nucleoplasm,vesicles,nucleoli;nucleoplasm
+824_G11_2,ENSG00000101158,NELFCD,supported,MCF7,nuclear bodies;nucleoplasm;cytosol;vesicles,nuclear bodies;nucleoplasm,cytosol;vesicles
+962_F5_1,ENSG00000101210,EEF1A2,approved,MCF7,cytosol;nucleoli,cytosol,nucleoli
+1208_B3_5,ENSG00000102886,GDPD3,approved,MCF7,nucleoplasm;cytokinetic bridge;cytosol,nucleoplasm,cytokinetic bridge;cytosol
+1147_D3_6,ENSG00000102897,LYRM1,supported,MCF7,nucleoplasm;midbody,nucleoplasm,midbody
+1207_C12_2,ENSG00000102967,DHODH,enhanced,MCF7,mitochondria;cytosol;nucleoplasm,mitochondria,cytosol;nucleoplasm
+1070_E3_6,ENSG00000102981,PARD6A,supported,MCF7,actin filaments;cell junctions;cytosol,actin filaments;cell junctions,cytosol
+1462_C9_4,ENSG00000103160,HSDL1,supported,MCF7,mitochondria;intermediate filaments;vesicles,mitochondria,intermediate filaments;vesicles
+957_G10_2,ENSG00000103257,SLC7A5,supported,MCF7,cytosol;plasma membrane;vesicles,cytosol;plasma membrane,vesicles
+840_E7_1,ENSG00000103353,UBFD1,approved,MCF7,nucleoplasm;nucleoli,nucleoplasm,nucleoli
+964_F2_5,ENSG00000103423,DNAJA3,supported,MCF7,mitochondria;vesicles,mitochondria,vesicles
+714_D5_1,ENSG00000103490,PYCARD,supported,MCF7,nucleoplasm;cytosol;nucleoli,nucleoplasm,cytosol;nucleoli
+1217_B9_1,ENSG00000103550,KNOP1,enhanced,MCF7,nucleoli;nucleoli rim;cytosol,nucleoli;nucleoli rim,cytosol
+840_F3_2,ENSG00000104517,UBR5,supported,MCF7,nucleoplasm;cytosol,nucleoplasm,cytosol
+840_H3_6,ENSG00000104524,PYCR3,supported,MCF7,cytosol;cytokinetic bridge;mitotic spindle,cytosol,cytokinetic bridge;mitotic spindle
+840_F7_3,ENSG00000104756,KCTD9,supported,MCF7,nucleoplasm;cytosol;intermediate filaments,nucleoplasm,cytosol;intermediate filaments
+1357_F2_1,ENSG00000105085,MED26,approved,MCF7,nucleoplasm;cytosol;vesicles,nucleoplasm,cytosol;vesicles
+1081_B12_2,ENSG00000105518,TMEM205,approved,MCF7,endoplasmic reticulum;nuclear membrane;nucleoplasm,endoplasmic reticulum,nuclear membrane;nucleoplasm
+962_C1_2,ENSG00000105649,RAB3A,approved,MCF7,nucleoplasm;centrosome;cytosol,nucleoplasm,centrosome;cytosol
+749_G5_1,ENSG00000106244,PDAP1,enhanced,MCF7,cytosol;plasma membrane,cytosol,plasma membrane
+962_H3_1,ENSG00000106263,EIF3B,approved,MCF7,cytosol;nucleoplasm,cytosol,nucleoplasm
+962_E1_2,ENSG00000106624,AEBP1,supported,MCF7,vesicles;cytosol;nucleoplasm,vesicles,cytosol;nucleoplasm
+1147_E6_1,ENSG00000107164,FUBP3,approved,MCF7,nucleoplasm;cytosol,nucleoplasm,cytosol
+1483_A12_5,ENSG00000108384,RAD51C,supported,MCF7,cytosol;mitochondria;nucleoplasm;cell junctions;vesicles,cytosol;mitochondria;nucleoplasm,cell junctions;vesicles
+1232_A3_1,ENSG00000108551,RASD1,approved,MCF7,nucleoplasm;plasma membrane,nucleoplasm,plasma membrane
+766_F12_2,ENSG00000108669,CYTH1,uncertain,MCF7,nucleoplasm;nucleoli,nucleoplasm,nucleoli
+1230_B1_3,ENSG00000108788,MLX,supported,MCF7,nucleoplasm;cytosol;nuclear membrane,nucleoplasm,cytosol;nuclear membrane
+964_F3_1,ENSG00000109736,MFSD10,approved,MCF7,nuclear membrane;nucleoplasm,nuclear membrane,nucleoplasm
+714_B3_3,ENSG00000111424,VDR,supported,MCF7,nucleoplasm;cytosol;intermediate filaments,nucleoplasm,cytosol;intermediate filaments
+722_B8_2,ENSG00000111786,SRSF9,supported,MCF7,nucleoplasm;nucleoli,nucleoplasm,nucleoli
+1215_A4_2,ENSG00000112651,MRPL2,supported,MCF7,mitochondria;nucleoplasm,mitochondria,nucleoplasm
+1215_E10_4,ENSG00000113194,FAF2,enhanced,MCF7,lipid droplets;endoplasmic reticulum,lipid droplets,endoplasmic reticulum
+840_C4_1,ENSG00000113558,SKP1,supported,MCF7,nucleoplasm;cytosol,nucleoplasm,cytosol
+868_C9_1,ENSG00000113845,TIMMDC1,enhanced,MCF7,mitochondria;nucleoplasm,mitochondria,nucleoplasm
+1349_B1_3,ENSG00000115944,COX7A2L,enhanced,MCF7,mitochondria;nucleoli,mitochondria,nucleoli
+1914_C8_7,ENSG00000116544,DLGAP3,approved,MCF7,endoplasmic reticulum;midbody;plasma membrane,endoplasmic reticulum,midbody;plasma membrane
+1070_G11_2,ENSG00000116793,PHTF1,approved,MCF7,nuclear bodies;nucleoli,nuclear bodies,nucleoli
+1483_H2_6,ENSG00000117971,CHRNB4,approved,MCF7,endoplasmic reticulum;cell junctions,endoplasmic reticulum,cell junctions
+1356_A10_2,ENSG00000118156,ZNF541,approved,MCF7,nucleoplasm;cytosol,nucleoplasm,cytosol
+1592_E4_3,ENSG00000119242,CCDC92,supported,MCF7,centrosome;nucleoplasm,centrosome,nucleoplasm
+1080_E3_2,ENSG00000119392,GLE1,supported,MCF7,nuclear membrane;nucleoli,nuclear membrane,nucleoli
+1137_G1_2,ENSG00000119411,BSPRY,uncertain,MCF7,nucleoplasm;cytosol,nucleoplasm,cytosol
+1207_E9_1,ENSG00000119431,HDHD3,enhanced,MCF7,nucleoli;vesicles,nucleoli,vesicles
+824_A11_5,ENSG00000119632,IFI27L2,approved,MCF7,cytosol;nucleoli,cytosol,nucleoli
+714_A8_1,ENSG00000119718,EIF2B2,approved,MCF7,focal adhesion sites;plasma membrane;nucleoplasm,focal adhesion sites;plasma membrane,nucleoplasm
+1230_F6_2,ENSG00000119969,HELLS,approved,MCF7,nucleoplasm;golgi apparatus;vesicles,nucleoplasm,golgi apparatus;vesicles
+1207_B2_6,ENSG00000120262,CCDC170,approved,MCF7,golgi apparatus;cell junctions,golgi apparatus,cell junctions
+962_G12_1,ENSG00000121058,COIL,supported,MCF7,nuclear bodies;nucleoli;nucleoli fibrillar center;nucleoplasm,nuclear bodies,nucleoli;nucleoli fibrillar center;nucleoplasm
+1081_A6_2,ENSG00000121068,TBX2,approved,MCF7,nucleoplasm;cytosol,nucleoplasm,cytosol
+1356_H2_1,ENSG00000121101,TEX14,approved,MCF7,cytosol;plasma membrane;vesicles,cytosol;plasma membrane,vesicles
+1147_H1_3,ENSG00000123358,NR4A1,supported,MCF7,nucleoplasm;cytosol;nuclear membrane,nucleoplasm,cytosol;nuclear membrane
+1230_F9_1,ENSG00000123415,SMUG1,supported,MCF7,nucleoplasm;cytosol;nucleoli fibrillar center,nucleoplasm,cytosol;nucleoli fibrillar center
+1983_E11_13_cr5f59e9fe5362a,ENSG00000123908,AGO2,supported,MCF7,cytoplasmic bodies;cytosol,cytoplasmic bodies,cytosol
+1208_A9_7,ENSG00000124688,MAD2L1BP,supported,MCF7,nucleoplasm;nuclear membrane;nucleoli,nucleoplasm,nuclear membrane;nucleoli
+962_B9_1,ENSG00000125089,SH3TC1,approved,MCF7,nucleoli;nucleoli rim;cytosol;nucleoplasm,nucleoli;nucleoli rim,cytosol;nucleoplasm
+1704_E9_2_cr57d83a4b333d3,ENSG00000125508,SRMS,approved,MCF7,intermediate filaments;actin filaments;cytosol,intermediate filaments,actin filaments;cytosol
+1983_E11_13_cr5f59e9fe5362a,ENSG00000126070,AGO3,supported,MCF7,cytoplasmic bodies;cytosol;nucleoplasm,cytoplasmic bodies,cytosol;nucleoplasm
+1363_F2_2,ENSG00000127152,BCL11B,approved,MCF7,nucleoplasm;nucleoli fibrillar center,nucleoplasm,nucleoli fibrillar center
+1356_D6_1,ENSG00000127564,PKMYT1,supported,MCF7,golgi apparatus;nucleoli;nucleoplasm,golgi apparatus,nucleoli;nucleoplasm
+1208_E2_2,ENSG00000127580,WDR24,supported,MCF7,vesicles;cytosol,vesicles,cytosol
+957_F12_2,ENSG00000127586,CHTF18,supported,MCF7,nucleoplasm;cytosol,nucleoplasm,cytosol
+840_G4_2,ENSG00000129484,PARP2,supported,MCF7,nucleoplasm;nucleoli,nucleoplasm,nucleoli
+824_F6_1,ENSG00000129514,FOXA1,supported,MCF7,nucleoplasm;nucleoli fibrillar center,nucleoplasm,nucleoli fibrillar center
+1363_D8_6,ENSG00000129535,NRL,supported,MCF7,nucleoplasm;cytosol,nucleoplasm,cytosol
+840_C2_2,ENSG00000129925,TMEM8A,supported,MCF7,nucleoplasm;cytokinetic bridge,nucleoplasm,cytokinetic bridge
+1208_B2_2,ENSG00000130244,FAM98C,approved,MCF7,nucleoli;nucleoplasm;cytosol,nucleoli;nucleoplasm,cytosol
+964_G9_3,ENSG00000130254,SAFB2,supported,MCF7,nucleoplasm;nuclear bodies;vesicles,nucleoplasm,nuclear bodies;vesicles
+1081_C12_2,ENSG00000130475,FCHO1,enhanced,MCF7,nucleoplasm;cytosol,nucleoplasm,cytosol
+1208_E10_2,ENSG00000130558,OLFM1,approved,MCF7,nucleoli;cytosol;nucleoplasm,nucleoli,cytosol;nucleoplasm
+1502_E4_1,ENSG00000130675,MNX1,approved,MCF7,nucleoplasm;cytosol;nucleoli,nucleoplasm,cytosol;nucleoli
+1147_E12_3,ENSG00000130725,UBE2M,enhanced,MCF7,nucleoplasm;cytosol;nuclear bodies;nucleoli,nucleoplasm,cytosol;nuclear bodies;nucleoli
+1147_G10_4,ENSG00000130827,PLXNA3,approved,MCF7,plasma membrane;vesicles;nucleoplasm,plasma membrane;vesicles,nucleoplasm
+1357_F12_2,ENSG00000131196,NFATC1,supported,MCF7,nuclear bodies;nucleoplasm,nuclear bodies,nucleoplasm
+1824_E5_2,ENSG00000131759,RARA,supported,MCF7,nucleoplasm;actin filaments;cytosol;nucleoli,nucleoplasm,actin filaments;cytosol;nucleoli
+1605_E3_2,ENSG00000132017,DCAF15,approved,MCF7,mitochondria;vesicles,mitochondria,vesicles
+1462_B9_4,ENSG00000132661,NXT1,supported,MCF7,nucleoplasm;cytosol,nucleoplasm,cytosol
+1503_G6_1,ENSG00000132801,ZSWIM3,approved,MCF7,vesicles;cytosol;nucleoli fibrillar center,vesicles,cytosol;nucleoli fibrillar center
+1357_E1_3,ENSG00000133460,SLC2A11,uncertain,MCF7,cell junctions;nucleoplasm,cell junctions,nucleoplasm
+1462_H8_1,ENSG00000133678,TMEM254,approved,MCF7,plasma membrane;nucleoplasm,plasma membrane,nucleoplasm
+1232_B4_2,ENSG00000133935,ERG28,approved,MCF7,nucleoplasm;cytosol,nucleoplasm,cytosol
+723_F1_2,ENSG00000134086,VHL,enhanced,MCF7,nucleoplasm;cytosol,nucleoplasm,cytosol
+1356_C9_3,ENSG00000134258,VTCN1,approved,MCF7,plasma membrane;cell junctions;focal adhesion sites,plasma membrane,cell junctions;focal adhesion sites
+962_G3_2,ENSG00000134333,LDHA,supported,MCF7,cytosol;vesicles,cytosol,vesicles
+1983_E11_13_cr5f59e9fe5362a,ENSG00000134698,AGO4,supported,MCF7,cytoplasmic bodies;cytosol,cytoplasmic bodies,cytosol
+1357_D2_2,ENSG00000134769,DTNA,approved,MCF7,cell junctions;intermediate filaments;nucleoplasm,cell junctions;intermediate filaments,nucleoplasm
+1232_D7_1,ENSG00000135119,RNFT2,approved,MCF7,nucleoplasm;cytosol,nucleoplasm,cytosol
+1082_B11_2,ENSG00000135127,BICDL1,approved,MCF7,cytosol;nucleoplasm;vesicles,cytosol;nucleoplasm,vesicles
+1208_F10_4,ENSG00000135372,NAT10,enhanced,MCF7,nucleoli;midbody,nucleoli,midbody
+1704_B1_1_cr5811e29350250,ENSG00000135446,CDK4,supported,MCF7,cytosol;nuclear membrane;nucleoli;nucleoplasm,cytosol,nuclear membrane;nucleoli;nucleoplasm
+722_E3_2,ENSG00000136699,SMPD4,approved,MCF7,nuclear membrane;cytosol,nuclear membrane,cytosol
+1357_A11_2,ENSG00000136938,ANP32B,enhanced,MCF7,nucleoplasm;centrosome;cytosol,nucleoplasm,centrosome;cytosol
+749_F6_1,ENSG00000137434,C6orf52,approved,MCF7,nuclear speckles;intermediate filaments,nuclear speckles,intermediate filaments
+1070_H9_1,ENSG00000139233,LLPH,enhanced,MCF7,nucleoli;mitotic chromosome,nucleoli,mitotic chromosome
+840_G5_2,ENSG00000139546,TARBP2,supported,MCF7,nucleoplasm;nuclear bodies,nucleoplasm,nuclear bodies
+1232_F10_3,ENSG00000140691,ARMC5,approved,MCF7,cytosol;nucleoplasm;focal adhesion sites,cytosol;nucleoplasm,focal adhesion sites
+1137_B7_3,ENSG00000140832,MARVELD3,approved,MCF7,vesicles;intermediate filaments,vesicles,intermediate filaments
+750_H10_2,ENSG00000141232,TOB1,approved,MCF7,nucleoplasm;vesicles,nucleoplasm,vesicles
+1356_A3_6,ENSG00000141371,C17orf64,approved,MCF7,nucleoplasm;vesicles,nucleoplasm,vesicles
+1208_E5_4,ENSG00000141562,NARF,supported,MCF7,nucleoplasm;nucleoli,nucleoplasm,nucleoli
+1357_B10_3,ENSG00000142197,DOPEY2,approved,MCF7,nucleoplasm;mitochondria,nucleoplasm,mitochondria
+1356_G2_2,ENSG00000142235,LMTK3,uncertain,MCF7,nucleoplasm;cell junctions,nucleoplasm,cell junctions
+723_D12_2,ENSG00000142534,RPS11,supported,MCF7,cytosol;endoplasmic reticulum;nucleoli,cytosol;endoplasmic reticulum,nucleoli
+1356_B3_1,ENSG00000142733,MAP3K6,approved,MCF7,nucleoplasm;actin filaments;cytosol;plasma membrane,nucleoplasm,actin filaments;cytosol;plasma membrane
+1357_C12_6,ENSG00000142875,PRKACB,approved,MCF7,cytosol;cytokinetic bridge,cytosol,cytokinetic bridge
+1070_D8_2,ENSG00000143458,GABPB2,supported,MCF7,nucleoplasm;cytosol,nucleoplasm,cytosol
+1914_G9_1,ENSG00000143543,JTB,approved,MCF7,vesicles;mitochondria,vesicles,mitochondria
+1503_C3_2,ENSG00000143624,INTS3,approved,MCF7,nucleoli;nucleoplasm,nucleoli,nucleoplasm
+824_A9_3,ENSG00000144426,NBEAL1,approved,MCF7,nucleoplasm;cytosol,nucleoplasm,cytosol
+749_C1_1,ENSG00000145293,ENOPH1,approved,MCF7,nucleoplasm;nuclear bodies,nucleoplasm,nuclear bodies
+1070_D9_3,ENSG00000145331,TRMT10A,supported,MCF7,actin filaments;nucleoli;nucleoplasm;cytosol,actin filaments;nucleoli;nucleoplasm,cytosol
+1147_A6_1,ENSG00000145391,SETD7,enhanced,MCF7,nucleoli;nucleoli rim;mitotic chromosome,nucleoli;nucleoli rim,mitotic chromosome
+723_B4_2,ENSG00000145912,NHP2,supported,MCF7,nucleoplasm;cytosol,nucleoplasm,cytosol
+767_H10_2,ENSG00000146066,HIGD2A,supported,MCF7,mitochondria;cytosol,mitochondria,cytosol
+1070_H4_4,ENSG00000146576,C7orf26,approved,MCF7,nucleoplasm;cytosol;intermediate filaments;nucleoli,nucleoplasm,cytosol;intermediate filaments;nucleoli
+840_B12_1,ENSG00000147799,ARHGAP39,approved,MCF7,cytosol;cytokinetic bridge;microtubules;nucleoplasm,cytosol,cytokinetic bridge;microtubules;nucleoplasm
+824_D1_2,ENSG00000148291,SURF2,enhanced,MCF7,nucleoli;nucleoli rim;nucleoplasm,nucleoli;nucleoli rim,nucleoplasm
+722_A5_2,ENSG00000148303,RPL7A,approved,MCF7,nucleoli;vesicles,nucleoli,vesicles
+1208_H1_4,ENSG00000149476,TKFC,approved,MCF7,cytosol;nucleoplasm,cytosol,nucleoplasm
+1592_F10_3,ENSG00000149503,INCENP,supported,MCF7,kinetochore;nuclear bodies;midbody;nucleoplasm,kinetochore;nuclear bodies,midbody;nucleoplasm
+964_D1_2,ENSG00000149554,CHEK1,supported,MCF7,nucleoplasm;vesicles,nucleoplasm,vesicles
+766_G4_2,ENSG00000149679,CABLES2,approved,MCF7,nuclear bodies;cell junctions;nucleoplasm,nuclear bodies,cell junctions;nucleoplasm
+1080_A3_2,ENSG00000149823,VPS51,approved,MCF7,golgi apparatus;vesicles;nucleoli,golgi apparatus;vesicles,nucleoli
+1070_B10_3,ENSG00000151240,DIP2C,approved,MCF7,cytosol;nucleoplasm;vesicles,cytosol;nucleoplasm,vesicles
+767_B6_5,ENSG00000152082,MZT2B,supported,MCF7,centrosome;cytosol,centrosome,cytosol
+723_D2_1,ENSG00000152348,ATG10,approved,MCF7,nucleoli;nucleoplasm,nucleoli,nucleoplasm
+1592_B4_2,ENSG00000152894,PTPRK,supported,MCF7,cell junctions;plasma membrane;vesicles,cell junctions,plasma membrane;vesicles
+721_G11_1,ENSG00000153485,TMEM251,approved,MCF7,cell junctions;golgi apparatus,cell junctions,golgi apparatus
+1232_E11_2,ENSG00000155066,PROM2,approved,MCF7,nucleoplasm;plasma membrane;cell junctions,nucleoplasm;plasma membrane,cell junctions
+1147_C10_2,ENSG00000156411,ATP5MPL,supported,MCF7,mitochondria;nucleoli fibrillar center,mitochondria,nucleoli fibrillar center
+723_D7_1,ENSG00000156697,UTP14A,supported,MCF7,nucleoli;cytosol,nucleoli,cytosol
+965_G12_2,ENSG00000156795,WDYHV1,supported,MCF7,nucleoplasm;vesicles,nucleoplasm,vesicles
+766_G10_1,ENSG00000158480,SPATA2,approved,MCF7,nucleoli fibrillar center;nucleoplasm,nucleoli fibrillar center,nucleoplasm
+766_A10_1,ENSG00000160124,CCDC58,approved,MCF7,mitochondria;nucleoli,mitochondria,nucleoli
+1134_F11_5,ENSG00000160180,TFF3,approved,MCF7,nucleoplasm;nucleoli,nucleoplasm,nucleoli
+1081_C3_1,ENSG00000160221,C21orf33,approved,MCF7,mitochondria;centrosome,mitochondria,centrosome
+1082_B10_7,ENSG00000160446,ZDHHC12,approved,MCF7,nucleoplasm;intermediate filaments,nucleoplasm,intermediate filaments
+749_E3_2,ENSG00000160949,TONSL,supported,MCF7,nucleoplasm;nuclear bodies,nucleoplasm,nuclear bodies
+840_D11_1,ENSG00000161888,SPC24,supported,MCF7,nucleoplasm;nucleoli,nucleoplasm,nucleoli
+721_F8_1,ENSG00000162889,MAPKAPK2,supported,MCF7,nucleoplasm;centrosome,nucleoplasm,centrosome
+1070_G5_3,ENSG00000163312,HELQ,approved,MCF7,nuclear speckles;nucleoplasm,nuclear speckles,nucleoplasm
+1412_E11_4,ENSG00000163444,TMEM183A,approved,MCF7,plasma membrane;cell junctions;nucleoplasm,plasma membrane,cell junctions;nucleoplasm
+1503_D1_1,ENSG00000163508,EOMES,approved,MCF7,nucleoplasm;cytosol;golgi apparatus,nucleoplasm,cytosol;golgi apparatus
+1226_C11_1,ENSG00000163704,PRRT3,approved,MCF7,plasma membrane;nucleoplasm,plasma membrane,nucleoplasm
+1231_F9_5,ENSG00000164144,ARFIP1,supported,MCF7,golgi apparatus;vesicles;nucleoplasm,golgi apparatus;vesicles,nucleoplasm
+1147_F1_4,ENSG00000164219,PGGT1B,approved,MCF7,endoplasmic reticulum;nucleoplasm;cytosol,endoplasmic reticulum;nucleoplasm,cytosol
+1502_B10_2,ENSG00000164309,CMYA5,approved,MCF7,cytosol;nuclear speckles;plasma membrane;vesicles,cytosol;nuclear speckles,plasma membrane;vesicles
+723_B8_2,ENSG00000164576,SAP30L,supported,MCF7,nucleoli fibrillar center;nucleoplasm,nucleoli fibrillar center,nucleoplasm
+1137_F4_1,ENSG00000164610,RP9,enhanced,MCF7,nucleoplasm;cytosol;vesicles,nucleoplasm,cytosol;vesicles
+1357_C12_6,ENSG00000165059,PRKACG,uncertain,MCF7,cytosol;cytokinetic bridge,cytosol,cytokinetic bridge
+1217_D8_2,ENSG00000165632,TAF3,supported,MCF7,nucleoplasm;nuclear membrane,nucleoplasm,nuclear membrane
+1081_D1_2,ENSG00000165731,RET,approved,MCF7,cytosol;golgi apparatus;plasma membrane,cytosol;golgi apparatus,plasma membrane
+1081_B5_2,ENSG00000165943,MOAP1,approved,MCF7,nucleoplasm;cell junctions,nucleoplasm,cell junctions
+723_H10_2,ENSG00000166135,HIF1AN,supported,MCF7,nucleoplasm;cytosol,nucleoplasm,cytosol
+1938_G8_19_cr5d248f7441b6f,ENSG00000166596,CFAP52,approved,MCF7,mitochondria;nucleoplasm,mitochondria,nucleoplasm
+714_F2_2,ENSG00000166747,AP1G1,enhanced,MCF7,vesicles;cytosol,vesicles,cytosol
+840_D10_2,ENSG00000167118,URM1,approved,MCF7,vesicles;nucleoplasm,vesicles,nucleoplasm
+868_H9_2,ENSG00000167123,CERCAM,approved,MCF7,nucleoli;nucleoplasm;cell junctions,nucleoli;nucleoplasm,cell junctions
+965_C5_2,ENSG00000167880,EVPL,supported,MCF7,intermediate filaments;cytosol,intermediate filaments,cytosol
+1070_F2_3,ENSG00000167971,CASKIN1,approved,MCF7,nucleoplasm;cytosol,nucleoplasm,cytosol
+840_D8_1,ENSG00000168092,PAFAH1B2,supported,MCF7,cytosol;nucleoli;plasma membrane,cytosol,nucleoli;plasma membrane
+1231_B5_3,ENSG00000168884,TNIP2,enhanced,MCF7,nucleoplasm;cytosol,nucleoplasm,cytosol
+824_C8_5,ENSG00000169047,IRS1,supported,MCF7,cytosol;nucleoplasm;plasma membrane,cytosol;nucleoplasm,plasma membrane
+767_A6_2,ENSG00000169131,ZNF354A,supported,MCF7,nucleoli;nucleoplasm;cytosol,nucleoli;nucleoplasm,cytosol
+1503_A12_2,ENSG00000169564,PCBP1,enhanced,MCF7,nuclear speckles;cytoplasmic bodies,nuclear speckles,cytoplasmic bodies
+1824_B5_5,ENSG00000169862,CTNND2,approved,MCF7,cell junctions;nucleoplasm;cytosol,cell junctions;nucleoplasm,cytosol
+1208_B6_1,ENSG00000170100,ZNF778,supported,MCF7,nuclear bodies;nucleoplasm,nuclear bodies,nucleoplasm
+1232_B11_8,ENSG00000170381,SEMA3E,approved,MCF7,vesicles;nucleoplasm,vesicles,nucleoplasm
+1230_C3_1,ENSG00000170779,CDCA4,supported,MCF7,nucleoplasm;cytosol;plasma membrane,nucleoplasm,cytosol;plasma membrane
+721_E3_3,ENSG00000170832,USP32,approved,MCF7,golgi apparatus;cytosol,golgi apparatus,cytosol
+723_D3_2,ENSG00000170860,LSM3,approved,MCF7,nucleoli;nucleoplasm,nucleoli,nucleoplasm
+714_C4_4,ENSG00000171202,TMEM126A,approved,MCF7,cytosol;nucleoplasm,cytosol,nucleoplasm
+965_H5_1,ENSG00000171316,CHD7,supported,MCF7,nucleoplasm;nucleoli,nucleoplasm,nucleoli
+1080_D5_1,ENSG00000171566,PLRG1,enhanced,MCF7,nuclear speckles;nuclear membrane,nuclear speckles,nuclear membrane
+1503_H6_3,ENSG00000171847,FAM90A1,approved,MCF7,nucleoplasm;nucleoli,nucleoplasm,nucleoli
+721_G2_3,ENSG00000171862,PTEN,supported,MCF7,nucleoplasm;cytosol,nucleoplasm,cytosol
+824_A2_1,ENSG00000171865,RNASEH1,approved,MCF7,nucleoplasm;cytosol,nucleoplasm,cytosol
+868_D4_2,ENSG00000172301,COPRS,supported,MCF7,nucleoplasm;cytosol;plasma membrane,nucleoplasm,cytosol;plasma membrane
+1362_C4_6,ENSG00000172461,FUT9,approved,MCF7,nucleoplasm;cytokinetic bridge;cytosol;microtubules,nucleoplasm,cytokinetic bridge;cytosol;microtubules
+767_E11_2,ENSG00000172530,BANP,supported,MCF7,nucleoplasm;nuclear bodies,nucleoplasm,nuclear bodies
+1231_D1_1,ENSG00000172732,MUS81,supported,MCF7,nucleoli fibrillar center;nucleoplasm,nucleoli fibrillar center,nucleoplasm
+1208_A12_1,ENSG00000172795,DCP2,approved,MCF7,cytoplasmic bodies;nucleoplasm;cell junctions,cytoplasmic bodies;nucleoplasm,cell junctions
+1483_F9_4,ENSG00000173093,CCDC63,approved,MCF7,nuclear bodies;nucleoplasm;vesicles,nuclear bodies;nucleoplasm,vesicles
+840_F4_2,ENSG00000173153,ESRRA,supported,MCF7,microtubules;nucleoli fibrillar center;nucleoplasm;cytokinetic bridge,microtubules;nucleoli fibrillar center;nucleoplasm,cytokinetic bridge
+767_B6_5,ENSG00000173272,MZT2A,supported,MCF7,centrosome;cytosol,centrosome,cytosol
+750_D7_2,ENSG00000173801,JUP,supported,MCF7,cell junctions;plasma membrane;vesicles,cell junctions;plasma membrane,vesicles
+767_E12_2,ENSG00000173898,SPTBN2,approved,MCF7,plasma membrane;cell junctions,plasma membrane,cell junctions
+824_B6_4,ENSG00000173914,RBM4B,approved,MCF7,nucleoplasm;cytosol,nucleoplasm,cytosol
+824_B6_4,ENSG00000173933,RBM4,approved,MCF7,nucleoplasm;cytosol,nucleoplasm,cytosol
+750_C5_2,ENSG00000174963,ZIC4,approved,MCF7,nucleoplasm;cytosol,nucleoplasm,cytosol
+767_H10_2,ENSG00000175202,HIGD2B,supported,MCF7,mitochondria;cytosol,mitochondria,cytosol
+868_G3_2,ENSG00000175215,CTDSP2,approved,MCF7,nucleoplasm;mitochondria,nucleoplasm,mitochondria
+1217_A3_1,ENSG00000175283,DOLK,supported,MCF7,nucleoli;nucleoplasm;cytosol,nucleoli;nucleoplasm,cytosol
+867_B1_2,ENSG00000175334,BANF1,supported,MCF7,nucleoplasm;cytosol,nucleoplasm,cytosol
+958_C12_2,ENSG00000175606,TMEM70,supported,MCF7,mitochondria;nucleoplasm,mitochondria,nucleoplasm
+1070_E12_2,ENSG00000175920,DOK7,enhanced,MCF7,nucleoplasm;mitochondria,nucleoplasm,mitochondria
+1356_H1_2,ENSG00000176383,B3GNT4,approved,MCF7,mitochondria;nucleoli,mitochondria,nucleoli
+767_C6_1,ENSG00000176476,SGF29,approved,MCF7,nucleoli;nucleoplasm,nucleoli,nucleoplasm
+1147_F3_4,ENSG00000177943,MAMDC4,approved,MCF7,nucleoplasm;cytosol,nucleoplasm,cytosol
+767_H3_1,ENSG00000178685,PARP10,supported,MCF7,nucleoli rim;cytosol;golgi apparatus,nucleoli rim,cytosol;golgi apparatus
+1661_G9_1,ENSG00000178719,GRINA,approved,MCF7,nucleoli fibrillar center;cytosol,nucleoli fibrillar center,cytosol
+1226_F12_5,ENSG00000181085,MAPK15,approved,MCF7,cytosol;nucleoplasm;cell junctions,cytosol;nucleoplasm,cell junctions
+1462_B5_2,ENSG00000181638,ZFP41,approved,MCF7,nucleoli;nucleoli rim;nucleoplasm;plasma membrane,nucleoli;nucleoli rim,nucleoplasm;plasma membrane
+1983_H4_21_cr5e58ec2f54efb,ENSG00000181781,ODF3L2,approved,MCF7,nucleoli;golgi apparatus;nucleoplasm,nucleoli,golgi apparatus;nucleoplasm
+767_A8_3,ENSG00000182185,RAD51B,approved,MCF7,nuclear bodies;nucleoplasm,nuclear bodies,nucleoplasm
+868_F12_2,ENSG00000182196,ARL6IP4,approved,MCF7,nucleoplasm;mitochondria,nucleoplasm,mitochondria
+723_B1_1,ENSG00000182481,KPNA2,enhanced,MCF7,nucleoplasm;cytosol,nucleoplasm,cytosol
+723_A2_2,ENSG00000182973,CNOT10,approved,MCF7,centrosome;nucleoplasm;cytosol,centrosome;nucleoplasm,cytosol
+1231_A12_3,ENSG00000183648,NDUFB1,supported,MCF7,mitochondria;nuclear speckles,mitochondria,nuclear speckles
+867_E11_2,ENSG00000183718,TRIM52,approved,MCF7,nucleoli;intermediate filaments,nucleoli,intermediate filaments
+965_A9_1,ENSG00000184208,C22orf46,approved,MCF7,nucleoplasm;nucleoli,nucleoplasm,nucleoli
+867_A8_1,ENSG00000184216,IRAK1,supported,MCF7,cytosol;nucleoplasm,cytosol,nucleoplasm
+958_A12_1,ENSG00000184292,TACSTD2,supported,MCF7,plasma membrane;nucleoli;vesicles,plasma membrane,nucleoli;vesicles
+824_D10_4,ENSG00000184575,XPOT,enhanced,MCF7,nucleoplasm;cytosol,nucleoplasm,cytosol
+1938_B4_6_cr5d2489533afca,ENSG00000184814,PRR23B,uncertain,MCF7,microtubules;nucleoplasm;cytokinetic bridge;cytosol;mitotic spindle;nuclear bodies,microtubules;nucleoplasm,cytokinetic bridge;cytosol;mitotic spindle;nuclear bodies
+766_B10_2,ENSG00000185024,BRF1,approved,MCF7,nucleoplasm;nuclear bodies,nucleoplasm,nuclear bodies
+1217_F12_3,ENSG00000185324,CDK10,supported,MCF7,nucleoplasm;midbody;midbody ring,nucleoplasm,midbody;midbody ring
+1704_B7_21_cr57d84c816c338,ENSG00000185352,HS6ST3,approved,MCF7,nuclear membrane;nucleoplasm;actin filaments;plasma membrane,nuclear membrane;nucleoplasm,actin filaments;plasma membrane
+766_E2_1,ENSG00000186086,NBPF6,approved,MCF7,nucleoplasm;cytosol,nucleoplasm,cytosol
+722_F10_2,ENSG00000186153,WWOX,supported,MCF7,golgi apparatus;cytosol,golgi apparatus,cytosol
+1070_E6_2,ENSG00000186868,MAPT,supported,MCF7,plasma membrane;nuclear speckles,plasma membrane,nuclear speckles
+1462_E2_4,ENSG00000187605,TET3,approved,MCF7,nucleoplasm;cytosol;vesicles,nucleoplasm,cytosol;vesicles
+722_G4_1,ENSG00000189306,RRP7A,approved,MCF7,nucleoli;nucleoplasm;cell junctions,nucleoli;nucleoplasm,cell junctions
+1938_B1_20_cr5d2342e3acfc6,ENSG00000189401,OTUD6A,approved,MCF7,cytosol;vesicles,cytosol,vesicles
+766_E2_1,ENSG00000196427,NBPF4,approved,MCF7,nucleoplasm;cytosol,nucleoplasm,cytosol
+824_H3_3,ENSG00000196976,LAGE3,supported,MCF7,nucleoplasm;nuclear bodies,nucleoplasm,nuclear bodies
+1230_C7_1,ENSG00000197019,SERTAD1,approved,MCF7,golgi apparatus;nucleoplasm,golgi apparatus,nucleoplasm
+1137_H4_5,ENSG00000198081,ZBTB14,supported,MCF7,nucleoplasm;cytosol;nucleoli,nucleoplasm,cytosol;nucleoli
+1208_E3_7,ENSG00000198356,ASNA1,enhanced,MCF7,nucleoli;nucleoplasm,nucleoli,nucleoplasm
+1232_G12_3,ENSG00000204305,AGER,approved,MCF7,cell junctions;plasma membrane;nucleoli fibrillar center,cell junctions;plasma membrane,nucleoli fibrillar center
+1226_G3_1,ENSG00000204371,EHMT2,supported,MCF7,nuclear speckles;nucleoplasm,nuclear speckles,nucleoplasm
+750_G11_2,ENSG00000204922,UQCC3,approved,MCF7,mitochondria;nucleoplasm;cytosol,mitochondria;nucleoplasm,cytosol
+1080_B12_3,ENSG00000205476,CCDC85C,approved,MCF7,cell junctions;nucleoli rim;mitotic chromosome;nuclear bodies;nucleoplasm,cell junctions;nucleoli rim,mitotic chromosome;nuclear bodies;nucleoplasm
+1938_B4_6_cr5d2489533afca,ENSG00000206260,PRR23A,approved,MCF7,microtubules;nucleoplasm;cytokinetic bridge;cytosol;mitotic spindle;nuclear bodies,microtubules;nucleoplasm,cytokinetic bridge;cytosol;mitotic spindle;nuclear bodies
+1231_F6_2,ENSG00000213221,DNLZ,supported,MCF7,mitochondria;nucleoplasm,mitochondria,nucleoplasm
+1147_D7_2,ENSG00000213588,ZBTB9,approved,MCF7,nucleoplasm;cytosol;nuclear membrane,nucleoplasm,cytosol;nuclear membrane
+1081_F4_4,ENSG00000213619,NDUFS3,supported,MCF7,mitochondria;nuclear bodies,mitochondria,nuclear bodies
+1704_G9_27_cr57d838be27d3e,ENSG00000213937,CLDN9,supported,MCF7,cell junctions;vesicles,cell junctions,vesicles
+1081_A7_1,ENSG00000215183,MSMP,supported,MCF7,vesicles;cytosol,vesicles,cytosol
+1208_B10_2,ENSG00000215218,UBE2QL1,supported,MCF7,nucleoplasm;plasma membrane,nucleoplasm,plasma membrane
+1137_A10_4,ENSG00000221944,TIGD1,approved,MCF7,mitotic chromosome;nucleoli rim;nuclear bodies;nucleoplasm,mitotic chromosome;nucleoli rim,nuclear bodies;nucleoplasm
+766_C2_1,ENSG00000225528,Z82206.1,approved,MCF7,nucleoli;nucleoli rim;nuclear bodies;nucleoplasm,nucleoli;nucleoli rim,nuclear bodies;nucleoplasm
+1502_C5_6,ENSG00000227268,KLLN,supported,MCF7,nucleoplasm;nucleoli,nucleoplasm,nucleoli
+714_G7_2,ENSG00000229809,ZNF688,approved,MCF7,nucleoplasm;cell junctions;plasma membrane,nucleoplasm,cell junctions;plasma membrane
+1503_H6_3,ENSG00000229924,FAM90A26,approved,MCF7,nucleoplasm;nucleoli,nucleoplasm,nucleoli
+766_C2_1,ENSG00000232112,TMA7,approved,MCF7,nucleoli;nucleoli rim;nuclear bodies;nucleoplasm,nucleoli;nucleoli rim,nuclear bodies;nucleoplasm
+1938_B4_6_cr5d2489533afca,ENSG00000233701,PRR23C,approved,MCF7,microtubules;nucleoplasm;cytokinetic bridge;cytosol;mitotic spindle;nuclear bodies,microtubules;nucleoplasm,cytokinetic bridge;cytosol;mitotic spindle;nuclear bodies
+1362_C6_1,ENSG00000236699,ARHGEF38,approved,MCF7,nucleoplasm;centrosome,nucleoplasm,centrosome
+1217_F9_2,ENSG00000241468,ATP5MF,supported,MCF7,mitochondria;nuclear membrane,mitochondria,nuclear membrane
+1081_B2_2,ENSG00000241685,ARPC1A,approved,MCF7,cell junctions;cytosol,cell junctions,cytosol
+1592_A5_2,ENSG00000241973,PI4KA,approved,MCF7,nucleoplasm;plasma membrane,nucleoplasm,plasma membrane
+957_D4_1,ENSG00000242028,HYPK,supported,MCF7,nucleoplasm;microtubules,nucleoplasm,microtubules
+750_A11_2,ENSG00000242612,DECR2,approved,MCF7,peroxisomes;microtubules,peroxisomes,microtubules
+824_B6_4,ENSG00000248643,RBM14-RBM4,approved,MCF7,nucleoplasm;cytosol,nucleoplasm,cytosol
+1704_D9_22_cr580a0208876b1,ENSG00000249158,PCDHA11,approved,MCF7,cell junctions;vesicles;cytoplasmic bodies,cell junctions;vesicles,cytoplasmic bodies
+723_D7_1,ENSG00000253797,UTP14C,approved,MCF7,nucleoli;cytosol,nucleoli,cytosol
+1226_C3_1,ENSG00000254999,BRK1,approved,MCF7,nuclear speckles;cell junctions,nuclear speckles,cell junctions
+722_G8_1,ENSG00000260027,HOXB7,supported,MCF7,nuclear bodies;nucleoplasm;cytosol,nuclear bodies;nucleoplasm,cytosol
+824_E3_3,ENSG00000264364,DYNLL2,uncertain,MCF7,cytosol;nucleoplasm;nuclear bodies,cytosol;nucleoplasm,nuclear bodies
+1462_B5_2,ENSG00000264668,AC138696.1,approved,MCF7,nucleoli;nucleoli rim;nucleoplasm;plasma membrane,nucleoli;nucleoli rim,nucleoplasm;plasma membrane
+965_D12_2,ENSG00000265972,TXNIP,approved,MCF7,plasma membrane;cytosol,plasma membrane,cytosol
+1502_H9_3,ENSG00000272514,CFAP206,approved,MCF7,nucleoplasm;cell junctions,nucleoplasm,cell junctions
+1081_C3_1,ENSG00000280071,FP565260.6,approved,MCF7,mitochondria;centrosome,mitochondria,centrosome
+1081_B2_2,ENSG00000284292,AC004922.1,approved,MCF7,cell junctions;cytosol,cell junctions,cytosol

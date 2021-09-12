@@ -1,0 +1,21 @@
+Img_Id,Gene,Gene name,Reliability,Cell Line,Location,Main,Addition
+1968_D5_1,ENSG00000075673,ATP12A,approved,SuSa,cytosol;plasma membrane;actin filaments,cytosol;plasma membrane,actin filaments
+1996_G6_3,ENSG00000077274,CAPN6,approved,SuSa,centriolar satellite;cytosol;nucleoplasm,centriolar satellite,cytosol;nucleoplasm
+1996_A8_3,ENSG00000092009,CMA1,supported,SuSa,cytoplasmic bodies;cytosol,cytoplasmic bodies,cytosol
+1968_G5_3,ENSG00000111704,NANOG,supported,SuSa,nucleoplasm;vesicles,nucleoplasm,vesicles
+1969_E9_5,ENSG00000130182,ZSCAN10,approved,SuSa,nucleoplasm;centrosome,nucleoplasm,centrosome
+1996_E1_2,ENSG00000131264,CDX4,approved,SuSa,nuclear speckles;nucleoplasm;cytosol,nuclear speckles;nucleoplasm,cytosol
+1996_H1_2,ENSG00000131951,LRRC9,approved,SuSa,cell junctions;plasma membrane;nuclear bodies;nucleoplasm,cell junctions;plasma membrane,nuclear bodies;nucleoplasm
+1968_G6_6,ENSG00000140478,GOLGA6D,approved,SuSa,vesicles;centrosome;nucleoplasm,vesicles,centrosome;nucleoplasm
+1969_H4_6,ENSG00000148942,SLC5A12,supported,SuSa,plasma membrane;nucleoplasm,plasma membrane,nucleoplasm
+1968_G6_6,ENSG00000159289,GOLGA6A,approved,SuSa,vesicles;centrosome;nucleoplasm,vesicles,centrosome;nucleoplasm
+1969_F8_1,ENSG00000165694,FRMD7,supported,SuSa,cytosol;plasma membrane;nucleoplasm,cytosol;plasma membrane,nucleoplasm
+1968_G6_6,ENSG00000167195,GOLGA6C,approved,SuSa,vesicles;centrosome;nucleoplasm,vesicles,centrosome;nucleoplasm
+1969_B7_3,ENSG00000170807,LMOD2,uncertain,SuSa,plasma membrane;actin filaments;cytosol,plasma membrane,actin filaments;cytosol
+1968_H2_5,ENSG00000176979,TRIM60,uncertain,SuSa,nucleoli;cytosol;nucleoplasm,nucleoli,cytosol;nucleoplasm
+1969_D1_5,ENSG00000182050,MGAT4C,approved,SuSa,plasma membrane;vesicles;centriolar satellite,plasma membrane;vesicles,centriolar satellite
+1969_C1_2,ENSG00000203783,PRR9,approved,SuSa,cytosol;nucleoplasm;vesicles,cytosol,nucleoplasm;vesicles
+1968_G6_6,ENSG00000215186,GOLGA6B,approved,SuSa,vesicles;centrosome;nucleoplasm,vesicles,centrosome;nucleoplasm
+1968_G5_3,ENSG00000255192,NANOGP8,supported,SuSa,nucleoplasm;vesicles,nucleoplasm,vesicles
+1968_B4_3,ENSG00000268964,ERVV-2,approved,SuSa,cytosol;centrosome,cytosol,centrosome
+1968_B4_3,ENSG00000269526,ERVV-1,approved,SuSa,cytosol;centrosome,cytosol,centrosome

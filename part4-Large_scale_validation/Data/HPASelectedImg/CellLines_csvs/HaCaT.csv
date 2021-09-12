@@ -1,0 +1,78 @@
+Img_Id,Gene,Gene name,Reliability,Cell Line,Location,Main,Addition
+1802_G5_3,ENSG00000006025,OSBPL7,approved,HaCaT,cytosol;nucleoplasm;plasma membrane,cytosol;nucleoplasm,plasma membrane
+1343_D11_2,ENSG00000010318,PHF7,supported,HaCaT,nucleoplasm;golgi apparatus,nucleoplasm,golgi apparatus
+1576_D2_1,ENSG00000066382,MPPED2,approved,HaCaT,nucleoli;mitochondria;vesicles,nucleoli,mitochondria;vesicles
+1346_D3_2,ENSG00000068697,LAPTM4A,approved,HaCaT,golgi apparatus;vesicles;plasma membrane,golgi apparatus;vesicles,plasma membrane
+1315_A3_2,ENSG00000070214,SLC44A1,supported,HaCaT,mitochondria;nucleoplasm,mitochondria,nucleoplasm
+1315_C1_2,ENSG00000070269,TMEM260,approved,HaCaT,cytosol;nucleoplasm;focal adhesion sites,cytosol;nucleoplasm,focal adhesion sites
+1802_A10_2,ENSG00000073169,SELENOO,supported,HaCaT,mitochondria;mitotic chromosome,mitochondria,mitotic chromosome
+1324_C10_2,ENSG00000075711,DLG1,uncertain,HaCaT,vesicles;plasma membrane,vesicles,plasma membrane
+1591_F5_3,ENSG00000089250,NOS1,supported,HaCaT,plasma membrane;nucleoplasm,plasma membrane,nucleoplasm
+1715_F3_5_cr57fd1233a1185,ENSG00000094804,CDC6,approved,HaCaT,cytosol;nucleoplasm;cytokinetic bridge;mitotic spindle,cytosol;nucleoplasm,cytokinetic bridge;mitotic spindle
+1324_E2_6,ENSG00000095564,BTAF1,supported,HaCaT,nucleoplasm;vesicles,nucleoplasm,vesicles
+1320_A6_5,ENSG00000099814,CEP170B,approved,HaCaT,cytosol;centrosome;microtubules,cytosol,centrosome;microtubules
+1324_H1_2,ENSG00000107864,CPEB3,approved,HaCaT,cytosol;midbody;nucleoplasm;plasma membrane,cytosol,midbody;nucleoplasm;plasma membrane
+1908_G4_3,ENSG00000108523,RNF167,approved,HaCaT,cytosol;vesicles;centriolar satellite;mitotic spindle,cytosol;vesicles,centriolar satellite;mitotic spindle
+1324_A12_3,ENSG00000109929,SC5D,approved,HaCaT,endoplasmic reticulum;nucleoplasm;cytosol;plasma membrane,endoplasmic reticulum;nucleoplasm,cytosol;plasma membrane
+1608_A10_5,ENSG00000117595,IRF6,supported,HaCaT,cytosol;nucleoplasm,cytosol,nucleoplasm
+1320_E9_1,ENSG00000125484,GTF3C4,supported,HaCaT,nucleoplasm;mitochondria,nucleoplasm,mitochondria
+1582_C11_1,ENSG00000129194,SOX15,supported,HaCaT,nucleoplasm;golgi apparatus;nucleoli;vesicles,nucleoplasm,golgi apparatus;nucleoli;vesicles
+1715_B1_18_cr57fd049b2a359,ENSG00000131620,ANO1,supported,HaCaT,plasma membrane;nucleoplasm,plasma membrane,nucleoplasm
+1343_H7_1,ENSG00000132670,PTPRA,approved,HaCaT,vesicles;nucleoplasm,vesicles,nucleoplasm
+1577_A1_1,ENSG00000134909,ARHGAP32,approved,HaCaT,golgi apparatus;nucleoli fibrillar center;nucleoplasm,golgi apparatus,nucleoli fibrillar center;nucleoplasm
+1343_C2_8,ENSG00000136824,SMC2,supported,HaCaT,nucleoplasm;nucleoli,nucleoplasm,nucleoli
+1314_B6_1,ENSG00000137975,CLCA2,supported,HaCaT,cell junctions;plasma membrane;nucleoplasm,cell junctions;plasma membrane,nucleoplasm
+1941_H1_6,ENSG00000139626,ITGB7,approved,HaCaT,cytosol;plasma membrane;nuclear membrane;nucleoplasm;vesicles,cytosol;plasma membrane,nuclear membrane;nucleoplasm;vesicles
+1573_A9_1,ENSG00000142623,PADI1,approved,HaCaT,cytosol;nucleoplasm,cytosol,nucleoplasm
+1573_E7_2,ENSG00000143546,S100A8,supported,HaCaT,intermediate filaments;cytosol,intermediate filaments,cytosol
+1608_B4_5,ENSG00000143595,AQP10,supported,HaCaT,plasma membrane;vesicles,plasma membrane,vesicles
+1802_H4_1,ENSG00000148719,DNAJB12,supported,HaCaT,endoplasmic reticulum;nuclear membrane,endoplasmic reticulum,nuclear membrane
+1346_F3_2,ENSG00000149016,TUT1,supported,HaCaT,nucleoplasm;cytosol,nucleoplasm,cytosol
+1576_C10_1,ENSG00000151461,UPF2,supported,HaCaT,cytosol;cytoplasmic bodies,cytosol,cytoplasmic bodies
+1320_B1_2,ENSG00000152217,SETBP1,supported,HaCaT,nucleoplasm;cytosol;nuclear bodies,nucleoplasm,cytosol;nuclear bodies
+1576_G5_4,ENSG00000156453,PCDH1,approved,HaCaT,cell junctions;nucleoplasm;nucleoli,cell junctions;nucleoplasm,nucleoli
+1591_G3_3,ENSG00000157227,MMP14,approved,HaCaT,cytosol;intermediate filaments,cytosol,intermediate filaments
+1576_D6_1,ENSG00000162144,CYB561A3,approved,HaCaT,vesicles;nucleoli,vesicles,nucleoli
+1314_G12_11,ENSG00000164535,DAGLB,supported,HaCaT,plasma membrane;nucleoplasm,plasma membrane,nucleoplasm
+1660_A10_6,ENSG00000166261,ZNF202,approved,HaCaT,mitotic chromosome;nucleoli rim;nuclear bodies,mitotic chromosome;nucleoli rim,nuclear bodies
+1576_B4_1,ENSG00000166396,SERPINB7,approved,HaCaT,endoplasmic reticulum;mitochondria,endoplasmic reticulum,mitochondria
+1343_F9_1,ENSG00000166689,PLEKHA7,enhanced,HaCaT,cell junctions;nucleoplasm;cytosol,cell junctions;nucleoplasm,cytosol
+1315_E1_3,ENSG00000168528,SERINC2,approved,HaCaT,plasma membrane;nucleoplasm,plasma membrane,nucleoplasm
+1660_C7_3,ENSG00000169035,KLK7,supported,HaCaT,plasma membrane;nuclear membrane,plasma membrane,nuclear membrane
+1320_G5_6,ENSG00000171346,KRT15,supported,HaCaT,intermediate filaments;nucleoplasm,intermediate filaments,nucleoplasm
+1591_C2_2,ENSG00000171476,HOPX,approved,HaCaT,nuclear bodies;cytosol,nuclear bodies,cytosol
+1660_B9_5,ENSG00000172345,STARD5,approved,HaCaT,vesicles;cytosol,vesicles,cytosol
+1346_G10_2,ENSG00000173402,DAG1,supported,HaCaT,plasma membrane;vesicles;nucleoplasm,plasma membrane;vesicles,nucleoplasm
+1573_E4_6,ENSG00000173848,NET1,approved,HaCaT,nucleoplasm;vesicles,nucleoplasm,vesicles
+1320_H3_6,ENSG00000174485,DENND4A,approved,HaCaT,mitotic chromosome;nucleoli rim;nucleoplasm,mitotic chromosome;nucleoli rim,nucleoplasm
+1802_B10_2,ENSG00000176208,ATAD5,approved,HaCaT,nucleoplasm;centriolar satellite;cytokinetic bridge;cytosol,nucleoplasm,centriolar satellite;cytokinetic bridge;cytosol
+1314_A6_2,ENSG00000176842,IRX5,approved,HaCaT,nuclear speckles;cytosol;microtubules,nuclear speckles,cytosol;microtubules
+1573_F1_3,ENSG00000177494,ZBED2,approved,HaCaT,cytosol;mitochondria;nuclear bodies,cytosol;mitochondria,nuclear bodies
+1941_C4_5,ENSG00000178586,OR6B3,approved,HaCaT,plasma membrane;cytosol,plasma membrane,cytosol
+1576_F3_2,ENSG00000181885,CLDN7,approved,HaCaT,vesicles;cell junctions,vesicles,cell junctions
+1941_C4_5,ENSG00000182083,OR6B2,approved,HaCaT,plasma membrane;cytosol,plasma membrane,cytosol
+1324_E1_1,ENSG00000182674,KCNB2,approved,HaCaT,plasma membrane;midbody;nucleoli,plasma membrane,midbody;nucleoli
+1941_C2_4,ENSG00000184148,SPRR4,approved,HaCaT,nucleoplasm;cytosol;nuclear membrane,nucleoplasm,cytosol;nuclear membrane
+1941_A4_1,ENSG00000184911,DMRTC1B,approved,HaCaT,nucleoplasm;intermediate filaments,nucleoplasm,intermediate filaments
+1320_A2_3,ENSG00000184985,SORCS2,approved,HaCaT,nucleoplasm;cytosol,nucleoplasm,cytosol
+1802_D3_5,ENSG00000185085,INTS5,supported,HaCaT,nucleoplasm;cytosol,nucleoplasm,cytosol
+1343_E7_1,ENSG00000185513,L3MBTL1,supported,HaCaT,nucleoplasm;plasma membrane,nucleoplasm,plasma membrane
+1802_C9_4,ENSG00000185924,RTN4RL1,approved,HaCaT,actin filaments;midbody;nucleoplasm;plasma membrane,actin filaments,midbody;nucleoplasm;plasma membrane
+1346_D6_3,ENSG00000186635,ARAP1,approved,HaCaT,nucleoplasm;plasma membrane;cytosol;vesicles,nucleoplasm;plasma membrane,cytosol;vesicles
+1314_G9_3,ENSG00000197408,CYP2B6,approved,HaCaT,nuclear membrane;cytosol;nucleoplasm,nuclear membrane,cytosol;nucleoplasm
+1853_E4_6_cr5afd73bdef8e3,ENSG00000197724,PHF2,supported,HaCaT,nucleoli rim;nucleoplasm,nucleoli rim,nucleoplasm
+1577_G3_4,ENSG00000197921,HES5,approved,HaCaT,nucleoplasm;cytosol;nuclear speckles,nucleoplasm,cytosol;nuclear speckles
+1608_D2_2,ENSG00000198171,DDRGK1,supported,HaCaT,endoplasmic reticulum;nucleoli,endoplasmic reticulum,nucleoli
+1941_B4_4,ENSG00000198854,C1orf68,approved,HaCaT,plasma membrane;cytosol,plasma membrane,cytosol
+1314_D3_3,ENSG00000203985,LDLRAD1,uncertain,HaCaT,nucleoplasm;golgi apparatus,nucleoplasm,golgi apparatus
+1707_C1_2_cr57ea8dc591994,ENSG00000204420,MPIG6B,approved,HaCaT,golgi apparatus;cytosol;endoplasmic reticulum;nucleoplasm;plasma membrane,golgi apparatus,cytosol;endoplasmic reticulum;nucleoplasm;plasma membrane
+1573_A1_2,ENSG00000213145,CRIP1,approved,HaCaT,cytosol;nuclear speckles;centrosome;plasma membrane,cytosol;nuclear speckles,centrosome;plasma membrane
+1582_D2_1,ENSG00000214827,MTCP1,approved,HaCaT,nucleoplasm;plasma membrane,nucleoplasm,plasma membrane
+1324_B9_9,ENSG00000215788,TNFRSF25,approved,HaCaT,actin filaments;focal adhesion sites;plasma membrane;nucleoplasm,actin filaments;focal adhesion sites;plasma membrane,nucleoplasm
+1314_C4_2,ENSG00000229544,NKX1-2,approved,HaCaT,cytosol;nucleoli fibrillar center,cytosol,nucleoli fibrillar center
+1314_C4_2,ENSG00000235608,NKX1-1,uncertain,HaCaT,cytosol;nucleoli fibrillar center,cytosol,nucleoli fibrillar center
+1324_C4_2,ENSG00000242550,SERPINB10,supported,HaCaT,nucleoplasm;cytosol,nucleoplasm,cytosol
+1324_C2_3,ENSG00000253958,CLDN23,approved,HaCaT,nucleoplasm;plasma membrane,nucleoplasm,plasma membrane
+1320_F1_3,ENSG00000254469,AP002495.1,enhanced,HaCaT,nucleoli;mitotic chromosome,nucleoli,mitotic chromosome
+1941_A4_1,ENSG00000269502,DMRTC1,approved,HaCaT,nucleoplasm;intermediate filaments,nucleoplasm,intermediate filaments
+1660_E6_2,ENSG00000278224,PRICKLE4,approved,HaCaT,centriolar satellite;mitotic spindle,centriolar satellite,mitotic spindle

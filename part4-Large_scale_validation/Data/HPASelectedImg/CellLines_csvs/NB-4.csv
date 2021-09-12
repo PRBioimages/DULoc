@@ -1,0 +1,6 @@
+Img_Id,Gene,Gene name,Reliability,Cell Line,Location,Main,Addition
+1714_D9_3,ENSG00000123338,NCKAP1L,uncertain,NB-4,cytosol;plasma membrane,cytosol,plasma membrane
+1714_F1_2,ENSG00000163563,MNDA,supported,NB-4,nucleoplasm;cytosol;nucleoli;nucleoli rim;vesicles,nucleoplasm,cytosol;nucleoli;nucleoli rim;vesicles
+1714_E1_2,ENSG00000165794,SLC39A2,approved,NB-4,plasma membrane;cytoplasmic bodies,plasma membrane,cytoplasmic bodies
+1714_G2_1,ENSG00000167984,NLRC3,supported,NB-4,cytosol;centriolar satellite;vesicles,cytosol,centriolar satellite;vesicles
+1714_G3_2,ENSG00000174788,PCP2,approved,NB-4,nuclear speckles;vesicles,nuclear speckles,vesicles

@@ -1,0 +1,126 @@
+Img_Id,Gene,Gene name,Reliability,Cell Line,Location,Main,Addition
+1262_C11_2,ENSG00000007237,GAS7,approved,SK-MEL-30,plasma membrane;actin filaments;focal adhesion sites,plasma membrane,actin filaments;focal adhesion sites
+1269_F11_2,ENSG00000013561,RNF14,supported,SK-MEL-30,nucleoplasm;cytosol,nucleoplasm,cytosol
+1364_B4_3,ENSG00000025039,RRAGD,approved,SK-MEL-30,nucleoplasm;centrosome;vesicles,nucleoplasm,centrosome;vesicles
+1360_A11_3,ENSG00000028839,TBPL1,supported,SK-MEL-30,nucleoplasm;nucleoli,nucleoplasm,nucleoli
+1263_A9_1,ENSG00000041988,THAP3,approved,SK-MEL-30,nucleoplasm;mitochondria;nucleoli,nucleoplasm,mitochondria;nucleoli
+1269_F4_1,ENSG00000051382,PIK3CB,supported,SK-MEL-30,nucleoplasm;midbody;nucleoli;vesicles,nucleoplasm,midbody;nucleoli;vesicles
+1269_E9_1,ENSG00000056998,GYG2,approved,SK-MEL-30,cytosol;nucleoli;nucleoplasm,cytosol;nucleoli,nucleoplasm
+1803_E1_2,ENSG00000058799,YIPF1,supported,SK-MEL-30,golgi apparatus;plasma membrane;nucleoplasm,golgi apparatus;plasma membrane,nucleoplasm
+1269_C1_1,ENSG00000061337,LZTS1,approved,SK-MEL-30,plasma membrane;nucleoli,plasma membrane,nucleoli
+1371_C6_1,ENSG00000067082,KLF6,supported,SK-MEL-30,nucleoplasm;cytosol;nucleoli;vesicles,nucleoplasm,cytosol;nucleoli;vesicles
+1898_B7_7_cr5ba8a9aa34780,ENSG00000070540,WIPI1,supported,SK-MEL-30,golgi apparatus;cytosol;nucleoplasm,golgi apparatus,cytosol;nucleoplasm
+1517_C8_2,ENSG00000077009,NMRK2,enhanced,SK-MEL-30,nucleoplasm;vesicles,nucleoplasm,vesicles
+1844_A3_33,ENSG00000080166,DCT,supported,SK-MEL-30,plasma membrane;vesicles,plasma membrane,vesicles
+1931_C2_4,ENSG00000080511,RDH8,approved,SK-MEL-30,nucleoplasm;cytosol;midbody ring,nucleoplasm,cytosol;midbody ring
+1269_C10_1,ENSG00000082996,RNF13,supported,SK-MEL-30,nucleoplasm;vesicles;cytosol,nucleoplasm;vesicles,cytosol
+1269_C7_7,ENSG00000086300,SNX10,supported,SK-MEL-30,microtubules;nucleoplasm;nucleoli,microtubules;nucleoplasm,nucleoli
+1931_C1_5,ENSG00000099365,STX1B,approved,SK-MEL-30,vesicles;nuclear membrane,vesicles,nuclear membrane
+1844_B1_25_cr5b02929a9162c,ENSG00000100628,ASB2,approved,SK-MEL-30,nucleoli fibrillar center;cytosol;nucleoplasm,nucleoli fibrillar center,cytosol;nucleoplasm
+1291_D11_1,ENSG00000101197,BIRC7,enhanced,SK-MEL-30,nucleoplasm;centrosome;cytosol,nucleoplasm,centrosome;cytosol
+1758_G9_3,ENSG00000103043,VAC14,supported,SK-MEL-30,vesicles;cytosol,vesicles,cytosol
+1758_C3_3,ENSG00000104205,SGK3,supported,SK-MEL-30,vesicles;nucleoplasm,vesicles,nucleoplasm
+1262_E9_7,ENSG00000104332,SFRP1,approved,SK-MEL-30,nucleoli;cytosol,nucleoli,cytosol
+1757_F5_4,ENSG00000104691,UBXN8,supported,SK-MEL-30,endoplasmic reticulum;nucleoli;nucleoplasm,endoplasmic reticulum,nucleoli;nucleoplasm
+1898_H10_31,ENSG00000105559,PLEKHA4,approved,SK-MEL-30,cytosol;plasma membrane;centriolar satellite;cytokinetic bridge,cytosol;plasma membrane,centriolar satellite;cytokinetic bridge
+1371_A12_2,ENSG00000106086,PLEKHA8,supported,SK-MEL-30,golgi apparatus;nucleoplasm,golgi apparatus,nucleoplasm
+1931_C1_5,ENSG00000106089,STX1A,approved,SK-MEL-30,vesicles;nuclear membrane,vesicles,nuclear membrane
+1516_B4_1,ENSG00000108771,DHX58,approved,SK-MEL-30,cytosol;golgi apparatus;nucleoplasm,cytosol;golgi apparatus,nucleoplasm
+1269_D1_1,ENSG00000109265,KIAA1211,approved,SK-MEL-30,nucleoplasm;golgi apparatus,nucleoplasm,golgi apparatus
+1516_C7_1,ENSG00000109832,DDX25,approved,SK-MEL-30,nucleoplasm;cytosol,nucleoplasm,cytosol
+1931_C1_5,ENSG00000111450,STX2,approved,SK-MEL-30,vesicles;nuclear membrane,vesicles,nuclear membrane
+1263_H1_3,ENSG00000112365,ZBTB24,approved,SK-MEL-30,nucleoplasm;centrosome;cytokinetic bridge,nucleoplasm,centrosome;cytokinetic bridge
+1898_E2_18_cr5ba373996726c,ENSG00000114166,KAT2B,enhanced,SK-MEL-30,nucleoplasm;cytosol,nucleoplasm,cytosol
+1361_G2_3,ENSG00000116205,TCEANC2,approved,SK-MEL-30,nucleoplasm;vesicles,nucleoplasm,vesicles
+1263_C11_1,ENSG00000116251,RPL22,approved,SK-MEL-30,nucleoli;nucleoplasm,nucleoli,nucleoplasm
+1269_B9_1,ENSG00000117602,RCAN3,approved,SK-MEL-30,nuclear speckles;nucleoli fibrillar center,nuclear speckles,nucleoli fibrillar center
+1371_E10_4,ENSG00000119185,ITGB1BP1,supported,SK-MEL-30,nucleoplasm;cytosol;nuclear bodies,nucleoplasm,cytosol;nuclear bodies
+1262_F12_1,ENSG00000120053,GOT1,supported,SK-MEL-30,nucleoplasm;cytosol,nucleoplasm,cytosol
+1360_E9_3,ENSG00000121207,LRAT,uncertain,SK-MEL-30,golgi apparatus;endoplasmic reticulum,golgi apparatus,endoplasmic reticulum
+1263_F8_6,ENSG00000123374,CDK2,enhanced,SK-MEL-30,nucleoplasm;centrosome;cytosol,nucleoplasm,centrosome;cytosol
+1484_C1_3,ENSG00000123983,ACSL3,approved,SK-MEL-30,nucleoli;nucleoli rim;lipid droplets,nucleoli;nucleoli rim,lipid droplets
+1757_F3_1,ENSG00000124900,TRIM51,approved,SK-MEL-30,vesicles;nucleoli,vesicles,nucleoli
+1269_C2_3,ENSG00000125931,CITED1,supported,SK-MEL-30,nucleoplasm;cytosol,nucleoplasm,cytosol
+1898_E1_19_cr5ba363dfb5724,ENSG00000126106,TMEM53,approved,SK-MEL-30,golgi apparatus;focal adhesion sites,golgi apparatus,focal adhesion sites
+1561_A3_1,ENSG00000127990,SGCE,approved,SK-MEL-30,plasma membrane;vesicles;golgi apparatus;nucleoplasm,plasma membrane;vesicles,golgi apparatus;nucleoplasm
+1263_C7_3,ENSG00000132405,TBC1D14,supported,SK-MEL-30,golgi apparatus;vesicles;nucleoplasm,golgi apparatus;vesicles,nucleoplasm
+1844_D1_9_cr5b0294470677c,ENSG00000132950,ZMYM5,approved,SK-MEL-30,nucleoplasm;golgi apparatus,nucleoplasm,golgi apparatus
+1279_F1_1,ENSG00000133740,E2F5,supported,SK-MEL-30,nucleoplasm;nucleoli;vesicles,nucleoplasm,nucleoli;vesicles
+1800_D9_6,ENSG00000134160,TRPM1,uncertain,SK-MEL-30,centriolar satellite;golgi apparatus;plasma membrane,centriolar satellite,golgi apparatus;plasma membrane
+1682_G2_2,ENSG00000134326,CMPK2,supported,SK-MEL-30,mitochondria;nucleoplasm,mitochondria,nucleoplasm
+1758_B7_2,ENSG00000134802,SLC43A3,approved,SK-MEL-30,vesicles;nucleoplasm;plasma membrane,vesicles,nucleoplasm;plasma membrane
+1844_D2_20_cr5b03d866e43c4,ENSG00000135424,ITGA7,approved,SK-MEL-30,plasma membrane;nuclear speckles;vesicles,plasma membrane,nuclear speckles;vesicles
+1361_C12_1,ENSG00000138496,PARP9,supported,SK-MEL-30,cytosol;nucleoplasm;mitochondria,cytosol;nucleoplasm,mitochondria
+1263_D5_2,ENSG00000139223,ANP32D,enhanced,SK-MEL-30,centrosome;nucleoplasm;cytosol,centrosome;nucleoplasm,cytosol
+1263_D5_2,ENSG00000140350,ANP32A,enhanced,SK-MEL-30,centrosome;nucleoplasm;cytosol,centrosome;nucleoplasm,cytosol
+1757_D9_1,ENSG00000140450,ARRDC4,supported,SK-MEL-30,plasma membrane;vesicles,plasma membrane,vesicles
+1361_A4_3,ENSG00000140522,RLBP1,supported,SK-MEL-30,cytosol;centrosome;nucleoplasm,cytosol,centrosome;nucleoplasm
+1800_D11_4,ENSG00000141568,FOXK2,supported,SK-MEL-30,nucleoplasm;mitochondria;vesicles,nucleoplasm,mitochondria;vesicles
+1279_B8_3,ENSG00000141642,ELAC1,supported,SK-MEL-30,nucleoplasm;cytosol,nucleoplasm,cytosol
+1263_D5_2,ENSG00000143401,ANP32E,enhanced,SK-MEL-30,centrosome;nucleoplasm;cytosol,centrosome;nucleoplasm,cytosol
+1803_E11_6,ENSG00000144485,HES6,approved,SK-MEL-30,nuclear bodies;cytosol,nuclear bodies,cytosol
+1516_B5_1,ENSG00000144837,PLA1A,approved,SK-MEL-30,cytoplasmic bodies;nuclear speckles;nucleoplasm,cytoplasmic bodies;nuclear speckles,nucleoplasm
+1262_G12_1,ENSG00000155016,CYP2U1,approved,SK-MEL-30,golgi apparatus;nucleoplasm;vesicles,golgi apparatus,nucleoplasm;vesicles
+1364_E3_2,ENSG00000155256,ZFYVE27,approved,SK-MEL-30,nucleoplasm;vesicles;cytosol,nucleoplasm;vesicles,cytosol
+1263_B4_1,ENSG00000157470,FAM81A,approved,SK-MEL-30,nucleoplasm;cytosol,nucleoplasm,cytosol
+1986_B10_2_cr5e5e293711418,ENSG00000158008,EXTL1,approved,SK-MEL-30,centrosome;vesicles,centrosome,vesicles
+1844_C4_31,ENSG00000160307,S100B,supported,SK-MEL-30,cytosol;nucleoplasm;vesicles,cytosol;nucleoplasm,vesicles
+1360_H1_2,ENSG00000162139,NEU3,supported,SK-MEL-30,nucleoplasm;vesicles,nucleoplasm,vesicles
+1803_F1_2,ENSG00000162191,UBXN1,supported,SK-MEL-30,cytosol;nucleoplasm,cytosol,nucleoplasm
+1516_C2_4,ENSG00000162441,LZIC,approved,SK-MEL-30,nucleoplasm;cytosol,nucleoplasm,cytosol
+1364_C2_2,ENSG00000162526,TSSK3,approved,SK-MEL-30,nucleoli;nucleoplasm;nuclear bodies,nucleoli;nucleoplasm,nuclear bodies
+1844_E9_32,ENSG00000162620,LRRIQ3,approved,SK-MEL-30,plasma membrane;nucleoplasm,plasma membrane,nucleoplasm
+1263_C11_1,ENSG00000163584,RPL22L1,approved,SK-MEL-30,nucleoli;nucleoli rim;nucleoplasm,nucleoli;nucleoli rim,nucleoplasm
+1516_A11_3,ENSG00000163686,ABHD6,approved,SK-MEL-30,vesicles;nucleoplasm,vesicles,nucleoplasm
+1931_A1_2,ENSG00000163884,KLF15,supported,SK-MEL-30,nuclear speckles;nucleoplasm;vesicles,nuclear speckles;nucleoplasm,vesicles
+1561_C10_3,ENSG00000164708,PGAM2,approved,SK-MEL-30,nucleoplasm;cytosol;nucleoli,nucleoplasm,cytosol;nucleoli
+1269_A7_1,ENSG00000164989,CCDC171,approved,SK-MEL-30,nucleoplasm;nucleoli,nucleoplasm,nucleoli
+1517_B11_2,ENSG00000166435,XRRA1,supported,SK-MEL-30,nucleoplasm;nuclear bodies,nucleoplasm,nuclear bodies
+1931_G9_1,ENSG00000166439,RNF169,enhanced,SK-MEL-30,nuclear bodies;nucleoplasm;cytosol;nucleoli;nucleoli rim,nuclear bodies;nucleoplasm,cytosol;nucleoli;nucleoli rim
+1931_C1_5,ENSG00000166900,STX3,approved,SK-MEL-30,vesicles;nuclear membrane,vesicles,nuclear membrane
+1516_A4_3,ENSG00000167792,NDUFV1,supported,SK-MEL-30,mitochondria;cytosol,mitochondria,cytosol
+1361_C11_2,ENSG00000168490,PHYHIP,supported,SK-MEL-30,mitochondria;nucleoplasm,mitochondria,nucleoplasm
+1279_D9_1,ENSG00000168904,LRRC28,approved,SK-MEL-30,nucleoplasm;golgi apparatus;mitochondria,nucleoplasm,golgi apparatus;mitochondria
+1279_H8_1,ENSG00000169957,ZNF768,approved,SK-MEL-30,nucleoplasm;vesicles,nucleoplasm,vesicles
+1638_A2_2,ENSG00000170166,HOXD4,supported,SK-MEL-30,nucleoplasm;cell junctions,nucleoplasm,cell junctions
+1898_A5_32,ENSG00000171067,C11orf24,approved,SK-MEL-30,golgi apparatus;nucleoplasm;vesicles,golgi apparatus;nucleoplasm,vesicles
+1484_G3_6,ENSG00000171791,BCL2,supported,SK-MEL-30,nuclear membrane;nucleoplasm,nuclear membrane,nucleoplasm
+1364_H10_1,ENSG00000172497,ACOT12,approved,SK-MEL-30,nucleoplasm;cytosol,nucleoplasm,cytosol
+1484_B5_1,ENSG00000175575,PAAF1,approved,SK-MEL-30,nucleoplasm;cytosol,nucleoplasm,cytosol
+1844_D10_31,ENSG00000176046,NUPR1,supported,SK-MEL-30,nucleoplasm;cytokinetic bridge,nucleoplasm,cytokinetic bridge
+1291_E8_2,ENSG00000179388,EGR3,uncertain,SK-MEL-30,nucleoplasm;vesicles,nucleoplasm,vesicles
+1371_G8_2,ENSG00000179855,GIPC3,approved,SK-MEL-30,nucleoplasm;golgi apparatus;nuclear bodies,nucleoplasm,golgi apparatus;nuclear bodies
+1516_A8_2,ENSG00000180098,TRNAU1AP,approved,SK-MEL-30,nucleoplasm;cytosol,nucleoplasm,cytosol
+1757_A10_1,ENSG00000181350,LRRC75A,approved,SK-MEL-30,nucleoplasm;cytosol;nucleoli,nucleoplasm,cytosol;nucleoli
+1898_C6_19_cr5ba8a6f6e250d,ENSG00000185664,PMEL,supported,SK-MEL-30,endoplasmic reticulum;golgi apparatus,endoplasmic reticulum,golgi apparatus
+1269_B2_10,ENSG00000185728,YTHDF3,approved,SK-MEL-30,nuclear speckles;cytosol;nuclear membrane,nuclear speckles,cytosol;nuclear membrane
+1516_A2_2,ENSG00000188171,ZNF626,approved,SK-MEL-30,nuclear membrane;vesicles;nucleoplasm,nuclear membrane;vesicles,nucleoplasm
+1517_B3_1,ENSG00000189252,SPANXN3,approved,SK-MEL-30,nucleoli fibrillar center;nucleoplasm,nucleoli fibrillar center,nucleoplasm
+1484_B6_2,ENSG00000197093,GAL3ST4,approved,SK-MEL-30,nucleoplasm;cytosol,nucleoplasm,cytosol
+1484_G5_1,ENSG00000198911,SREBF2,supported,SK-MEL-30,nucleoplasm;vesicles;endoplasmic reticulum,nucleoplasm;vesicles,endoplasmic reticulum
+1758_B1_2,ENSG00000204956,PCDHGA1,uncertain,SK-MEL-30,plasma membrane;vesicles;cytosol;nucleoplasm,plasma membrane;vesicles,cytosol;nucleoplasm
+1898_B6_26_cr5ba8a631837a3,ENSG00000213614,HEXA,supported,SK-MEL-30,vesicles;cytosol,vesicles,cytosol
+1269_F6_3,ENSG00000215790,SLC35E2,approved,SK-MEL-30,nucleoplasm;nucleoli,nucleoplasm,nucleoli
+1516_B3_1,ENSG00000232388,SMIM26,approved,SK-MEL-30,nucleoplasm;cytosol,nucleoplasm,cytosol
+1758_B1_2,ENSG00000240764,PCDHGC5,uncertain,SK-MEL-30,plasma membrane;vesicles;cytosol;nucleoplasm,plasma membrane;vesicles,cytosol;nucleoplasm
+1758_B1_2,ENSG00000242419,PCDHGC4,uncertain,SK-MEL-30,plasma membrane;vesicles;cytosol;nucleoplasm,plasma membrane;vesicles,cytosol;nucleoplasm
+1757_D5_2,ENSG00000247746,USP51,approved,SK-MEL-30,cytosol;nucleoli fibrillar center,cytosol,nucleoli fibrillar center
+1758_B1_2,ENSG00000253159,PCDHGA12,uncertain,SK-MEL-30,plasma membrane;vesicles;cytosol;nucleoplasm,plasma membrane;vesicles,cytosol;nucleoplasm
+1361_H9_2,ENSG00000253251,AC008560.1,supported,SK-MEL-30,nucleoplasm;nucleoli,nucleoplasm,nucleoli
+1758_B1_2,ENSG00000253305,PCDHGB6,uncertain,SK-MEL-30,plasma membrane;vesicles;cytosol;nucleoplasm,plasma membrane;vesicles,cytosol;nucleoplasm
+1758_B1_2,ENSG00000253485,PCDHGA5,uncertain,SK-MEL-30,plasma membrane;vesicles;cytosol;nucleoplasm,plasma membrane;vesicles,cytosol;nucleoplasm
+1758_B1_2,ENSG00000253537,PCDHGA7,uncertain,SK-MEL-30,plasma membrane;vesicles;cytosol;nucleoplasm,plasma membrane;vesicles,cytosol;nucleoplasm
+1758_B1_2,ENSG00000253731,PCDHGA6,uncertain,SK-MEL-30,plasma membrane;vesicles;cytosol;nucleoplasm,plasma membrane;vesicles,cytosol;nucleoplasm
+1758_B1_2,ENSG00000253767,PCDHGA8,uncertain,SK-MEL-30,plasma membrane;vesicles;cytosol;nucleoplasm,plasma membrane;vesicles,cytosol;nucleoplasm
+1758_B1_2,ENSG00000253846,PCDHGA10,uncertain,SK-MEL-30,plasma membrane;cytosol;nucleoplasm;vesicles,plasma membrane,cytosol;nucleoplasm;vesicles
+1758_B1_2,ENSG00000253873,PCDHGA11,uncertain,SK-MEL-30,plasma membrane;cytosol;nucleoplasm;vesicles,plasma membrane,cytosol;nucleoplasm;vesicles
+1758_B1_2,ENSG00000253910,PCDHGB2,supported,SK-MEL-30,cytosol;plasma membrane;vesicles;nucleoplasm,cytosol;plasma membrane;vesicles,nucleoplasm
+1758_B1_2,ENSG00000253953,PCDHGB4,uncertain,SK-MEL-30,plasma membrane;vesicles;cytosol;nucleoplasm,plasma membrane;vesicles,cytosol;nucleoplasm
+1758_B1_2,ENSG00000254122,PCDHGB7,uncertain,SK-MEL-30,plasma membrane;vesicles;cytosol;nucleoplasm,plasma membrane;vesicles,cytosol;nucleoplasm
+1758_B1_2,ENSG00000254245,PCDHGA3,uncertain,SK-MEL-30,plasma membrane;vesicles;cytosol;nucleoplasm,plasma membrane;vesicles,cytosol;nucleoplasm
+1758_G1_5,ENSG00000260916,CCPG1,approved,SK-MEL-30,golgi apparatus;endoplasmic reticulum,golgi apparatus,endoplasmic reticulum
+1263_H7_2,ENSG00000261652,C15orf65,approved,SK-MEL-30,nucleoplasm;cytosol,nucleoplasm,cytosol
+1758_B1_2,ENSG00000261934,PCDHGA9,uncertain,SK-MEL-30,plasma membrane;vesicles;cytosol;nucleoplasm,plasma membrane;vesicles,cytosol;nucleoplasm
+1758_B1_2,ENSG00000262576,PCDHGA4,uncertain,SK-MEL-30,plasma membrane;vesicles;cytosol;nucleoplasm,plasma membrane;vesicles,cytosol;nucleoplasm
+1517_B3_1,ENSG00000268988,SPANXN2,approved,SK-MEL-30,nucleoli fibrillar center;nucleoplasm,nucleoli fibrillar center,nucleoplasm
+1758_B1_2,ENSG00000276547,PCDHGB5,uncertain,SK-MEL-30,plasma membrane;vesicles;cytosol;nucleoplasm,plasma membrane;vesicles,cytosol;nucleoplasm

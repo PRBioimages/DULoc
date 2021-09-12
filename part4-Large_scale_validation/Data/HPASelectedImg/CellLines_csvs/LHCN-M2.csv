@@ -1,0 +1,12 @@
+Img_Id,Gene,Gene name,Reliability,Cell Line,Location,Main,Addition
+1782_H7_33,ENSG00000013293,SLC7A14,approved,LHCN-M2,cytosol;vesicles;nucleoplasm;plasma membrane,cytosol;vesicles,nucleoplasm;plasma membrane
+1781_G3_2_cr596dd2684bd26,ENSG00000082126,MPP4,supported,LHCN-M2,cytosol;actin filaments,cytosol,actin filaments
+1782_C6_16_cr596f4e89acec0,ENSG00000105509,HAS1,supported,LHCN-M2,plasma membrane;nucleoplasm,plasma membrane,nucleoplasm
+1781_G4_33,ENSG00000124356,STAMBP,supported,LHCN-M2,nucleoplasm;cytosol;plasma membrane,nucleoplasm,cytosol;plasma membrane
+1781_B8_31,ENSG00000128606,LRRC17,approved,LHCN-M2,vesicles;cytokinetic bridge,vesicles,cytokinetic bridge
+1781_H2_30_cr596dceb1b7bc9,ENSG00000135318,NT5E,supported,LHCN-M2,plasma membrane;cytosol;nucleoplasm,plasma membrane,cytosol;nucleoplasm
+1781_E2_30_cr596dcdeb85b94,ENSG00000154027,AK5,supported,LHCN-M2,cytosol;centriolar satellite,cytosol,centriolar satellite
+1781_C7_31,ENSG00000156466,GDF6,supported,LHCN-M2,vesicles;nuclear membrane;nucleoplasm,vesicles,nuclear membrane;nucleoplasm
+1782_B1_17_cr596b5f3cb51d0,ENSG00000164362,TERT,supported,LHCN-M2,nucleoplasm;cytosol;nuclear speckles,nucleoplasm,cytosol;nuclear speckles
+1781_A5_32,ENSG00000177238,TRIM72,approved,LHCN-M2,vesicles;nucleoplasm,vesicles,nucleoplasm
+1781_C4_7_cr597061ea693b0,ENSG00000183873,SCN5A,supported,LHCN-M2,plasma membrane;nucleoli;nucleoplasm,plasma membrane,nucleoli;nucleoplasm

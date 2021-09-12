@@ -1,0 +1,26 @@
+Img_Id,Gene,Gene name,Reliability,Cell Line,Location,Main,Addition
+1752_F10_8_cr5804d3a31a161,ENSG00000010327,STAB1,approved,HUVEC TERT2,cytosol;nucleoplasm;plasma membrane,cytosol,nucleoplasm;plasma membrane
+1878_C6_27_cr5b8037792853b,ENSG00000013297,CLDN11,supported,HUVEC TERT2,cell junctions;lipid droplets,cell junctions,lipid droplets
+1751_G2_18_cr58009842c82e5,ENSG00000102010,BMX,supported,HUVEC TERT2,plasma membrane;nucleoplasm,plasma membrane,nucleoplasm
+1752_E2_8_cr5804cc90cc642,ENSG00000104967,NOVA2,approved,HUVEC TERT2,golgi apparatus;nuclear bodies;nucleoplasm,golgi apparatus,nuclear bodies;nucleoplasm
+1751_F2_13_cr57fd24589b36f,ENSG00000105851,PIK3CG,supported,HUVEC TERT2,plasma membrane;cytosol,plasma membrane,cytosol
+1878_F8_31,ENSG00000108622,ICAM2,approved,HUVEC TERT2,plasma membrane;cytosol,plasma membrane,cytosol
+1878_A9_32,ENSG00000123977,DAW1,approved,HUVEC TERT2,nucleoplasm;nuclear bodies;plasma membrane,nucleoplasm,nuclear bodies;plasma membrane
+1752_H3_8_cr5804d9d255681,ENSG00000126785,RHOJ,approved,HUVEC TERT2,plasma membrane;nucleoli;nucleoplasm,plasma membrane,nucleoli;nucleoplasm
+1752_D4_8_cr5804df940fa7f,ENSG00000128815,WDFY4,approved,HUVEC TERT2,nucleoplasm;cytosol,nucleoplasm,cytosol
+1751_C9_33,ENSG00000143434,SEMA6C,approved,HUVEC TERT2,nucleoplasm;plasma membrane;cytosol;nucleoli fibrillar center,nucleoplasm;plasma membrane,cytosol;nucleoli fibrillar center
+1752_A10_2_cr5804d8ab17e20,ENSG00000151967,SCHIP1,approved,HUVEC TERT2,cell junctions;cytosol;plasma membrane;nuclear bodies;nucleoplasm,cell junctions;cytosol;plasma membrane,nuclear bodies;nucleoplasm
+1752_C2_3_cr5804c566f3349,ENSG00000153993,SEMA3D,approved,HUVEC TERT2,golgi apparatus;plasma membrane,golgi apparatus,plasma membrane
+1751_E3_3_cr57fd26702fb8d,ENSG00000158113,LRRC43,approved,HUVEC TERT2,golgi apparatus;vesicles,golgi apparatus,vesicles
+1878_D10_40_cr5b7d732830784,ENSG00000158352,SHROOM4,approved,HUVEC TERT2,focal adhesion sites;nucleoplasm;vesicles,focal adhesion sites,nucleoplasm;vesicles
+1751_G4_8_cr57fd2faf1a9d9,ENSG00000163092,XIRP2,approved,HUVEC TERT2,plasma membrane;nucleoplasm,plasma membrane,nucleoplasm
+1752_C1_2_cr5804bfa7d57a4,ENSG00000166794,PPIB,supported,HUVEC TERT2,endoplasmic reticulum;nucleoplasm,endoplasmic reticulum,nucleoplasm
+1751_F6_8_cr57fd37317cd94,ENSG00000168404,MLKL,supported,HUVEC TERT2,plasma membrane;cell junctions;cytosol,plasma membrane,cell junctions;cytosol
+1751_H6_18_cr57fd3811b05b1,ENSG00000169282,KCNAB1,approved,HUVEC TERT2,vesicles;nucleoplasm;plasma membrane,vesicles,nucleoplasm;plasma membrane
+1751_F5_33,ENSG00000172738,TMEM217,approved,HUVEC TERT2,nucleoli;cytosol,nucleoli,cytosol
+1751_G1_7_cr57fd220c70be0,ENSG00000174059,CD34,approved,HUVEC TERT2,cell junctions;plasma membrane;nucleoplasm,cell junctions;plasma membrane,nucleoplasm
+1752_E4_8_cr5804e02104fd7,ENSG00000177721,ANXA2R,approved,HUVEC TERT2,nucleoplasm;cytoplasmic bodies;cytosol,nucleoplasm,cytoplasmic bodies;cytosol
+1752_D3_3_cr5804d4d053e5f,ENSG00000178802,MPI,approved,HUVEC TERT2,cytosol;plasma membrane,cytosol,plasma membrane
+1752_F4_18_cr5804e0b1558cf,ENSG00000196440,ARMCX4,approved,HUVEC TERT2,nucleoplasm;vesicles,nucleoplasm,vesicles
+1752_G8_18_cr5804e4de4d29f,ENSG00000198873,GRK5,supported,HUVEC TERT2,nuclear membrane;nuclear speckles;plasma membrane,nuclear membrane;nuclear speckles,plasma membrane
+1752_A1_13_cr5804bc81d6304,ENSG00000213676,ATF6B,approved,HUVEC TERT2,nucleoplasm;nucleoli,nucleoplasm,nucleoli

@@ -1,0 +1,27 @@
+Img_Id,Gene,Gene name,Reliability,Cell Line,Location,Main,Addition
+1855_G2_11_cr5ad8755e208a7,ENSG00000024862,CCDC28A,approved,THP-1,plasma membrane;nucleoplasm,plasma membrane,nucleoplasm
+1855_B7_15_cr5ad8881abe486,ENSG00000068024,HDAC4,supported,THP-1,nuclear speckles;cytosol;nucleoplasm,nuclear speckles,cytosol;nucleoplasm
+1926_D3_2,ENSG00000100055,CYTH4,supported,THP-1,plasma membrane;centriolar satellite;cytokinetic bridge;cytosol,plasma membrane,centriolar satellite;cytokinetic bridge;cytosol
+1926_A6_2,ENSG00000102524,TNFSF13B,supported,THP-1,plasma membrane;focal adhesion sites;vesicles,plasma membrane,focal adhesion sites;vesicles
+1855_G4_32,ENSG00000103313,MEFV,supported,THP-1,nucleoplasm;cytosol,nucleoplasm,cytosol
+1855_C6_10_cr5ad8844764cb8,ENSG00000122859,NEUROG3,approved,THP-1,nuclear speckles;nucleoplasm,nuclear speckles,nucleoplasm
+1855_F5_3_cr5ad88271b960e,ENSG00000142405,NLRP12,uncertain,THP-1,nucleoplasm;nuclear speckles,nucleoplasm,nuclear speckles
+1926_F1_3,ENSG00000143226,FCGR2A,supported,THP-1,plasma membrane;golgi apparatus,plasma membrane,golgi apparatus
+2005_G4_1,ENSG00000150337,FCGR1A,uncertain,THP-1,vesicles;golgi apparatus;plasma membrane,vesicles,golgi apparatus;plasma membrane
+2005_C3_2,ENSG00000162592,CCDC27,approved,THP-1,cytosol;nucleoplasm,cytosol,nucleoplasm
+1944_E5_5,ENSG00000162753,SLC9C2,approved,THP-1,plasma membrane;nuclear speckles,plasma membrane,nuclear speckles
+1944_G5_3,ENSG00000163564,PYHIN1,approved,THP-1,nucleoli;nucleoplasm,nucleoli,nucleoplasm
+1855_D3_30_cr5ad87765188bd,ENSG00000166928,MS4A14,approved,THP-1,nucleoplasm;plasma membrane,nucleoplasm,plasma membrane
+1944_A12_3,ENSG00000167851,CD300A,approved,THP-1,plasma membrane;cytosol;vesicles,plasma membrane,cytosol;vesicles
+1944_G4_3,ENSG00000169704,GP9,approved,THP-1,cytosol;plasma membrane;nucleoplasm,cytosol;plasma membrane,nucleoplasm
+1855_E8_32,ENSG00000174776,WDR49,approved,THP-1,nuclear bodies;nucleoplasm;cytosol,nuclear bodies;nucleoplasm,cytosol
+1944_A6_2,ENSG00000175820,CCDC168,approved,THP-1,centrosome;nucleoli;cytosol,centrosome;nucleoli,cytosol
+1926_D1_3,ENSG00000175857,GAPT,supported,THP-1,plasma membrane;golgi apparatus;vesicles,plasma membrane,golgi apparatus;vesicles
+1944_B9_4,ENSG00000176635,HORMAD2,supported,THP-1,nucleoplasm;centrosome;cytosol,nucleoplasm,centrosome;cytosol
+1855_E6_15_cr5ad88637398d2,ENSG00000180871,CXCR2,supported,THP-1,plasma membrane;microtubules;mitotic spindle;nucleoplasm,plasma membrane,microtubules;mitotic spindle;nucleoplasm
+1944_D2_2,ENSG00000183631,PRR32,approved,THP-1,plasma membrane;centrosome;nuclear speckles,plasma membrane,centrosome;nuclear speckles
+1926_E2_5,ENSG00000196415,PRTN3,approved,THP-1,cytosol;vesicles,cytosol,vesicles
+2005_G4_1,ENSG00000198019,FCGR1B,uncertain,THP-1,vesicles;golgi apparatus;plasma membrane,vesicles,golgi apparatus;plasma membrane
+1944_D12_3,ENSG00000205108,FAM205A,uncertain,THP-1,plasma membrane;nucleoli fibrillar center,plasma membrane,nucleoli fibrillar center
+1944_H3_2,ENSG00000213265,TSGA13,approved,THP-1,vesicles;cytosol;plasma membrane,vesicles,cytosol;plasma membrane
+1944_C2_3,ENSG00000251380,DCANP1,approved,THP-1,nucleoplasm;nuclear bodies,nucleoplasm,nuclear bodies

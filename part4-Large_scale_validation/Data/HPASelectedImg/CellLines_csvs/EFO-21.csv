@@ -1,0 +1,25 @@
+Img_Id,Gene,Gene name,Reliability,Cell Line,Location,Main,Addition
+1842_G8_62,ENSG00000042429,MED17,approved,EFO-21,nuclear speckles;cytosol,nuclear speckles,cytosol
+1830_A1_61,ENSG00000091129,NRCAM,approved,EFO-21,nucleoplasm;plasma membrane;vesicles,nucleoplasm,plasma membrane;vesicles
+1829_F3_4,ENSG00000099282,TSPAN15,approved,EFO-21,nuclear bodies;plasma membrane;cytosol;vesicles,nuclear bodies;plasma membrane,cytosol;vesicles
+1907_B5_2,ENSG00000099785,2020/3/2,supported,EFO-21,endoplasmic reticulum;cytosol,endoplasmic reticulum,cytosol
+1830_B4_62,ENSG00000130300,PLVAP,approved,EFO-21,cytosol;centrosome;plasma membrane,cytosol,centrosome;plasma membrane
+1830_C10_63,ENSG00000131203,IDO1,supported,EFO-21,cytosol;mitochondria;nucleoplasm;vesicles,cytosol,mitochondria;nucleoplasm;vesicles
+1842_C4_62,ENSG00000132693,CRP,approved,EFO-21,nucleoplasm;vesicles;intermediate filaments,nucleoplasm;vesicles,intermediate filaments
+1907_G2_4,ENSG00000134533,RERG,approved,EFO-21,cytosol;nucleoplasm;nucleoli fibrillar center,cytosol;nucleoplasm,nucleoli fibrillar center
+1937_B5_5,ENSG00000136444,RSAD1,approved,EFO-21,mitochondria;mitotic chromosome;nucleoli,mitochondria,mitotic chromosome;nucleoli
+1907_B1_4,ENSG00000137033,IL33,supported,EFO-21,nucleoplasm;vesicles,nucleoplasm,vesicles
+1842_A5_61,ENSG00000149311,ATM,enhanced,EFO-21,nucleoplasm;vesicles,nucleoplasm,vesicles
+1937_B6_4,ENSG00000156469,MTERF3,supported,EFO-21,mitochondria;cytosol,mitochondria,cytosol
+1919_B1_1,ENSG00000159377,PSMB4,supported,EFO-21,nucleoplasm;mitochondria,nucleoplasm,mitochondria
+1907_B7_4,ENSG00000162493,PDPN,supported,EFO-21,plasma membrane;cell junctions;mitochondria,plasma membrane,cell junctions;mitochondria
+1907_G4_3,ENSG00000165675,ENOX2,approved,EFO-21,cytosol;plasma membrane,cytosol,plasma membrane
+1842_A1_68,ENSG00000179776,CDH5,supported,EFO-21,plasma membrane;nuclear membrane;nucleoplasm,plasma membrane,nuclear membrane;nucleoplasm
+1830_F4_61,ENSG00000182742,HOXB4,supported,EFO-21,nucleoplasm;centrosome,nucleoplasm,centrosome
+1830_C7_61,ENSG00000184584,TMEM173,supported,EFO-21,cytosol;nucleoplasm,cytosol,nucleoplasm
+1830_F7_64,ENSG00000204131,NHSL2,approved,EFO-21,cell junctions;plasma membrane,cell junctions,plasma membrane
+1830_D3_61,ENSG00000204882,GPR20,supported,EFO-21,plasma membrane;cytosol,plasma membrane,cytosol
+1830_B3_32_cr5b0547e6e562d,ENSG00000221972,C3orf36,approved,EFO-21,nucleoli fibrillar center;nucleoplasm;cytosol,nucleoli fibrillar center;nucleoplasm,cytosol
+1830_G1_65,ENSG00000225940,C5orf67,approved,EFO-21,nucleoli;nucleoplasm;vesicles,nucleoli,nucleoplasm;vesicles
+1919_H2_3,ENSG00000274286,ADRA2B,supported,EFO-21,vesicles;cytosol,vesicles,cytosol
+1842_G8_62,ENSG00000284057,AP001273.2,approved,EFO-21,nuclear speckles;cytosol,nuclear speckles,cytosol

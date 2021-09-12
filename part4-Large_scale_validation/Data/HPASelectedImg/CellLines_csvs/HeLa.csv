@@ -1,0 +1,122 @@
+Img_Id,Gene,Gene name,Reliability,Cell Line,Location,Main,Addition
+1797_H2_33,ENSG00000005102,MEOX1,approved,HeLa,nucleoplasm;cytokinetic bridge;cytosol,nucleoplasm,cytokinetic bridge;cytosol
+1760_B11_17_cr594b79e2452cd,ENSG00000006638,TBXA2R,supported,HeLa,plasma membrane;nuclear speckles,plasma membrane,nuclear speckles
+869_D5_2,ENSG00000008130,NADK,approved,HeLa,nucleoplasm;vesicles,nucleoplasm,vesicles
+1054_G12_2,ENSG00000017483,SLC38A5,approved,HeLa,plasma membrane;vesicles;cytosol,plasma membrane;vesicles,cytosol
+1411_D3_1,ENSG00000019169,MARCO,approved,HeLa,golgi apparatus;vesicles,golgi apparatus,vesicles
+2009_E6_5,ENSG00000023171,GRAMD1B,supported,HeLa,endoplasmic reticulum;plasma membrane;vesicles,endoplasmic reticulum;plasma membrane,vesicles
+1050_C11_2,ENSG00000025434,NR1H3,approved,HeLa,nucleoplasm;cytosol,nucleoplasm,cytosol
+1523_H9_4,ENSG00000055163,CYFIP2,approved,HeLa,endoplasmic reticulum;cytosol;plasma membrane,endoplasmic reticulum,cytosol;plasma membrane
+871_F11_1,ENSG00000060642,PIGV,approved,HeLa,cytosol;endoplasmic reticulum,cytosol,endoplasmic reticulum
+1975_D10_3,ENSG00000062650,WAPL,supported,HeLa,nucleoplasm;centrosome;cytokinetic bridge;cytosol;golgi apparatus;mitotic spindle,nucleoplasm,centrosome;cytokinetic bridge;cytosol;golgi apparatus;mitotic spindle
+1276_F3_1,ENSG00000063438,AHRR,supported,HeLa,nucleoplasm;cytosol,nucleoplasm,cytosol
+1060_E9_3,ENSG00000065883,CDK13,supported,HeLa,nuclear speckles;cytosol;golgi apparatus,nuclear speckles,cytosol;golgi apparatus
+784_H5_2,ENSG00000069399,BCL3,supported,HeLa,nucleoplasm;midbody;vesicles,nucleoplasm,midbody;vesicles
+1050_C4_3,ENSG00000080845,DLGAP4,approved,HeLa,cytosol;nucleoplasm;focal adhesion sites,cytosol;nucleoplasm,focal adhesion sites
+785_D12_5,ENSG00000089486,CDIP1,supported,HeLa,centrosome;nucleoplasm,centrosome,nucleoplasm
+1045_G6_1,ENSG00000092758,COL9A3,approved,HeLa,nucleoplasm;intermediate filaments,nucleoplasm,intermediate filaments
+1283_E2_1,ENSG00000099290,WASHC2A,supported,HeLa,vesicles;cytosol;nucleoli,vesicles,cytosol;nucleoli
+1916_C10_25_cr5c99f3ba8408a,ENSG00000099810,MTAP,supported,HeLa,cytosol;nucleoplasm,cytosol,nucleoplasm
+881_A9_2,ENSG00000100065,CARD10,approved,HeLa,intermediate filaments;vesicles;cytosol,intermediate filaments;vesicles,cytosol
+784_B7_1,ENSG00000101191,DIDO1,approved,HeLa,nucleoplasm;cytosol;vesicles,nucleoplasm,cytosol;vesicles
+1283_D7_5,ENSG00000101849,TBL1X,approved,HeLa,nucleoplasm;nucleoli,nucleoplasm,nucleoli
+870_C9_2,ENSG00000102309,PIN4,supported,HeLa,nucleoli;nucleoplasm;mitotic chromosome,nucleoli;nucleoplasm,mitotic chromosome
+1276_A4_4,ENSG00000102854,MSLN,supported,HeLa,vesicles;nucleoplasm,vesicles,nucleoplasm
+784_B4_2,ENSG00000103064,SLC7A6,approved,HeLa,plasma membrane;vesicles,plasma membrane,vesicles
+787_H9_5,ENSG00000103342,GSPT1,approved,HeLa,cytosol;vesicles,cytosol,vesicles
+869_D11_1,ENSG00000103994,ZNF106,approved,HeLa,nucleoli;cytosol;nucleoplasm,nucleoli,cytosol;nucleoplasm
+1645_E1_32,ENSG00000107295,SH3GL2,approved,HeLa,microtubules;cytokinetic bridge;mitotic spindle,microtubules,cytokinetic bridge;mitotic spindle
+1060_H11_1,ENSG00000107341,UBE2R2,approved,HeLa,nucleoli;nucleoplasm;cytosol,nucleoli;nucleoplasm,cytosol
+1348_F5_4,ENSG00000107438,PDLIM1,supported,HeLa,actin filaments;cell junctions;plasma membrane,actin filaments,cell junctions;plasma membrane
+1276_E11_1,ENSG00000107863,ARHGAP21,supported,HeLa,actin filaments;cell junctions;plasma membrane,actin filaments;cell junctions,plasma membrane
+1283_E6_1,ENSG00000109586,GALNT7,approved,HeLa,golgi apparatus;nucleoplasm,golgi apparatus,nucleoplasm
+1046_F12_1,ENSG00000110002,VWA5A,enhanced,HeLa,nucleoplasm;nucleoli,nucleoplasm,nucleoli
+1054_A12_1,ENSG00000113448,PDE4D,supported,HeLa,plasma membrane;cytosol,plasma membrane,cytosol
+1916_D9_14_cr5c9a0726046f7,ENSG00000114270,COL7A1,approved,HeLa,endoplasmic reticulum;vesicles,endoplasmic reticulum,vesicles
+869_C8_2,ENSG00000115350,POLE4,approved,HeLa,nucleoplasm;cytosol,nucleoplasm,cytosol
+784_C6_2,ENSG00000115568,ZNF142,approved,HeLa,nucleoli fibrillar center;nucleoplasm,nucleoli fibrillar center,nucleoplasm
+785_H4_7,ENSG00000115816,CEBPZ,approved,HeLa,vesicles;nucleoplasm,vesicles,nucleoplasm
+1050_B12_7,ENSG00000116711,PLA2G4A,supported,HeLa,cytosol;vesicles,cytosol,vesicles
+1060_G1_2,ENSG00000118369,USP35,approved,HeLa,nucleoli fibrillar center;nucleoplasm,nucleoli fibrillar center,nucleoplasm
+1050_E7_1,ENSG00000119408,NEK6,supported,HeLa,cytosol;nucleoplasm;centriolar satellite,cytosol;nucleoplasm,centriolar satellite
+1044_D12_2,ENSG00000119547,ONECUT2,supported,HeLa,nucleoplasm;actin filaments,nucleoplasm,actin filaments
+881_F7_2,ENSG00000122642,FKBP9,approved,HeLa,golgi apparatus;mitochondria;vesicles,golgi apparatus;mitochondria,vesicles
+1046_F7_3,ENSG00000122711,SPINK4,approved,HeLa,golgi apparatus;vesicles;nucleoplasm,golgi apparatus;vesicles,nucleoplasm
+1411_H8_3,ENSG00000126226,PCID2,approved,HeLa,nucleoli;nucleoplasm,nucleoli,nucleoplasm
+870_H3_1,ENSG00000126461,SCAF1,approved,HeLa,nucleoplasm;cytosol,nucleoplasm,cytosol
+881_B6_1,ENSG00000127507,ADGRE2,uncertain,HeLa,vesicles;cytosol,vesicles,cytosol
+870_B3_1,ENSG00000130702,LAMA5,approved,HeLa,vesicles;nucleoplasm,vesicles,nucleoplasm
+1061_H8_2,ENSG00000131584,ACAP3,approved,HeLa,nucleoplasm;golgi apparatus,nucleoplasm,golgi apparatus
+1916_E10_26_cr5c99f28cf12b4,ENSG00000132639,SNAP25,approved,HeLa,plasma membrane;vesicles,plasma membrane,vesicles
+869_H1_2,ENSG00000132842,AP3B1,approved,HeLa,nucleoplasm;golgi apparatus,nucleoplasm,golgi apparatus
+1054_D3_2,ENSG00000132846,ZBED3,approved,HeLa,plasma membrane;nucleoplasm,plasma membrane,nucleoplasm
+1050_D9_2,ENSG00000134184,GSTM1,approved,HeLa,cytosol;cytokinetic bridge,cytosol,cytokinetic bridge
+1050_E9_5,ENSG00000134201,GSTM5,uncertain,HeLa,cytosol;cytokinetic bridge,cytosol,cytokinetic bridge
+881_E1_2,ENSG00000136930,PSMB7,enhanced,HeLa,nucleoplasm;cytosol;nuclear bodies,nucleoplasm,cytosol;nuclear bodies
+1050_F6_3,ENSG00000136936,XPA,approved,HeLa,nucleoplasm;cytokinetic bridge,nucleoplasm,cytokinetic bridge
+1054_G9_1,ENSG00000138434,SSFA2,supported,HeLa,cytosol;plasma membrane;nucleoplasm,cytosol;plasma membrane,nucleoplasm
+787_D7_1,ENSG00000139372,TDG,supported,HeLa,nucleoplasm;plasma membrane,nucleoplasm,plasma membrane
+869_B3_2,ENSG00000140455,USP3,supported,HeLa,nucleoplasm;midbody ring,nucleoplasm,midbody ring
+784_E2_1,ENSG00000141027,NCOR1,enhanced,HeLa,nucleoplasm;cytosol,nucleoplasm,cytosol
+1411_D1_9,ENSG00000141639,MAPK4,approved,HeLa,golgi apparatus;nucleoplasm;midbody,golgi apparatus;nucleoplasm,midbody
+1050_F4_4,ENSG00000143162,CREG1,approved,HeLa,microtubules;vesicles,microtubules,vesicles
+1046_D8_2,ENSG00000145020,AMT,supported,HeLa,mitochondria;nucleoplasm,mitochondria,nucleoplasm
+870_G1_2,ENSG00000147140,NONO,enhanced,HeLa,nucleoplasm;nuclear speckles;nucleoli fibrillar center,nucleoplasm,nuclear speckles;nucleoli fibrillar center
+1952_C4_1,ENSG00000147454,SLC25A37,approved,HeLa,mitochondria;cytosol,mitochondria,cytosol
+785_H11_7,ENSG00000153071,DAB2,enhanced,HeLa,plasma membrane;vesicles;nucleoli fibrillar center,plasma membrane;vesicles,nucleoli fibrillar center
+1061_B6_4,ENSG00000159733,ZFYVE28,approved,HeLa,cytosol;plasma membrane;nucleoplasm,cytosol;plasma membrane,nucleoplasm
+1046_D10_2,ENSG00000163491,NEK10,approved,HeLa,vesicles;nucleoplasm,vesicles,nucleoplasm
+1916_A3_20_cr5c99f1c2712b3,ENSG00000163632,C3orf49,approved,HeLa,cytosol;centrosome;vesicles,cytosol,centrosome;vesicles
+869_D4_2,ENSG00000164520,RAET1E,supported,HeLa,focal adhesion sites;cytosol,focal adhesion sites,cytosol
+788_A11_2,ENSG00000166326,TRIM44,approved,HeLa,vesicles;plasma membrane,vesicles,plasma membrane
+788_F2_1,ENSG00000166484,MAPK7,enhanced,HeLa,nucleoplasm;cytosol,nucleoplasm,cytosol
+1047_B4_3,ENSG00000167604,NFKBID,uncertain,HeLa,cytosol;nuclear bodies;plasma membrane,cytosol,nuclear bodies;plasma membrane
+1050_D9_2,ENSG00000168765,GSTM4,approved,HeLa,cytosol;cytokinetic bridge,cytosol,cytokinetic bridge
+1276_G8_3,ENSG00000168795,ZBTB5,approved,HeLa,nuclear bodies;nucleoplasm;golgi apparatus,nuclear bodies;nucleoplasm,golgi apparatus
+788_B7_4,ENSG00000168806,LCMT2,approved,HeLa,vesicles;nucleoplasm,vesicles,nucleoplasm
+1054_B7_2,ENSG00000169031,COL4A3,approved,HeLa,vesicles;endoplasmic reticulum,vesicles,endoplasmic reticulum
+1952_G1_3,ENSG00000171815,PCDHB1,uncertain,HeLa,nucleoplasm;plasma membrane,nucleoplasm,plasma membrane
+784_B10_2,ENSG00000172037,LAMB2,approved,HeLa,vesicles;cytosol,vesicles,cytosol
+1283_E2_1,ENSG00000172661,WASHC2C,supported,HeLa,vesicles;cytosol;nucleoli,vesicles,cytosol;nucleoli
+1060_G8_3,ENSG00000174197,MGA,approved,HeLa,nucleoplasm;cytosol,nucleoplasm,cytosol
+869_A1_2,ENSG00000174652,ZNF266,supported,HeLa,vesicles;nucleoplasm;rods & rings,vesicles,nucleoplasm;rods & rings
+1282_D2_2,ENSG00000176444,CLK2,enhanced,HeLa,nucleoplasm;nuclear bodies,nucleoplasm,nuclear bodies
+788_H3_2,ENSG00000176771,NCKAP5,approved,HeLa,nucleoli;cytosol;golgi apparatus;plasma membrane,nucleoli,cytosol;golgi apparatus;plasma membrane
+1276_C3_2,ENSG00000176907,TCIM,approved,HeLa,nucleoplasm;cytosol;plasma membrane,nucleoplasm,cytosol;plasma membrane
+1975_H10_1,ENSG00000179580,RNF151,approved,HeLa,cytosol;nuclear speckles;vesicles,cytosol,nuclear speckles;vesicles
+1916_B8_9_cr5c9a104454579,ENSG00000180113,TDRD6,approved,HeLa,cytokinetic bridge;microtubules;mitotic spindle;vesicles,cytokinetic bridge;microtubules;mitotic spindle,vesicles
+870_D10_3,ENSG00000180818,HOXC10,supported,HeLa,nuclear bodies;nucleoplasm,nuclear bodies,nucleoplasm
+1411_C3_3,ENSG00000182405,PGBD4,approved,HeLa,nucleoplasm;centrosome,nucleoplasm,centrosome
+1282_B12_4,ENSG00000182685,BRICD5,approved,HeLa,actin filaments;nucleoplasm,actin filaments,nucleoplasm
+881_B2_1,ENSG00000182774,RPS17,approved,HeLa,cytosol;endoplasmic reticulum;nucleoli,cytosol;endoplasmic reticulum,nucleoli
+1283_D4_3,ENSG00000182986,ZNF320,uncertain,HeLa,nucleoplasm;cytoplasmic bodies,nucleoplasm,cytoplasmic bodies
+1054_F1_2,ENSG00000183092,BEGAIN,approved,HeLa,nucleoplasm;cytosol;golgi apparatus,nucleoplasm,cytosol;golgi apparatus
+869_F7_1,ENSG00000183291,SELENOF,approved,HeLa,nucleoli;cytosol,nucleoli,cytosol
+1060_F10_3,ENSG00000183340,JRKL,approved,HeLa,nucleoplasm;cytokinetic bridge,nucleoplasm,cytokinetic bridge
+1276_C8_3,ENSG00000183397,C19orf71,approved,HeLa,cytosol;plasma membrane;endoplasmic reticulum,cytosol;plasma membrane,endoplasmic reticulum
+1760_G11_8_cr594b892d46846,ENSG00000183578,TNFAIP8L3,supported,HeLa,cytosol;nucleoplasm,cytosol,nucleoplasm
+1046_C5_1,ENSG00000183671,GPR1,supported,HeLa,plasma membrane;nucleoplasm;vesicles,plasma membrane,nucleoplasm;vesicles
+869_H9_1,ENSG00000184277,TM2D3,approved,HeLa,nucleoplasm;cytosol,nucleoplasm,cytosol
+881_A4_1,ENSG00000185950,IRS2,supported,HeLa,cytosol;aggresome,cytosol,aggresome
+2009_F3_2,ENSG00000187753,C9orf153,approved,HeLa,nuclear bodies;plasma membrane;nucleoplasm;vesicles,nuclear bodies;plasma membrane,nucleoplasm;vesicles
+1645_F1_22_cr57b56735b2d56,ENSG00000187775,DNAH17,approved,HeLa,nucleoplasm;plasma membrane;cytosol,nucleoplasm;plasma membrane,cytosol
+1975_E11_3,ENSG00000188153,COL4A5,approved,HeLa,plasma membrane;vesicles,plasma membrane,vesicles
+1054_A11_1,ENSG00000188517,COL25A1,approved,HeLa,cytosol;vesicles;endoplasmic reticulum,cytosol;vesicles,endoplasmic reticulum
+1277_D11_5,ENSG00000188785,ZNF548,approved,HeLa,nucleoplasm;cytosol,nucleoplasm,cytosol
+871_B12_1,ENSG00000189007,ADAT2,approved,HeLa,golgi apparatus;cytosol;nucleoplasm,golgi apparatus,cytosol;nucleoplasm
+1916_F7_2_cr5c9a12ac86805,ENSG00000189326,SPANXN4,approved,HeLa,plasma membrane;vesicles;nuclear membrane,plasma membrane;vesicles,nuclear membrane
+1916_B12_32,ENSG00000197405,C5AR1,approved,HeLa,golgi apparatus;vesicles,golgi apparatus,vesicles
+1797_E6_47_cr59dc811ecd82e,ENSG00000198157,HMGN5,supported,HeLa,nucleoplasm;mitochondria,nucleoplasm,mitochondria
+1061_B11_1,ENSG00000203880,PCMTD2,approved,HeLa,mitochondria;nucleoplasm,mitochondria,nucleoplasm
+784_D12_2,ENSG00000204264,PSMB8,approved,HeLa,vesicles;cytokinetic bridge,vesicles,cytokinetic bridge
+785_D7_3,ENSG00000204351,SKIV2L,approved,HeLa,nuclear bodies;nucleoplasm;cytosol;mitotic spindle,nuclear bodies;nucleoplasm,cytosol;mitotic spindle
+1283_D4_3,ENSG00000204604,ZNF468,uncertain,HeLa,nucleoplasm;cytoplasmic bodies,nucleoplasm,cytoplasmic bodies
+1050_D9_2,ENSG00000213366,GSTM2,supported,HeLa,cytosol;vesicles,cytosol,vesicles
+1046_A9_2,ENSG00000214510,SPINK13,approved,HeLa,plasma membrane;nucleoplasm,plasma membrane,nucleoplasm
+1411_A5_5,ENSG00000228727,SAPCD1,approved,HeLa,vesicles;cell junctions,vesicles,cell junctions
+788_D10_2,ENSG00000249915,PDCD6,supported,HeLa,cytosol;nucleoplasm,cytosol,nucleoplasm
+1337_A6_4,ENSG00000255423,EBLN2,approved,HeLa,nuclear bodies;nucleoplasm,nuclear bodies,nucleoplasm
+881_B2_1,ENSG00000260836,AC245033.1,approved,HeLa,endoplasmic reticulum;cytosol;nucleoli,endoplasmic reticulum,cytosol;nucleoli
+786_H7_2,ENSG00000266412,NCOA4,approved,HeLa,nucleoli;cytosol;golgi apparatus,nucleoli,cytosol;golgi apparatus
+870_B6_2,ENSG00000267680,ZNF224,supported,HeLa,nuclear membrane;nucleoplasm,nuclear membrane,nucleoplasm
+1283_D4_3,ENSG00000283088,AC010487.3,uncertain,HeLa,nucleoplasm;cytoplasmic bodies,nucleoplasm,cytoplasmic bodies

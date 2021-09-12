@@ -1,0 +1,107 @@
+Img_Id,Gene,Gene name,Reliability,Cell Line,Location,Main,Addition
+1404_C2_1,ENSG00000003400,CASP10,approved,Hep G2,golgi apparatus;vesicles,golgi apparatus,vesicles
+1334_C5_3,ENSG00000010803,SCMH1,supported,Hep G2,nucleoplasm;cytosol;nuclear bodies,nucleoplasm,cytosol;nuclear bodies
+1136_G11_2,ENSG00000033011,ALG1,approved,Hep G2,endoplasmic reticulum;nucleoli fibrillar center,endoplasmic reticulum,nucleoli fibrillar center
+1537_B3_4,ENSG00000042286,AIFM2,supported,Hep G2,vesicles;cytosol;plasma membrane,vesicles,cytosol;plasma membrane
+1816_H10_5,ENSG00000081051,AFP,approved,Hep G2,golgi apparatus;cytosol,golgi apparatus,cytosol
+1763_E3_3,ENSG00000090382,LYZ,approved,Hep G2,actin filaments;golgi apparatus;nucleoplasm,actin filaments;golgi apparatus,nucleoplasm
+1144_E8_3,ENSG00000091262,ABCC6,supported,Hep G2,plasma membrane;nucleoplasm,plasma membrane,nucleoplasm
+1144_C2_4,ENSG00000095932,SMIM24,approved,Hep G2,nucleoplasm;cytosol,nucleoplasm,cytosol
+1293_E3_1,ENSG00000100373,UPK3A,uncertain,Hep G2,nuclear membrane;nuclear bodies,nuclear membrane,nuclear bodies
+1136_F7_2,ENSG00000100883,SRP54,supported,Hep G2,cytosol;nucleoli,cytosol,nucleoli
+1399_A3_2,ENSG00000103264,FBXO31,approved,Hep G2,nucleoplasm;cytosol;golgi apparatus,nucleoplasm,cytosol;golgi apparatus
+1404_B9_2,ENSG00000103356,EARS2,approved,Hep G2,mitochondria;nucleoplasm,mitochondria,nucleoplasm
+1309_F3_6,ENSG00000103449,SALL1,approved,Hep G2,nucleoplasm;cytosol;nuclear speckles;nucleoli,nucleoplasm,cytosol;nuclear speckles;nucleoli
+1917_B9_3,ENSG00000105650,PDE4C,approved,Hep G2,centrosome;cytosol;midbody ring,centrosome;cytosol,midbody ring
+1399_E10_2,ENSG00000107242,PIP5K1B,approved,Hep G2,nucleoplasm;vesicles,nucleoplasm,vesicles
+1816_E2_4,ENSG00000109205,ODAM,supported,Hep G2,nucleoplasm;cytosol,nucleoplasm,cytosol
+763_C11_1,ENSG00000111859,NEDD9,supported,Hep G2,cytosol;nucleoplasm;plasma membrane,cytosol;nucleoplasm,plasma membrane
+1145_E4_4,ENSG00000115504,EHBP1,enhanced,Hep G2,plasma membrane;cytosol,plasma membrane,cytosol
+1558_D5_1,ENSG00000115942,ORC2,supported,Hep G2,nucleoplasm;cytosol,nucleoplasm,cytosol
+1414_C8_1,ENSG00000116014,KISS1R,supported,Hep G2,plasma membrane;vesicles,plasma membrane,vesicles
+1136_C10_2,ENSG00000116685,KIAA2013,approved,Hep G2,golgi apparatus;cytosol,golgi apparatus,cytosol
+1293_B1_2,ENSG00000117707,PROX1,enhanced,Hep G2,nucleoplasm;cytosol,nucleoplasm,cytosol
+762_H5_2,ENSG00000118137,APOA1,approved,Hep G2,vesicles;cytosol,vesicles,cytosol
+1405_C9_3,ENSG00000118514,ALDH8A1,approved,Hep G2,centrosome;nucleoplasm,centrosome,nucleoplasm
+1404_D7_2,ENSG00000122787,AKR1D1,approved,Hep G2,nucleoplasm;cytosol,nucleoplasm,cytosol
+1404_E3_9,ENSG00000127863,TNFRSF19,approved,Hep G2,mitochondria;nucleoplasm,mitochondria,nucleoplasm
+1142_E4_3,ENSG00000129158,SERGEF,enhanced,Hep G2,nucleoplasm;cytosol,nucleoplasm,cytosol
+1762_H7_3,ENSG00000129559,NEDD8,enhanced,Hep G2,nucleoplasm;cytosol,nucleoplasm,cytosol
+1145_A1_1,ENSG00000130173,ANGPTL8,approved,Hep G2,golgi apparatus;nucleoplasm,golgi apparatus,nucleoplasm
+1399_D11_4,ENSG00000132854,KANK4,uncertain,Hep G2,cytosol;microtubules,cytosol,microtubules
+1301_A10_2,ENSG00000135929,CYP27A1,approved,Hep G2,mitochondria;cytosol,mitochondria,cytosol
+1956_F1_2,ENSG00000136931,NR5A1,supported,Hep G2,nucleoplasm;cytosol,nucleoplasm,cytosol
+762_G1_2,ENSG00000138629,UBL7,approved,Hep G2,nucleoplasm;cytosol,nucleoplasm,cytosol
+1404_H2_1,ENSG00000139292,LGR5,approved,Hep G2,golgi apparatus;nucleoplasm,golgi apparatus,nucleoplasm
+1763_D5_4,ENSG00000139344,AMDHD1,approved,Hep G2,cytosol;nucleoplasm;plasma membrane,cytosol,nucleoplasm;plasma membrane
+1399_F8_2,ENSG00000139540,SLC39A5,approved,Hep G2,vesicles;nucleoplasm,vesicles,nucleoplasm
+762_E11_1,ENSG00000140093,SERPINA10,approved,Hep G2,nucleoplasm;cytosol,nucleoplasm,cytosol
+1145_D10_1,ENSG00000140612,SEC11A,approved,Hep G2,nuclear membrane;golgi apparatus,nuclear membrane,golgi apparatus
+1761_D3_2,ENSG00000140876,NUDT7,approved,Hep G2,golgi apparatus;nucleoplasm,golgi apparatus,nucleoplasm
+1294_H6_3,ENSG00000141485,SLC13A5,supported,Hep G2,plasma membrane;cytosol;nucleoplasm,plasma membrane,cytosol;nucleoplasm
+1404_A3_1,ENSG00000141505,ASGR1,supported,Hep G2,vesicles;cell junctions,vesicles,cell junctions
+1537_E1_3,ENSG00000141759,TXNL4A,approved,Hep G2,nuclear membrane;nucleoplasm;cytosol,nuclear membrane;nucleoplasm,cytosol
+1144_G10_1,ENSG00000142484,TM4SF5,uncertain,Hep G2,cell junctions;plasma membrane;nucleoplasm,cell junctions;plasma membrane,nucleoplasm
+1558_E6_2,ENSG00000143952,VPS54,enhanced,Hep G2,golgi apparatus;nucleoplasm,golgi apparatus,nucleoplasm
+1294_D12_2,ENSG00000144283,PKP4,enhanced,Hep G2,cell junctions;plasma membrane,cell junctions,plasma membrane
+753_G8_2,ENSG00000144677,CTDSPL,approved,Hep G2,vesicles;nucleoplasm,vesicles,nucleoplasm
+1301_A4_1,ENSG00000148468,FAM171A1,approved,Hep G2,plasma membrane;nucleoplasm,plasma membrane,nucleoplasm
+1537_F3_1,ENSG00000149809,TM7SF2,supported,Hep G2,endoplasmic reticulum;vesicles,endoplasmic reticulum,vesicles
+1763_G5_3,ENSG00000150540,HNMT,approved,Hep G2,cytosol;nucleoplasm;centrosome,cytosol;nucleoplasm,centrosome
+1410_A10_5,ENSG00000151632,AKR1C2,approved,Hep G2,cytosol;nucleoplasm;endoplasmic reticulum;nucleoli fibrillar center,cytosol;nucleoplasm,endoplasmic reticulum;nucleoli fibrillar center
+1536_D7_2,ENSG00000155592,ZKSCAN2,approved,Hep G2,nucleoplasm;golgi apparatus;nucleoli fibrillar center,nucleoplasm,golgi apparatus;nucleoli fibrillar center
+763_F5_2,ENSG00000158813,EDA,supported,Hep G2,vesicles;lipid droplets,vesicles,lipid droplets
+1404_B7_3,ENSG00000158865,SLC5A11,approved,Hep G2,nucleoplasm;cytosol,nucleoplasm,cytosol
+1954_D11_31_cr5dfb7ddd913c7,ENSG00000160593,JAML,supported,Hep G2,plasma membrane;nucleoplasm,plasma membrane,nucleoplasm
+1662_G4_2,ENSG00000160678,S100A1,supported,Hep G2,cytosol;golgi apparatus;nucleoplasm,cytosol,golgi apparatus;nucleoplasm
+1917_C7_6,ENSG00000160862,AZGP1,approved,Hep G2,vesicles;nucleoplasm,vesicles,nucleoplasm
+1662_F5_1,ENSG00000161835,GRASP,approved,Hep G2,vesicles;nuclear bodies,vesicles,nuclear bodies
+1536_H3_3,ENSG00000161896,IP6K3,approved,Hep G2,nucleoplasm;cytosol,nucleoplasm,cytosol
+1405_C3_1,ENSG00000162460,TMEM82,uncertain,Hep G2,nucleoplasm;cytosol,nucleoplasm,cytosol
+753_B3_3,ENSG00000163631,ALB,enhanced,Hep G2,golgi apparatus;endoplasmic reticulum,golgi apparatus,endoplasmic reticulum
+1301_H9_1,ENSG00000163900,TMEM41A,approved,Hep G2,nucleoplasm;cytosol;golgi apparatus,nucleoplasm,cytosol;golgi apparatus
+1410_D8_2,ENSG00000164056,SPRY1,approved,Hep G2,cytosol;golgi apparatus;nucleoplasm,cytosol;golgi apparatus,nucleoplasm
+1558_H1_1,ENSG00000164125,FAM198B,approved,Hep G2,golgi apparatus;nucleoplasm;nucleoli fibrillar center,golgi apparatus;nucleoplasm,nucleoli fibrillar center
+763_F12_1,ENSG00000165507,DEPP1,supported,Hep G2,mitochondria;vesicles,mitochondria,vesicles
+1135_A7_1,ENSG00000166228,PCBD1,enhanced,Hep G2,nucleoplasm;cytosol,nucleoplasm,cytosol
+1145_D10_1,ENSG00000166562,SEC11C,approved,Hep G2,nuclear membrane;golgi apparatus,nuclear membrane,golgi apparatus
+1294_H7_1,ENSG00000167771,RCOR2,approved,Hep G2,nucleoplasm;midbody;vesicles,nucleoplasm,midbody;vesicles
+1327_C5_2,ENSG00000167840,ZNF232,supported,Hep G2,nucleoplasm;cytosol;vesicles,nucleoplasm,cytosol;vesicles
+1293_E10_1,ENSG00000167992,VWCE,supported,Hep G2,nucleoplasm;cytosol;vesicles,nucleoplasm,cytosol;vesicles
+1405_G4_1,ENSG00000168306,ACOX2,approved,Hep G2,vesicles;cytosol,vesicles,cytosol
+1135_D10_1,ENSG00000169062,UPF3A,approved,Hep G2,nucleoplasm;cytosol;vesicles,nucleoplasm,cytosol;vesicles
+1144_A9_3,ENSG00000171227,TMEM37,approved,Hep G2,nucleoli fibrillar center;cytosol;nucleoplasm,nucleoli fibrillar center,cytosol;nucleoplasm
+1763_F5_3,ENSG00000172771,EFCAB12,approved,Hep G2,nucleoplasm;midbody ring;nuclear bodies,nucleoplasm,midbody ring;nuclear bodies
+1414_H6_3,ENSG00000172986,GXYLT2,approved,Hep G2,nucleoplasm;cytokinetic bridge;midbody ring,nucleoplasm,cytokinetic bridge;midbody ring
+762_H2_1,ENSG00000175130,MARCKSL1,supported,Hep G2,cytosol;actin filaments;nucleoplasm,cytosol,actin filaments;nucleoplasm
+1956_B3_2,ENSG00000175646,PRM1,approved,Hep G2,nucleoplasm;cytosol,nucleoplasm,cytosol
+1954_D12_62,ENSG00000178127,NDUFV2,supported,Hep G2,mitochondria;cytosol;nucleoplasm,mitochondria,cytosol;nucleoplasm
+1404_B10_4,ENSG00000178301,AQP11,approved,Hep G2,nucleoplasm;vesicles,nucleoplasm,vesicles
+1309_E5_3,ENSG00000178445,GLDC,supported,Hep G2,mitochondria;nucleoplasm,mitochondria,nucleoplasm
+1136_F4_3,ENSG00000181788,SIAH2,approved,Hep G2,nucleoplasm;vesicles,nucleoplasm,vesicles
+1662_F11_1,ENSG00000182606,TRAK1,approved,Hep G2,endoplasmic reticulum;nucleoplasm,endoplasmic reticulum,nucleoplasm
+1144_D3_1,ENSG00000183765,CHEK2,supported,Hep G2,nucleoplasm;golgi apparatus,nucleoplasm,golgi apparatus
+1537_C7_2,ENSG00000185338,SOCS1,supported,Hep G2,nucleoplasm;cytoplasmic bodies,nucleoplasm,cytoplasmic bodies
+1662_H2_1,ENSG00000186198,SLC51B,approved,Hep G2,mitochondria;vesicles,mitochondria,vesicles
+1537_A3_2,ENSG00000188338,SLC38A3,approved,Hep G2,cytosol;microtubules,cytosol,microtubules
+1410_A10_5,ENSG00000196139,AKR1C3,approved,Hep G2,cytosol;nucleoplasm;endoplasmic reticulum;nucleoli fibrillar center,cytosol;nucleoplasm,endoplasmic reticulum;nucleoli fibrillar center
+1558_D2_1,ENSG00000197705,KLHL14,supported,Hep G2,cytosol;actin filaments,cytosol,actin filaments
+1410_A10_5,ENSG00000198610,AKR1C4,approved,Hep G2,cytosol;nucleoplasm;endoplasmic reticulum;nucleoli fibrillar center,cytosol;nucleoplasm,endoplasmic reticulum;nucleoli fibrillar center
+1135_B11_3,ENSG00000198648,STK39,supported,Hep G2,nucleoplasm;cytosol;vesicles,nucleoplasm,cytosol;vesicles
+1145_B7_5,ENSG00000198756,COLGALT2,approved,Hep G2,nucleoplasm;vesicles,nucleoplasm,vesicles
+1956_B4_3,ENSG00000203942,C10orf62,approved,Hep G2,cytosol;nucleoplasm;vesicles,cytosol,nucleoplasm;vesicles
+1537_B7_1,ENSG00000204335,SP5,approved,Hep G2,nucleoli;nucleoplasm,nucleoli,nucleoplasm
+1145_G11_2,ENSG00000204978,ERICH4,approved,Hep G2,nucleoplasm;cytosol,nucleoplasm,cytosol
+1293_F8_1,ENSG00000213886,UBD,supported,Hep G2,nucleoplasm;nucleoli fibrillar center,nucleoplasm,nucleoli fibrillar center
+1144_B11_1,ENSG00000214274,ANG,approved,Hep G2,mitotic chromosome;nucleoli;nucleoli rim;actin filaments,mitotic chromosome;nucleoli;nucleoli rim,actin filaments
+1136_E6_13,ENSG00000240344,PPIL3,approved,Hep G2,nucleoplasm;nucleoli,nucleoplasm,nucleoli
+762_H11_1,ENSG00000242265,PEG10,approved,Hep G2,cytosol;nucleoplasm,cytosol,nucleoplasm
+1293_A11_1,ENSG00000250799,PRODH2,approved,Hep G2,nucleoplasm;cytosol,nucleoplasm,cytosol
+1136_G11_2,ENSG00000251287,ALG1L2,uncertain,Hep G2,endoplasmic reticulum;nucleoli fibrillar center,endoplasmic reticulum,nucleoli fibrillar center
+1763_F2_1,ENSG00000258429,PDF,approved,Hep G2,mitochondria;nucleoplasm,mitochondria,nucleoplasm
+762_F5_2,ENSG00000259494,MRPL46,supported,Hep G2,mitochondria;cell junctions;nucleoplasm,mitochondria,cell junctions;nucleoplasm
+1418_E3_1,ENSG00000269699,ZIM2,approved,Hep G2,nuclear speckles;cytosol,nuclear speckles,cytosol
+1334_F8_2,ENSG00000273604,EPOP,supported,Hep G2,nucleoplasm;cytoplasmic bodies;cytosol,nucleoplasm,cytoplasmic bodies;cytosol
+1762_C6_3,ENSG00000273820,USP27X,approved,Hep G2,vesicles;nucleoplasm,vesicles,nucleoplasm
+1301_C8_2,ENSG00000275718,CCL15,approved,Hep G2,golgi apparatus;vesicles,golgi apparatus,vesicles
+1917_B9_3,ENSG00000285188,AC008397.2,approved,Hep G2,centrosome;cytosol;midbody ring,centrosome;cytosol,midbody ring

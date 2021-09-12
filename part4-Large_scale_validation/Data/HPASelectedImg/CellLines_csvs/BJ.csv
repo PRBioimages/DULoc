@@ -1,0 +1,57 @@
+Img_Id,Gene,Gene name,Reliability,Cell Line,Location,Main,Addition
+1368_A8_1,ENSG00000004776,HSPB6,supported,BJ,cytosol;golgi apparatus;nucleoli,cytosol,golgi apparatus;nucleoli
+1742_C2_13_cr58048fbf3cbb5,ENSG00000065534,MYLK,enhanced,BJ,actin filaments;plasma membrane,actin filaments,plasma membrane
+1936_F9_3,ENSG00000068383,INPP5A,approved,BJ,cytosol;plasma membrane,cytosol,plasma membrane
+1368_E5_5,ENSG00000072952,MRVI1,approved,BJ,cytosol;nuclear bodies,cytosol,nuclear bodies
+1331_B3_2,ENSG00000081853,PCDHGA2,approved,BJ,plasma membrane;vesicles;cytosol;focal adhesion sites;nucleoli;nucleoplasm,plasma membrane;vesicles,cytosol;focal adhesion sites;nucleoli;nucleoplasm
+1742_C7_3_cr5804976cbf183,ENSG00000087116,ADAMTS2,approved,BJ,plasma membrane;vesicles,plasma membrane,vesicles
+1801_A1_30_cr59c2517b9e043,ENSG00000092140,G2E3,approved,BJ,cytosol;golgi apparatus;vesicles,cytosol,golgi apparatus;vesicles
+1446_E11_4,ENSG00000095303,PTGS1,supported,BJ,golgi apparatus;vesicles,golgi apparatus,vesicles
+1936_E5_1,ENSG00000102531,FNDC3A,approved,BJ,centrosome;golgi apparatus;nucleoplasm;cytosol,centrosome;golgi apparatus;nucleoplasm,cytosol
+1801_F8_8_cr59ca12465ff60,ENSG00000103489,XYLT1,approved,BJ,plasma membrane;endoplasmic reticulum,plasma membrane,endoplasmic reticulum
+1446_C2_3,ENSG00000104435,STMN2,approved,BJ,vesicles;endoplasmic reticulum,vesicles,endoplasmic reticulum
+1446_H10_1,ENSG00000104643,MTMR9,approved,BJ,centrosome;actin filaments,centrosome,actin filaments
+1742_F8_22_cr5804950d083f7,ENSG00000106236,NPTX2,approved,BJ,actin filaments;golgi apparatus;centrosome,actin filaments;golgi apparatus,centrosome
+1331_H6_2,ENSG00000107554,DNMBP,approved,BJ,cytosol;golgi apparatus;nucleoli;nuclear bodies,cytosol;golgi apparatus;nucleoli,nuclear bodies
+1742_B4_8_cr580492c5c7769,ENSG00000108691,CCL2,approved,BJ,golgi apparatus;vesicles,golgi apparatus,vesicles
+1801_B2_10_cr59c27943da3fb,ENSG00000111711,GOLT1B,supported,BJ,vesicles;nucleoplasm,vesicles,nucleoplasm
+1801_D11_16_cr59c2818f3cd38,ENSG00000115461,IGFBP5,approved,BJ,golgi apparatus;vesicles;nuclear bodies,golgi apparatus;vesicles,nuclear bodies
+1368_A9_4,ENSG00000115468,EFHD1,supported,BJ,golgi apparatus;nucleoli fibrillar center,golgi apparatus,nucleoli fibrillar center
+1866_G1_31,ENSG00000123496,IL13RA2,approved,BJ,cell junctions;plasma membrane;nucleoplasm;vesicles,cell junctions;plasma membrane,nucleoplasm;vesicles
+1742_C9_7_cr580493e9c2801,ENSG00000129009,ISLR,approved,BJ,plasma membrane;golgi apparatus,plasma membrane,golgi apparatus
+1368_H6_1,ENSG00000132530,XAF1,supported,BJ,mitochondria;nucleoplasm;rods & rings,mitochondria,nucleoplasm;rods & rings
+1742_B5_8_cr580494eb42b2d,ENSG00000133110,POSTN,approved,BJ,golgi apparatus;nucleoplasm,golgi apparatus,nucleoplasm
+1612_C4_1,ENSG00000136147,PHF11,supported,BJ,nucleoplasm;nuclear membrane,nucleoplasm,nuclear membrane
+1368_F5_2,ENSG00000136542,GALNT5,approved,BJ,cytosol;golgi apparatus;nucleoli;vesicles,cytosol;golgi apparatus,nucleoli;vesicles
+1368_H8_11,ENSG00000136960,ENPP2,approved,BJ,golgi apparatus;nucleoplasm;actin filaments,golgi apparatus;nucleoplasm,actin filaments
+1533_A7_7,ENSG00000137310,TCF19,approved,BJ,nucleoplasm;nucleoli,nucleoplasm,nucleoli
+1368_B5_5,ENSG00000138395,CDK15,approved,BJ,nucleoplasm;golgi apparatus,nucleoplasm,golgi apparatus
+1331_D4_3,ENSG00000145358,DDIT4L,uncertain,BJ,plasma membrane;actin filaments;nucleoplasm,plasma membrane,actin filaments;nucleoplasm
+1544_D8_6,ENSG00000145817,YIPF5,supported,BJ,endoplasmic reticulum;golgi apparatus;vesicles;nucleoplasm,endoplasmic reticulum;golgi apparatus;vesicles,nucleoplasm
+1446_H11_6,ENSG00000147573,TRIM55,approved,BJ,golgi apparatus;cytosol,golgi apparatus,cytosol
+1331_C4_7,ENSG00000149633,KIAA1755,approved,BJ,nucleoli;golgi apparatus;vesicles,nucleoli,golgi apparatus;vesicles
+1801_A2_32,ENSG00000150347,ARID5B,approved,BJ,endoplasmic reticulum;cytosol;nucleoplasm;plasma membrane,endoplasmic reticulum,cytosol;nucleoplasm;plasma membrane
+1658_C5_4,ENSG00000150867,PIP4K2A,approved,BJ,golgi apparatus;cytosol;plasma membrane,golgi apparatus,cytosol;plasma membrane
+1446_A5_2,ENSG00000152049,KCNE4,approved,BJ,microtubules;nuclear bodies,microtubules,nuclear bodies
+1936_A2_2,ENSG00000160746,ANO10,supported,BJ,plasma membrane;vesicles,plasma membrane,vesicles
+1667_A2_4_cr57e908bf9ae44,ENSG00000167157,PRRX2,approved,BJ,nucleoplasm;nuclear bodies,nucleoplasm,nuclear bodies
+1368_F8_1,ENSG00000168679,SLC16A4,approved,BJ,cytosol;microtubules;cytokinetic bridge,cytosol;microtubules,cytokinetic bridge
+1332_F11_3,ENSG00000169744,LDB2,supported,BJ,nucleoli;nucleoplasm;plasma membrane,nucleoli;nucleoplasm,plasma membrane
+1527_E4_5,ENSG00000171451,DSEL,approved,BJ,plasma membrane;nucleoplasm,plasma membrane,nucleoplasm
+1332_A4_1,ENSG00000177363,LRRN4CL,approved,BJ,nucleoplasm;nuclear bodies,nucleoplasm,nuclear bodies
+1599_B11_5,ENSG00000177432,NAP1L5,approved,BJ,nucleoplasm;cytosol,nucleoplasm,cytosol
+1368_D1_7,ENSG00000179387,ELMOD2,approved,BJ,cytosol;nucleoli;nucleoplasm,cytosol;nucleoli,nucleoplasm
+1743_C8_8_cr57ff7e130f210,ENSG00000181458,TMEM45A,approved,BJ,endoplasmic reticulum;vesicles,endoplasmic reticulum,vesicles
+1446_A3_2,ENSG00000182326,C1S,approved,BJ,nucleoplasm;cytosol,nucleoplasm,cytosol
+1742_D5_7_cr5804956327650,ENSG00000182492,BGN,approved,BJ,golgi apparatus;endoplasmic reticulum,golgi apparatus,endoplasmic reticulum
+1368_C1_5,ENSG00000184838,PRR16,approved,BJ,nucleoplasm;cytosol;midbody,nucleoplasm,cytosol;midbody
+1534_E11_1,ENSG00000185960,SHOX,enhanced,BJ,nucleoplasm;vesicles,nucleoplasm,vesicles
+1446_E5_3,ENSG00000189184,PCDH18,approved,BJ,cytosol;golgi apparatus,cytosol,golgi apparatus
+1331_G11_3,ENSG00000197712,FAM114A1,enhanced,BJ,cytosol;golgi apparatus;nucleoplasm,cytosol;golgi apparatus,nucleoplasm
+1446_E9_5,ENSG00000204516,MICB,approved,BJ,golgi apparatus;plasma membrane;nucleoplasm,golgi apparatus;plasma membrane,nucleoplasm
+1446_A9_1,ENSG00000233608,TWIST2,supported,BJ,nucleoplasm;nucleoli,nucleoplasm,nucleoli
+1742_H8_12_cr58049484a5b0c,ENSG00000237172,B3GNT9,approved,BJ,golgi apparatus;nucleoli fibrillar center,golgi apparatus,nucleoli fibrillar center
+1331_B2_2,ENSG00000240747,KRBOX1,approved,BJ,nucleoplasm;golgi apparatus,nucleoplasm,golgi apparatus
+1332_B11_1,ENSG00000250305,TRMT9B,approved,BJ,nucleoplasm;cytosol,nucleoplasm,cytosol
+1446_H9_5,ENSG00000253276,CCDC71L,approved,BJ,actin filaments;golgi apparatus;cytosol,actin filaments;golgi apparatus,cytosol
+1331_B4_2,ENSG00000262209,PCDHGB3,approved,BJ,plasma membrane;cytosol;nucleoplasm;vesicles,plasma membrane,cytosol;nucleoplasm;vesicles

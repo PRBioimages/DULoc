@@ -1,0 +1,113 @@
+Img_Id,Gene,Gene name,Reliability,Cell Line,Location,Main,Addition
+1251_H6_2,ENSG00000008323,PLEKHG6,supported,CACO-2,cell junctions;centrosome,cell junctions,centrosome
+1254_H8_4,ENSG00000020577,SAMD4A,approved,CACO-2,cell junctions;cytosol,cell junctions,cytosol
+1026_D5_7,ENSG00000057294,PKP2,enhanced,CACO-2,cell junctions;nucleoplasm,cell junctions,nucleoplasm
+1032_G9_1,ENSG00000062038,CDH3,supported,CACO-2,plasma membrane;cell junctions,plasma membrane,cell junctions
+1027_G10_2,ENSG00000064666,CNN2,approved,CACO-2,cytosol;actin filaments;nucleoplasm,cytosol,actin filaments;nucleoplasm
+1030_A11_3,ENSG00000079112,CDH17,supported,CACO-2,cell junctions;nucleoplasm,cell junctions,nucleoplasm
+1258_D7_2,ENSG00000086200,IPO11,supported,CACO-2,nucleoplasm;cytosol,nucleoplasm,cytosol
+1030_D12_2,ENSG00000100079,LGALS2,approved,CACO-2,mitochondria;nucleoplasm,mitochondria,nucleoplasm
+823_F1_2,ENSG00000100266,PACSIN2,supported,CACO-2,cytosol;nuclear speckles;vesicles;plasma membrane,cytosol;nuclear speckles;vesicles,plasma membrane
+1253_H1_7,ENSG00000101109,STK4,supported,CACO-2,nuclear bodies;cytosol;nucleoplasm,nuclear bodies,cytosol;nucleoplasm
+1026_D2_2,ENSG00000101199,ARFGAP1,supported,CACO-2,golgi apparatus;vesicles;nuclear membrane,golgi apparatus;vesicles,nuclear membrane
+1258_H9_3,ENSG00000101216,GMEB2,enhanced,CACO-2,nucleoplasm;cytosol,nucleoplasm,cytosol
+807_G2_1,ENSG00000101347,SAMHD1,supported,CACO-2,nucleoplasm;plasma membrane,nucleoplasm,plasma membrane
+1255_D6_2,ENSG00000101391,CDK5RAP1,approved,CACO-2,nuclear speckles;mitochondria,nuclear speckles,mitochondria
+1255_C12_3,ENSG00000101407,TTI1,approved,CACO-2,vesicles;nucleoplasm,vesicles,nucleoplasm
+823_E10_2,ENSG00000101417,PXMP4,approved,CACO-2,peroxisomes;nucleoli fibrillar center,peroxisomes,nucleoli fibrillar center
+807_H3_7,ENSG00000101464,PIGU,approved,CACO-2,nucleoplasm;cytosol,nucleoplasm,cytosol
+1258_D3_3,ENSG00000102760,RGCC,supported,CACO-2,nucleoplasm;nucleoli,nucleoplasm,nucleoli
+1030_F5_2,ENSG00000106069,CHN2,approved,CACO-2,nucleoplasm;nuclear bodies,nucleoplasm,nuclear bodies
+1255_G5_1,ENSG00000106524,ANKMY2,approved,CACO-2,cytosol;nucleoplasm,cytosol,nucleoplasm
+1254_E9_2,ENSG00000108256,NUFIP2,supported,CACO-2,nucleoplasm;cytosol;nuclear bodies,nucleoplasm,cytosol;nuclear bodies
+1028_G12_5,ENSG00000109971,HSPA8,approved,CACO-2,nucleoplasm;vesicles,nucleoplasm,vesicles
+1258_H7_2,ENSG00000110245,APOC3,approved,CACO-2,nucleoplasm;cell junctions;nucleoli,nucleoplasm,cell junctions;nucleoli
+1027_B12_8,ENSG00000112773,FAM46A,approved,CACO-2,nucleoplasm;cytosol,nucleoplasm,cytosol
+807_F12_2,ENSG00000115211,EIF2B4,approved,CACO-2,nuclear membrane;actin filaments,nuclear membrane,actin filaments
+1832_F6_1,ENSG00000116017,ARID3A,supported,CACO-2,nucleoplasm;cytosol,nucleoplasm,cytosol
+823_B9_2,ENSG00000118707,TGIF2,enhanced,CACO-2,nucleoplasm;centrosome,nucleoplasm,centrosome
+1027_B1_4,ENSG00000119004,CYP20A1,uncertain,CACO-2,actin filaments;cell junctions;plasma membrane;nucleoplasm,actin filaments;cell junctions;plasma membrane,nucleoplasm
+1832_E8_6,ENSG00000120314,WDR55,enhanced,CACO-2,nucleoplasm;nucleoli,nucleoplasm,nucleoli
+1027_H1_9,ENSG00000120685,PROSER1,approved,CACO-2,nucleoplasm;cytosol,nucleoplasm,cytosol
+1251_H9_2,ENSG00000121440,PDZRN3,supported,CACO-2,cytosol;nucleoplasm,cytosol,nucleoplasm
+1965_G4_3,ENSG00000124091,GCNT7,approved,CACO-2,nuclear bodies;vesicles;cytosol,nuclear bodies;vesicles,cytosol
+1028_F8_2,ENSG00000124207,CSE1L,enhanced,CACO-2,nucleoplasm;cytosol,nucleoplasm,cytosol
+1928_D5_1,ENSG00000124251,TP53TG5,supported,CACO-2,nucleoli;nucleoli rim;mitotic chromosome,nucleoli;nucleoli rim,mitotic chromosome
+1027_H8_3,ENSG00000125977,EIF2S2,supported,CACO-2,endoplasmic reticulum;nucleoli,endoplasmic reticulum,nucleoli
+1525_E5_3,ENSG00000126749,EMG1,supported,CACO-2,nucleoli rim;mitotic chromosome;nucleoplasm,nucleoli rim,mitotic chromosome;nucleoplasm
+1028_G12_5,ENSG00000126803,HSPA2,approved,CACO-2,vesicles;nucleoplasm,vesicles,nucleoplasm
+1261_H4_4,ENSG00000128487,SPECC1,supported,CACO-2,nucleoplasm;vesicles;cytosol;nucleoli fibrillar center,nucleoplasm;vesicles,cytosol;nucleoli fibrillar center
+1635_H1_2,ENSG00000128849,CGNL1,supported,CACO-2,cell junctions;nuclear bodies,cell junctions,nuclear bodies
+1254_C3_3,ENSG00000129173,E2F8,supported,CACO-2,nucleoli;cytosol;nucleoplasm,nucleoli,cytosol;nucleoplasm
+1525_C7_2,ENSG00000132361,CLUH,supported,CACO-2,vesicles;nuclear bodies,vesicles,nuclear bodies
+1549_C10_2,ENSG00000132773,TOE1,enhanced,CACO-2,nuclear bodies;nucleoplasm,nuclear bodies,nucleoplasm
+1258_E4_3,ENSG00000133477,FAM83F,approved,CACO-2,mitochondria;nucleoplasm,mitochondria,nucleoplasm
+1928_A2_2,ENSG00000134058,CDK7,supported,CACO-2,nucleoplasm;cytosol;nucleoli fibrillar center;plasma membrane,nucleoplasm,cytosol;nucleoli fibrillar center;plasma membrane
+1721_E1_25_cr5ed0ca2b3b38a,ENSG00000135638,EMX1,supported,CACO-2,nucleoli;nucleoli rim;mitotic chromosome,nucleoli;nucleoli rim,mitotic chromosome
+1240_E2_1,ENSG00000135917,SLC19A3,approved,CACO-2,nucleoplasm;cytosol;plasma membrane,nucleoplasm,cytosol;plasma membrane
+1261_G4_3,ENSG00000135974,C2orf49,supported,CACO-2,nucleoplasm;mitochondria,nucleoplasm,mitochondria
+1832_G10_4,ENSG00000136504,KAT7,supported,CACO-2,nucleoplasm;cytosol,nucleoplasm,cytosol
+1240_A7_4,ENSG00000137843,PAK6,approved,CACO-2,nucleoli fibrillar center;nucleoplasm;cell junctions,nucleoli fibrillar center;nucleoplasm,cell junctions
+1240_A6_1,ENSG00000138670,RASGEF1B,approved,CACO-2,nucleoplasm;vesicles,nucleoplasm,vesicles
+1032_A11_1,ENSG00000139146,SINHCAF,approved,CACO-2,nucleoplasm;cytosol,nucleoplasm,cytosol
+1549_C4_2,ENSG00000143147,GPR161,approved,CACO-2,nucleoplasm;nucleoli,nucleoplasm,nucleoli
+1259_D5_1,ENSG00000143190,POU2F1,supported,CACO-2,nucleoplasm;vesicles;endoplasmic reticulum,nucleoplasm;vesicles,endoplasmic reticulum
+1028_H2_2,ENSG00000145041,DCAF1,supported,CACO-2,nucleoplasm;nucleoli fibrillar center,nucleoplasm,nucleoli fibrillar center
+1239_E6_1,ENSG00000148200,NR6A1,enhanced,CACO-2,nucleoplasm;centrosome;cytosol,nucleoplasm,centrosome;cytosol
+1549_H6_4,ENSG00000150054,MPP7,supported,CACO-2,cell junctions;nucleoplasm,cell junctions,nucleoplasm
+1520_B2_5,ENSG00000150672,DLG2,approved,CACO-2,plasma membrane;vesicles,plasma membrane,vesicles
+1028_D2_2,ENSG00000151327,FAM177A1,approved,CACO-2,vesicles;nucleoplasm,vesicles,nucleoplasm
+1525_F6_2,ENSG00000151650,VENTX,uncertain,CACO-2,nucleoli fibrillar center;cytosol,nucleoli fibrillar center,cytosol
+1259_E12_2,ENSG00000152689,RASGRP3,approved,CACO-2,nucleoplasm;golgi apparatus,nucleoplasm,golgi apparatus
+1525_A8_4,ENSG00000158486,DNAH3,approved,CACO-2,nuclear membrane;intermediate filaments,nuclear membrane,intermediate filaments
+1525_F2_2,ENSG00000159618,ADGRG5,approved,CACO-2,nuclear membrane;vesicles;nucleoplasm,nuclear membrane;vesicles,nucleoplasm
+1259_A11_4,ENSG00000161202,DVL3,approved,CACO-2,centrosome;midbody ring;intermediate filaments,centrosome;midbody ring,intermediate filaments
+1027_H6_7,ENSG00000161921,CXCL16,approved,CACO-2,golgi apparatus;vesicles,golgi apparatus,vesicles
+1526_B2_1,ENSG00000162408,NOL9,supported,CACO-2,nucleoli;intermediate filaments,nucleoli,intermediate filaments
+1032_E9_1,ENSG00000164076,CAMKV,approved,CACO-2,nucleoplasm;cytokinetic bridge,nucleoplasm,cytokinetic bridge
+1239_E1_2,ENSG00000166317,SYNPO2L,supported,CACO-2,nuclear speckles;cell junctions;cytosol,nuclear speckles,cell junctions;cytosol
+1030_B7_2,ENSG00000167244,IGF2,approved,CACO-2,vesicles;cytosol;nucleoplasm,vesicles,cytosol;nucleoplasm
+1027_B5_2,ENSG00000167641,PPP1R14A,supported,CACO-2,nucleoplasm;nuclear bodies,nucleoplasm,nuclear bodies
+1519_C2_1,ENSG00000167723,TRPV3,approved,CACO-2,plasma membrane;centrosome;cytosol,plasma membrane,centrosome;cytosol
+1028_D5_1,ENSG00000167755,KLK6,supported,CACO-2,nucleoplasm;cytokinetic bridge;nuclear membrane,nucleoplasm,cytokinetic bridge;nuclear membrane
+1261_H9_1,ENSG00000169220,RGS14,approved,CACO-2,nucleoplasm;intermediate filaments;plasma membrane;vesicles,nucleoplasm,intermediate filaments;plasma membrane;vesicles
+1027_D12_5,ENSG00000170085,SIMC1,supported,CACO-2,nucleoplasm;nucleoli fibrillar center,nucleoplasm,nucleoli fibrillar center
+823_F9_1,ENSG00000170234,PWWP2A,supported,CACO-2,nucleoplasm;focal adhesion sites,nucleoplasm,focal adhesion sites
+1519_G3_1,ENSG00000170633,RNF34,supported,CACO-2,nucleoplasm;nuclear bodies,nucleoplasm,nuclear bodies
+1524_B4_2,ENSG00000170703,TTLL6,approved,CACO-2,microtubules;vesicles,microtubules,vesicles
+1041_D2_2,ENSG00000171700,RGS19,supported,CACO-2,cell junctions;nucleoli fibrillar center,cell junctions,nucleoli fibrillar center
+1549_A7_1,ENSG00000172575,RASGRP1,supported,CACO-2,cytosol;plasma membrane,cytosol,plasma membrane
+1028_G12_5,ENSG00000173110,HSPA6,approved,CACO-2,vesicles;nucleoplasm,vesicles,nucleoplasm
+1722_A4_32,ENSG00000173706,HEG1,approved,CACO-2,vesicles;plasma membrane,vesicles,plasma membrane
+1261_F10_3,ENSG00000176087,SLC35A4,approved,CACO-2,nucleoplasm;cytosol,nucleoplasm,cytosol
+1524_B2_1,ENSG00000178171,AMER3,approved,CACO-2,nuclear bodies;cytosol;nucleoplasm,nuclear bodies,cytosol;nucleoplasm
+1255_C7_1,ENSG00000178202,KDELC2,approved,CACO-2,nucleoplasm;vesicles,nucleoplasm,vesicles
+1027_A3_3,ENSG00000178605,GTPBP6,approved,CACO-2,mitochondria;nucleoplasm,mitochondria,nucleoplasm
+1240_G8_1,ENSG00000178796,RIIAD1,approved,CACO-2,cytosol;nucleoplasm,cytosol,nucleoplasm
+1253_F10_8,ENSG00000179528,LBX2,approved,CACO-2,nucleoplasm;midbody,nucleoplasm,midbody
+1240_D11_7,ENSG00000180340,FZD2,approved,CACO-2,nuclear bodies;nucleoplasm;cell junctions,nuclear bodies;nucleoplasm,cell junctions
+1520_F10_1,ENSG00000181418,DDN,supported,CACO-2,nucleoplasm;cytosol,nucleoplasm,cytosol
+1525_A12_4,ENSG00000182472,CAPN12,approved,CACO-2,focal adhesion sites;nucleoplasm,focal adhesion sites,nucleoplasm
+1928_H11_2,ENSG00000182575,NXPH3,approved,CACO-2,vesicles;mitotic spindle,vesicles,mitotic spindle
+1239_B5_3,ENSG00000184012,TMPRSS2,approved,CACO-2,plasma membrane;nucleoplasm,plasma membrane,nucleoplasm
+1028_D9_1,ENSG00000184368,MAP7D2,approved,CACO-2,nucleoplasm;cytosol,nucleoplasm,cytosol
+1254_F7_1,ENSG00000184675,AMER1,supported,CACO-2,nuclear bodies;plasma membrane;vesicles,nuclear bodies,plasma membrane;vesicles
+1253_B6_1,ENSG00000186603,HPDL,supported,CACO-2,mitochondria;nucleoplasm,mitochondria,nucleoplasm
+807_E3_3,ENSG00000187736,NHEJ1,supported,CACO-2,nucleoplasm;nucleoli fibrillar center,nucleoplasm,nucleoli fibrillar center
+1251_F4_2,ENSG00000189120,SP6,supported,CACO-2,nucleoplasm;centrosome;mitotic spindle,nucleoplasm,centrosome;mitotic spindle
+1261_H10_2,ENSG00000196074,SYCP2,supported,CACO-2,nucleoplasm;cytosol;plasma membrane,nucleoplasm,cytosol;plasma membrane
+1524_G6_1,ENSG00000198216,CACNA1E,approved,CACO-2,plasma membrane;actin filaments;cytosol,plasma membrane,actin filaments;cytosol
+1520_A1_3,ENSG00000204334,ERICH2,approved,CACO-2,nucleoli fibrillar center;vesicles,nucleoli fibrillar center,vesicles
+1028_G12_5,ENSG00000204390,HSPA1L,approved,CACO-2,vesicles;nucleoplasm,vesicles,nucleoplasm
+1258_D5_2,ENSG00000205517,RGL3,uncertain,CACO-2,nucleoplasm;cytosol,nucleoplasm,cytosol
+823_B2_1,ENSG00000212719,C17orf51,approved,CACO-2,nuclear bodies;nucleoplasm;vesicles,nuclear bodies;nucleoplasm,vesicles
+807_G1_3,ENSG00000213523,SRA1,supported,CACO-2,nucleoplasm;cytosol;microtubules,nucleoplasm,cytosol;microtubules
+1026_C3_2,ENSG00000213901,SLC23A3,approved,CACO-2,nucleoplasm;cell junctions,nucleoplasm,cell junctions
+1032_G2_1,ENSG00000214102,WEE2,enhanced,CACO-2,nucleoplasm;cytosol,nucleoplasm,cytosol
+1239_G4_3,ENSG00000216588,IGSF23,approved,CACO-2,nucleoplasm;cell junctions,nucleoplasm,cell junctions
+1026_E12_3,ENSG00000226887,ERVMER34-1,approved,CACO-2,nucleoplasm;cytosol,nucleoplasm,cytosol
+1030_E10_3,ENSG00000244187,TMEM141,supported,CACO-2,mitochondria;cell junctions,mitochondria,cell junctions
+1549_E6_1,ENSG00000245848,CEBPA,approved,CACO-2,nucleoplasm;vesicles,nucleoplasm,vesicles
+1240_A7_4,ENSG00000259288,BUB1B-PAK6,approved,CACO-2,nucleoli fibrillar center;nucleoplasm;cell junctions,nucleoli fibrillar center;nucleoplasm,cell junctions
+1731_A2_8_cr57ee219c3bb7c,ENSG00000262655,SPON1,approved,CACO-2,microtubule ends;nucleoli;actin filaments;cytokinetic bridge;nucleoplasm,microtubule ends;nucleoli,actin filaments;cytokinetic bridge;nucleoplasm
+1032_D7_1,ENSG00000275410,HNF1B,supported,CACO-2,nucleoplasm;vesicles,nucleoplasm,vesicles

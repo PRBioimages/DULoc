@@ -1,0 +1,22 @@
+Img_Id,Gene,Gene name,Reliability,Cell Line,Location,Main,Addition
+1876_A9_21_cr5b71682d09483,ENSG00000050426,LETMD1,supported,ASC TERT1,mitochondria;nucleoli;nucleoplasm,mitochondria,nucleoli;nucleoplasm
+1876_C4_16_cr5b715e3079069,ENSG00000106819,ASPN,uncertain,ASC TERT1,nucleoplasm;cytosol,nucleoplasm,cytosol
+9_G6_1,ENSG00000111727,HCFC2,supported,ASC TERT1,nucleoplasm;cytosol;plasma membrane,nucleoplasm,cytosol;plasma membrane
+1774_C4_13_cr5950fa3646972,ENSG00000113721,PDGFRB,supported,ASC TERT1,vesicles;golgi apparatus,vesicles,golgi apparatus
+1876_F7_37,ENSG00000115841,RMDN2,supported,ASC TERT1,cytosol;mitotic spindle;golgi apparatus,cytosol;mitotic spindle,golgi apparatus
+1876_D12_30_cr5b6d4056ed63a,ENSG00000121769,FABP3,uncertain,ASC TERT1,focal adhesion sites;golgi apparatus;plasma membrane,focal adhesion sites,golgi apparatus;plasma membrane
+1775_H4_33,ENSG00000127083,OMD,approved,ASC TERT1,endoplasmic reticulum;nucleoli fibrillar center,endoplasmic reticulum,nucleoli fibrillar center
+1749_D10_13_cr5804b3ac71a24,ENSG00000131386,GALNT15,approved,ASC TERT1,golgi apparatus;cytosol,golgi apparatus,cytosol
+1774_G7_23_cr595293e11cc3a,ENSG00000133048,CHI3L1,approved,ASC TERT1,golgi apparatus;vesicles,golgi apparatus,vesicles
+1749_E4_18_cr5804bab353444,ENSG00000141338,ABCA8,approved,ASC TERT1,nucleoplasm;cytosol,nucleoplasm,cytosol
+1750_C7_18_cr57fb8365be763,ENSG00000144285,SCN1A,supported,ASC TERT1,nucleoplasm;plasma membrane;nuclear bodies,nucleoplasm;plasma membrane,nuclear bodies
+1750_A5_18_cr57fb7a70a1b8d,ENSG00000149260,CAPN5,approved,ASC TERT1,nucleoplasm;cytosol,nucleoplasm,cytosol
+1876_G4_26_cr5b7167eac2cf3,ENSG00000156535,CD109,supported,ASC TERT1,plasma membrane;cytosol,plasma membrane,cytosol
+1876_A7_37,ENSG00000163359,COL6A3,approved,ASC TERT1,endoplasmic reticulum;vesicles,endoplasmic reticulum,vesicles
+1876_D4_26_cr5b715fa48f144,ENSG00000168398,BDKRB2,supported,ASC TERT1,plasma membrane;golgi apparatus;vesicles,plasma membrane,golgi apparatus;vesicles
+1775_B6_28_cr595295eea2607,ENSG00000171951,SCG2,approved,ASC TERT1,golgi apparatus;vesicles,golgi apparatus,vesicles
+1774_B3_8_cr595df1a346e7a,ENSG00000174807,CD248,approved,ASC TERT1,plasma membrane;nucleoplasm,plasma membrane,nucleoplasm
+1749_D5_23_cr5804c0e80081f,ENSG00000178852,EFCAB13,enhanced,ASC TERT1,cytosol;nucleoplasm;nuclear speckles,cytosol;nucleoplasm,nuclear speckles
+1876_G10_31,ENSG00000198483,ANKRD35,approved,ASC TERT1,plasma membrane;nucleoplasm,plasma membrane,nucleoplasm
+1774_A6_7_cr5950f70db2b4c,ENSG00000221818,EBF2,approved,ASC TERT1,nucleoplasm;nuclear bodies,nucleoplasm,nuclear bodies
+1749_A9_28_cr5804bcaa17056,ENSG00000243649,CFB,approved,ASC TERT1,endoplasmic reticulum;vesicles;cell junctions,endoplasmic reticulum;vesicles,cell junctions

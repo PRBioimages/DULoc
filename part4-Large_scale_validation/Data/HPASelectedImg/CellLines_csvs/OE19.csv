@@ -1,0 +1,7 @@
+Img_Id,Gene,Gene name,Reliability,Cell Line,Location,Main,Addition
+1971_D2_1,ENSG00000100033,PRODH,approved,OE19,mitochondria;nucleoplasm;vesicles,mitochondria,nucleoplasm;vesicles
+1971_H4_1,ENSG00000100249,C22orf31,approved,OE19,nuclear membrane;cytosol,nuclear membrane,cytosol
+1971_F1_2,ENSG00000135773,CAPN9,approved,OE19,vesicles;golgi apparatus,vesicles,golgi apparatus
+1971_E7_1,ENSG00000141741,MIEN1,supported,OE19,plasma membrane;centriolar satellite;cytosol;nucleoplasm,plasma membrane,centriolar satellite;cytosol;nucleoplasm
+1971_E11_2,ENSG00000150750,C11orf53,approved,OE19,nucleoplasm;vesicles,nucleoplasm,vesicles
+1971_D2_1,ENSG00000277196,AC007325.2,approved,OE19,mitochondria;nucleoplasm;vesicles,mitochondria,nucleoplasm;vesicles

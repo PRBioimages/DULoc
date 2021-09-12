@@ -1,0 +1,8 @@
+Img_Id,Gene,Gene name,Reliability,Cell Line,Location,Main,Addition
+1970_B7_1,ENSG00000158485,CD1B,approved,JURKAT,golgi apparatus;vesicles;cytosol,golgi apparatus;vesicles,cytosol
+1970_D3_1,ENSG00000162194,LBHD1,approved,JURKAT,nucleoplasm;cytosol,nucleoplasm,cytosol
+1970_D4_3,ENSG00000163519,TRAT1,enhanced,JURKAT,plasma membrane;centriolar satellite;mitotic spindle,plasma membrane,centriolar satellite;mitotic spindle
+2010_F3_1,ENSG00000169840,GSX1,approved,JURKAT,golgi apparatus;cytosol;nucleoplasm,golgi apparatus,cytosol;nucleoplasm
+2010_E1_4,ENSG00000172554,SNTG2,supported,JURKAT,plasma membrane;nucleoplasm,plasma membrane,nucleoplasm
+2010_C12_3,ENSG00000179564,LSMEM2,approved,JURKAT,plasma membrane;nucleoplasm,plasma membrane,nucleoplasm
+2010_C4_1,ENSG00000187239,FNBP1,supported,JURKAT,plasma membrane;vesicles,plasma membrane,vesicles

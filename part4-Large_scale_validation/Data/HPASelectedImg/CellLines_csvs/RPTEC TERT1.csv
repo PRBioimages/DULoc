@@ -1,0 +1,16 @@
+Img_Id,Gene,Gene name,Reliability,Cell Line,Location,Main,Addition
+1788_F2_1_cr5970b8255311f,ENSG00000074803,SLC12A1,approved,RPTEC TERT1,vesicles;nucleoplasm,vesicles,nucleoplasm
+1789_A11_1_cr5961fc340c048,ENSG00000076716,GPC4,approved,RPTEC TERT1,plasma membrane;nucleoplasm,plasma membrane,nucleoplasm
+1789_A5_9_cr597063c33efc9,ENSG00000112796,ENPP5,approved,RPTEC TERT1,cytosol;nucleoplasm,cytosol,nucleoplasm
+1788_D2_20_cr596dfa2c831e9,ENSG00000138079,SLC3A1,approved,RPTEC TERT1,mitochondria;nuclear bodies,mitochondria,nuclear bodies
+1787_H4_7_cr5968c4f251dc0,ENSG00000141293,SKAP1,approved,RPTEC TERT1,nucleoplasm;plasma membrane;cytosol,nucleoplasm;plasma membrane,cytosol
+1789_F8_28_cr59c4d0044eaac,ENSG00000146038,DCDC2,enhanced,RPTEC TERT1,cytosol;mitotic spindle;centriolar satellite;microtubules,cytosol;mitotic spindle,centriolar satellite;microtubules
+1787_B5_33,ENSG00000151364,KCTD14,approved,RPTEC TERT1,nucleoplasm;cytosol;vesicles,nucleoplasm,cytosol;vesicles
+1789_D11_29_cr5961f93b9f4b8,ENSG00000155792,DEPTOR,supported,RPTEC TERT1,mitochondria;nucleoplasm,mitochondria,nucleoplasm
+1788_E8_17_cr5971fcb00a73f,ENSG00000157765,SLC34A2,supported,RPTEC TERT1,plasma membrane;cytosol;nucleoplasm,plasma membrane,cytosol;nucleoplasm
+1789_A1_28_cr595496f4ec7a0,ENSG00000162366,PDZK1IP1,approved,RPTEC TERT1,cytosol;nuclear speckles,cytosol,nuclear speckles
+1789_F3_29_cr596f1f58dd5ed,ENSG00000164675,IQUB,approved,RPTEC TERT1,intermediate filaments;nuclear speckles;cytosol,intermediate filaments;nuclear speckles,cytosol
+1789_F11_1_cr5961f77201808,ENSG00000171243,SOSTDC1,uncertain,RPTEC TERT1,golgi apparatus;nucleoli;nucleoli rim;vesicles,golgi apparatus,nucleoli;nucleoli rim;vesicles
+1789_G6_1_cr598ae6e7b6423,ENSG00000172005,MAL,approved,RPTEC TERT1,golgi apparatus;centrosome,golgi apparatus,centrosome
+1788_B11_5_cr59720b9988f9c,ENSG00000173930,SLCO4C1,approved,RPTEC TERT1,plasma membrane;cytosol;nucleoplasm,plasma membrane,cytosol;nucleoplasm
+1789_C5_32,ENSG00000174827,PDZK1,approved,RPTEC TERT1,nucleoplasm;vesicles;cytosol,nucleoplasm;vesicles,cytosol

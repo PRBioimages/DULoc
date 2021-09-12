@@ -1,0 +1,32 @@
+Img_Id,Gene,Gene name,Reliability,Cell Line,Location,Main,Addition
+1854_F7_2,ENSG00000007264,MATK,approved,K-562,microtubules;centriolar satellite;cytokinetic bridge;cytosol;mitotic spindle,microtubules,centriolar satellite;cytokinetic bridge;cytosol;mitotic spindle
+1854_H6_7,ENSG00000046774,MAGEC2,supported,K-562,nucleoplasm;cytosol,nucleoplasm,cytosol
+1854_H1_3,ENSG00000099904,ZDHHC8,approved,K-562,cytosol;nucleoplasm,cytosol,nucleoplasm
+1993_G10_3,ENSG00000110324,IL10RA,supported,K-562,plasma membrane;cytosol,plasma membrane,cytosol
+1892_C3_1,ENSG00000119715,ESRRB,supported,K-562,nucleoplasm;cytosol,nucleoplasm,cytosol
+1854_E5_5,ENSG00000124092,CTCFL,approved,K-562,nuclear bodies;nucleoplasm;cytosol,nuclear bodies;nucleoplasm,cytosol
+1854_F5_1,ENSG00000126890,CTAG2,enhanced,K-562,nucleoplasm;vesicles;nuclear bodies,nucleoplasm;vesicles,nuclear bodies
+1854_G1_4,ENSG00000131721,RHOXF2,approved,K-562,plasma membrane;nucleoplasm,plasma membrane,nucleoplasm
+1854_D11_2,ENSG00000155962,CLIC2,supported,K-562,cytosol;plasma membrane;nucleoplasm,cytosol;plasma membrane,nucleoplasm
+1854_F3_5,ENSG00000156269,NAA11,supported,K-562,nucleoplasm;centrosome;cytosol;golgi apparatus,nucleoplasm,centrosome;cytosol;golgi apparatus
+1854_B3_1,ENSG00000171772,SYCE1,uncertain,K-562,nucleoplasm;cytosol;vesicles,nucleoplasm,cytosol;vesicles
+1854_E10_3,ENSG00000173728,C1orf100,approved,K-562,nucleoplasm;cytosol;nuclear bodies,nucleoplasm,cytosol;nuclear bodies
+1854_H9_3,ENSG00000178021,TSPYL6,approved,K-562,nucleoplasm;cytosol;nucleoli,nucleoplasm,cytosol;nucleoli
+1854_B10_2,ENSG00000180116,C12orf40,approved,K-562,golgi apparatus;cytosol,golgi apparatus,cytosol
+1854_F8_3,ENSG00000181433,SAGE1,enhanced,K-562,nucleoplasm;nuclear bodies,nucleoplasm,nuclear bodies
+1854_E1_1,ENSG00000184735,DDX53,supported,K-562,nucleoplasm;cytosol;nucleoli,nucleoplasm,cytosol;nucleoli
+1854_A5_4,ENSG00000185686,PRAME,approved,K-562,nucleoplasm;plasma membrane,nucleoplasm,plasma membrane
+1854_H5_2,ENSG00000189023,MAGEB16,approved,K-562,nucleoplasm;centrosome,nucleoplasm,centrosome
+1854_C2_2,ENSG00000189064,GAGE2A,approved,K-562,plasma membrane;cytosol;golgi apparatus,plasma membrane,cytosol;golgi apparatus
+1854_G1_4,ENSG00000203989,RHOXF2B,approved,K-562,plasma membrane;nucleoplasm,plasma membrane,nucleoplasm
+1854_C2_2,ENSG00000205777,GAGE1,approved,K-562,plasma membrane;cytosol;golgi apparatus,plasma membrane,cytosol;golgi apparatus
+1854_C2_2,ENSG00000215269,GAGE12G,approved,K-562,plasma membrane;cytosol;golgi apparatus,plasma membrane,cytosol;golgi apparatus
+1854_C2_2,ENSG00000215274,GAGE10,uncertain,K-562,plasma membrane;cytosol;golgi apparatus,plasma membrane,cytosol;golgi apparatus
+1854_C2_2,ENSG00000216649,GAGE12E,uncertain,K-562,plasma membrane;cytosol;golgi apparatus,plasma membrane,cytosol;golgi apparatus
+1854_C2_2,ENSG00000224659,GAGE12J,approved,K-562,plasma membrane;cytosol;golgi apparatus,plasma membrane,cytosol;golgi apparatus
+1854_C2_2,ENSG00000224902,GAGE12H,approved,K-562,plasma membrane;cytosol;golgi apparatus,plasma membrane,cytosol;golgi apparatus
+1854_C2_2,ENSG00000227488,GAGE12D,approved,K-562,plasma membrane;cytosol;golgi apparatus,plasma membrane,cytosol;golgi apparatus
+1854_C2_2,ENSG00000236362,GAGE12F,approved,K-562,plasma membrane;cytosol;golgi apparatus,plasma membrane,cytosol;golgi apparatus
+1854_C2_2,ENSG00000237671,GAGE12C,approved,K-562,plasma membrane;cytosol;golgi apparatus,plasma membrane,cytosol;golgi apparatus
+1854_C2_2,ENSG00000274274,GAGE13,approved,K-562,plasma membrane;cytosol;golgi apparatus,plasma membrane,cytosol;golgi apparatus
+1854_C2_2,ENSG00000275113,GAGE2E,approved,K-562,plasma membrane;cytosol;golgi apparatus,plasma membrane,cytosol;golgi apparatus

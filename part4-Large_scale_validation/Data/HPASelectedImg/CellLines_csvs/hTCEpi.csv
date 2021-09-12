@@ -1,0 +1,16 @@
+Img_Id,Gene,Gene name,Reliability,Cell Line,Location,Main,Addition
+1790_H3_4,ENSG00000065618,COL17A1,supported,hTCEpi,plasma membrane;golgi apparatus,plasma membrane,golgi apparatus
+1790_F1_6,ENSG00000105141,CASP14,approved,hTCEpi,cytosol;nucleoplasm;mitochondria,cytosol;nucleoplasm,mitochondria
+1791_A3_3,ENSG00000125848,FLRT3,supported,hTCEpi,plasma membrane;cell junctions;cytosol,plasma membrane,cell junctions;cytosol
+1791_E3_1,ENSG00000127366,TAS2R5,approved,hTCEpi,nucleoli;nucleoplasm;cytoplasmic bodies,nucleoli;nucleoplasm,cytoplasmic bodies
+1791_D2_2,ENSG00000129151,BBOX1,uncertain,hTCEpi,vesicles;actin filaments,vesicles,actin filaments
+1791_A2_3,ENSG00000130598,TNNI2,approved,hTCEpi,plasma membrane;intermediate filaments,plasma membrane,intermediate filaments
+1790_F6_4,ENSG00000144452,ABCA12,approved,hTCEpi,plasma membrane;vesicles;cytosol;nucleoli,plasma membrane;vesicles,cytosol;nucleoli
+1790_D5_1,ENSG00000148175,STOM,enhanced,hTCEpi,plasma membrane;cytosol;vesicles,plasma membrane,cytosol;vesicles
+1790_E6_2,ENSG00000167914,GSDMA,supported,hTCEpi,cytosol;plasma membrane;nuclear bodies;nucleoplasm,cytosol;plasma membrane,nuclear bodies;nucleoplasm
+1790_G3_5,ENSG00000174564,IL20RB,approved,hTCEpi,vesicles;cytosol,vesicles,cytosol
+1790_D6_5,ENSG00000174950,CD164L2,approved,hTCEpi,cytosol;plasma membrane,cytosol,plasma membrane
+1790_A4_1,ENSG00000178750,STX19,approved,hTCEpi,intermediate filaments;cytosol,intermediate filaments,cytosol
+1790_E8_4,ENSG00000182585,EPGN,approved,hTCEpi,cytosol;nucleoplasm;vesicles,cytosol;nucleoplasm,vesicles
+1790_C1_2,ENSG00000204103,MAFB,approved,hTCEpi,nucleoplasm;cytosol;golgi apparatus;nucleoli,nucleoplasm,cytosol;golgi apparatus;nucleoli
+1790_C3_3,ENSG00000275489,C17orf98,approved,hTCEpi,intermediate filaments;nucleoli,intermediate filaments,nucleoli

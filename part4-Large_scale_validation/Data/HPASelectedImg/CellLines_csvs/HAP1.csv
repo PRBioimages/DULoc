@@ -1,0 +1,17 @@
+Img_Id,Gene,Gene name,Reliability,Cell Line,Location,Main,Addition
+1918_D10_5_cr5cb483533dc11,ENSG00000040199,PHLPP2,supported,HAP1,cytosol;cytokinetic bridge;mitotic spindle;nucleoplasm,cytosol,cytokinetic bridge;mitotic spindle;nucleoplasm
+1918_B1_5,ENSG00000076382,SPAG5,supported,HAP1,mitotic spindle;nuclear bodies;cytosol,mitotic spindle;nuclear bodies,cytosol
+1852_C2_30_cr5afd2d6acd649,ENSG00000078596,ITM2A,approved,HAP1,vesicles;golgi apparatus;plasma membrane,vesicles,golgi apparatus;plasma membrane
+1852_A7_33,ENSG00000105143,SLC1A6,supported,HAP1,plasma membrane;intermediate filaments,plasma membrane,intermediate filaments
+1973_A2_6_cr5de78c95570c7,ENSG00000119446,RBM18,enhanced,HAP1,nucleoplasm;cytokinetic bridge;cytosol,nucleoplasm,cytokinetic bridge;cytosol
+1918_H7_32,ENSG00000136541,ERMN,approved,HAP1,plasma membrane;cytosol,plasma membrane,cytosol
+1852_H2_16_cr5afd31dac9033,ENSG00000137571,SLCO5A1,supported,HAP1,plasma membrane;vesicles,plasma membrane,vesicles
+1975_H1_2,ENSG00000140386,SCAPER,supported,HAP1,nuclear speckles;nucleoplasm;cytosol,nuclear speckles;nucleoplasm,cytosol
+1973_B5_31,ENSG00000152672,CLEC4F,approved,HAP1,plasma membrane;cytosol,plasma membrane,cytosol
+1973_G1_3_cr5de788bd33091,ENSG00000162641,AKNAD1,approved,HAP1,cytosol;cytokinetic bridge;microtubules,cytosol,cytokinetic bridge;microtubules
+1850_A3_31,ENSG00000164045,CDC25A,approved,HAP1,nucleoplasm;golgi apparatus,nucleoplasm,golgi apparatus
+1852_E4_16_cr5afd4342eb471,ENSG00000165588,OTX2,supported,HAP1,nucleoplasm;vesicles,nucleoplasm,vesicles
+1852_F10_17_cr5afd374e93569,ENSG00000171357,LURAP1,supported,HAP1,cytosol;vesicles,cytosol,vesicles
+1851_C5_33,ENSG00000198739,LRRTM3,supported,HAP1,nucleoplasm;nuclear bodies,nucleoplasm,nuclear bodies
+1852_F9_33,ENSG00000254093,PINX1,supported,HAP1,nucleoli;mitochondria;nucleoplasm,nucleoli,mitochondria;nucleoplasm
+1850_G3_32,ENSG00000276644,DACH1,supported,HAP1,nucleoplasm;golgi apparatus,nucleoplasm,golgi apparatus
