@@ -8,3 +8,5 @@ The deep learning model, Bestfitting, can be obtained by ‘https://github.com/C
 ## 3 part3 Unmixing methods
 Before running, replace '.\functions\RNNMF' in .\functions\do_RNNMF.mat with full path of 'RNNMF'.
 Run MasterSamples.m.
+## 4 part4 Large-scale validation experiment
+Run the codes in part4-Large_scale_validation\code step by step.
