@@ -13,7 +13,7 @@ def run_nnmf_fun(mat_path):
 
     base_size = np.shape(base_arr)[0]
     X = np.transpose(mix_arr)
-    basis, coeff, outlier, obj = robust_NMF(X, base_arr.T, base_size, 1, 'NMF', 0.08, 1, 1e-9, 20000, 10000, None)
+    basis, coeff, outlier, obj = robust_NMF(X, base_arr.T, base_size, 1, 'nndsvdar', 0.08, 1, 1e-9, 20000, 10000, None)
     isexchange = coefficient_exchange(base_arr, mix_arr, coeff)
     if isexchange == True:
         coeff[[0, 1], :] = coeff[[1, 0], :]
@@ -29,8 +29,8 @@ def coefficient_exchange(base_arr, mix_arr, raw_coeff):
 
     mix1 = np.dot(rawT_coeff, basis1)
     mix2 = np.dot(rawT_coeff, basis2)
-
-    if np.sum(point_2d_squared(mix_arr-mix1)) >= np.sum(point_2d_squared(mix_arr-mix2)):
+    if beta_divergence(mix_arr, mix1, 1)>=beta_divergence(mix_arr, mix2, 1):
+    # if np.sum(point_2d_squared(mix_arr-mix1)) >= np.sum(point_2d_squared(mix_arr-mix2)):
         isexchange = True
     return isexchange
 
