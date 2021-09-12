@@ -7,8 +7,8 @@ function [R, MSE, alpha_coeff] = do_RNNMF(MixSet,BaseSet,RateSet)
 %     insert(py.sys.path,int32(0),'D:\Temp_EDisk\DULoc_codes\part3-Unmixing_methods\functions\RNNMF');
 % end
 
-if count(py.sys.path,'.\function\RNNMF') == 0
-    insert(py.sys.path,int32(0),'.\function\RNNMF');
+if count(py.sys.path,'.\functions\RNNMF') == 0
+    insert(py.sys.path,int32(0),'.\functions\RNNMF');
 end
 TempFolder = 'NNMF_Temp';
 if ~exist(TempFolder,'dir')
